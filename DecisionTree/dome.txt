@@ -1,0 +1,14 @@
+sunny    85    85    FALSE    Don't Play
+sunny    80    90    True    Don't Play
+overcast    83    78    FALSE    Play
+rain    70    96    FALSE    Play
+rain    68    80    FALSE    Play
+rain    65    70    True    Don't Play
+overcast    64    65    True    Play
+sunny    72    95    FALSE    Don't Play
+sunny    69    70    FALSE    Play
+rain    75    80    FALSE    Play
+sunny    75    70    True    Play
+overcast    72    90    True    Play
+overcast    81    75    FALSE    Play
+rain    71    80    True    Don't Play

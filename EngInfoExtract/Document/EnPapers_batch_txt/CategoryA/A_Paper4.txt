@@ -1,0 +1,317 @@
+Electrochimica Acta 75 (2012) 357–359
+Contents lists available at SciVerse ScienceDirect
+Electrochimica Acta
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / e l e c t a c t a
+Electrochemical synthesis of titanium oxycarbide in a CaCl2 based molten salt
+Linlin Zhang a,b , Shubo Wang a,b , Shuqiang Jiao a,b,∗ , Kai Huang b , Hongmin Zhu a,b,∗
+a State Key Laboratory of Advanced Metallurgy, University of Science and Technology Beijing, Beijing 100083, PR China
+b School of Metallurgical and Ecological Engineering, University of Science and Technology Beijing, Beijing 100083, PR China
+a r t i c l e
+i n f o
+a b s t r a c t
+Titanium oxycarbide (TiCxOy ) was successfully prepared by an electro-deoxidation of TiO2 /C composite
+cathode in molten calcium chloride at 900 ◦ C. The composite cathode was prepared by adding an amount
+of carbon into TiO2 powders. By using X-rays diffraction and scanning electron microscopy, it was found
+that the presence of carbon resulted in changes in reaction mechanism and accelerated the rate of elec-
+trochemical reaction. The results suggested that the electrochemical reduction of TiO2 /C composite was
+the following: ﬁrstly titanium dioxide was reduced to TiOn (0 < n < 1) along with the formation of CaTiO3 .
+Then, TiOn (0 < n < 1) reacted with carbon to TiCxOy .
+© 2012 Elsevier Ltd. All rights reserved.
+Article history:
+Received 31 March 2012
+Received in revised form 3 May 2012
+Accepted 3 May 2012
+Available online 10 May 2012
+Keywords:
+Titanium oxycarbide
+Electro-deoxidation
+Molten salts
+1. Introduction
+Titanium oxycarbide was found as an intermediate product in
+the process of carbothermic reduction of TiO2 . It possesses some of
+metallic properties such as good electrical and thermal conduc-
+tivity, extreme high hardness and high melting point etc. Some
+of works have been conducted on the preparation as well as the
+performance of TiCxOy [1–9]. At present, TiCxOy has been attract-
+ing more and more interest in scientiﬁc research due to its wide
+use in decorative ﬁeld [1–3] and as an anode for electro-extracting
+titanium [4–7].
+Generally, there are two approaches to prepare TiCxOy. One is
+the carbothermic reduction of TiO2 [4,5]. The other involves a heat
+treatment of TiO and TiC at a relatively high temperature [6,7].
+Both of approaches require high vacuum and high temperature. It
+was also reported that TiCxOy ﬁlms could be made through several
+methods such as by a gas–solid combustion [8]. Anyway, the harsh
+conditions inevitably result in a high cost of production so far. It
+is necessary to develop an alternative method to prepare titanium
+oxycarbide with low-cost.
+In the late 1990s, an electro-deoxidation technique was dis-
+covered by the scientists at University of Cambridge. The process
+has been used to successfully prepare numerous metals and alloys
+directly from their respective metal-oxides in CaCl2 based molten
+salts [9–26]. In this process, oxygen in the cathode is ionized and
+transported to the anode via the electrolyte. If a conventionally
+carbon anode is used, O2− will discharge to form CO or CO2 .
+∗ Corresponding authors.
+E-mail addresses: sjiao@ustb.edu.cn (S. Jiao), hzhu@metall.ustb.edu.cn (H. Zhu).
+0013-4686/$ – see front matter © 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.electacta.2012.05.013
+Recently, it has been reported the electro-deoxidation of Nb2O5
+in the presence of additives such as carbon, CaCO3 or CaO to increase
+porosity and the number of the O2− vacancies during the sinter-
+ing process of the solid cathode [25]. The present work is focusing
+on the preparation of titanium oxycarbide (TiCxOy ) by electrolyz-
+ing a TiO2 /C composite in molten CaCl2 electrolyte. The composite
+cathode was prepared by adding an amount of carbon into TiO2
+powders. It is reasonable to expect that the presence of carbon will
+provide more channels for the transmission of electrons, and elec-
+trons accelerating the electrolysis. Thereafter, carbon involved in
+the reduction process could form TiCxOy .
+2. Experimental
+Commercially available TiO2 (AR) and carbon powders (≥99%)
+were selected as the starting materials. The powders were mixed
+using mortar and pestle within a molar proportion of TiO2 :C = 2:1,
+and thereafter uniaxially pressed into a pre-formed pellet (10 mm
+in diameter), which was subsequently calcined in argon at 900 ◦C
+for 6 h in order to give sufﬁcient mechanical strength for connect-
+ing to be an electrode. The cathode was assembled by wrapping
+TiO2 /C pellet by a nickel–chromium alloy wire (0.5 mm in diame-
+ter) and then connecting to a stainless steel rod (6 mm in diameter).
+A graphite rod with a diameter of 10 mm was used to be anode.
+180 g CaCl2 (≥96.0%) was weighed and placed in a well sealed
+vacuum drying oven (180 ◦C) for 24 h. Then, the preliminary pre-
+pared salt was melted in an alumina crucible at 900 ◦C, which was
+placed inside a vertical cylindrical tube furnace reactor. Throughout
+the entire melting process, argon, which was used as the protective
+gas, was constantly passed through the system.
+358
+L. Zhang et al. / Electrochimica Acta 75 (2012) 357–359
+TiCxOy
+y
+t
+i
+s
+n
+e
+t
+n
+I
+10
+20
+30
+40
+60
+70
+80
+90
+50
+2θ /
+º
+Fig. 2. XRD pattern of electrolyzed cathode for 12 h.
+TiO2 /C composite pellet, which is favorable for the penetration of
+molten salts and the diffusion of ionized O2− during electrolysis.
+On the basis of precisely controlling the molar ratio of TiO2 :C as
+2:1, it can be speculate that pure TiCxOy (x = y = 0.5) could be syn-
+thesized through electrolysis of TiO2 /C composite pellet. Indeed,
+the oxygen and carbon content in the ﬁnal cathodic product was
+measured, and the result reveals that the titanium oxycarbide syn-
+thesized is TiC0.5O0.5 . The XRD result shown in Fig. 2 conﬁrms that
+almost single phase TiCxOy is prepared after electrolysis for 12 h
+[4–7].
+A series of interrupted experiments were conducted to investi-
+gate the electrolysis mechanism of TiO2 /C composite cathode, with
+the electrolyzing durations ranging from 0 min to 12 h. Fig. 3 shows
+that the XRD patterns of those as-prepared products obtained with
+different electrolysis durations. XRD pattern (a) presents that a
+small amount of CaTiO3 appeared in the sample quenched after
+30 min of immersion without electrolysis. The results disclose that
+some CaO remained in the molten CaCl2 even the salt has been
+puriﬁed by a pre-melt process. It is known by the corresponding
+Fig. 3. The XRD patterns of pellets electrolyzed for different durations. (a) With
+30 min of immersion without electrolysis; (b) with 5 min electrolysis; (c) with 1.5 h
+electrolysis; (d) with 8 h electrolysis; (e) with 12 h electrolysis.
+Fig. 1. XRD spectra (a) and SEM image (b) of pellet sintered at 900 ◦ C for 6 h.
+After the pre-set temperature was reached, carbon anode was
+immersed into the molten salt, subsequently the cathodic pellet
+was slowly lowered into the electrolyte. Electrolysis was carried
+out with a constant voltage of 3.0 V using a Solatron 1287 working
+station.
+When the electro-deoxidation was terminated, the sample was
+lifted from the melt into the upper part of the reactor and cooled
+naturally under the protection of argon. Then, the electrodes were
+washed by distilled water and acetic acid to remove residual
+salt within the pores of the cathode, and avoid subsequent frag-
+mentation of the electrodes caused by hydration of the calcium
+chloride. Finally, the samples were dried and characterized using X-
+ray diffraction analysis (Model MAC, M21XVHF22) and a scanning
+electron microscope (JEOL, JSM-6480LV) to identify the phase com-
+position and microstructure of the cathodic products. Meanwhile,
+the oxygen and carbon content of the products were quantitatively
+analyzed by using Eltra ONH-2000 analyzer and HORIBA EMIA-
+820V.
+3. Results and discussion
+Fig. 1a indicates XRD pattern of the sintered composite cathode
+pellet in which all peaks visible correspond to TiO2 and C. The result
+presents that no new phase is yielded during the sintering pro-
+cess. The SEM photograph of the sintered composite pellet shown
+in Fig. 1b suggests a compositional homogeneity, with respect to
+the distribution of TiO2 and carbon. Porosity existed in the prepared
+L. Zhang et al. / Electrochimica Acta 75 (2012) 357–359
+359
+TiO2/C/CaTiO3
+TiO/C/CaTiO3
+changed. With the addition of carbon, Magnéli phases such as Ti4O7 ,
+Ti3O5 and Ti2O3 are rapidly skipped, and TiO2 is reduced to be TiO
+directly. The rate of electro-reduction of the pellet was accelerated
+greatly.
+2.0
+1.5
+1.0
+0.5
+0.0
+0.0
+A
+/
+I
+2.0
+1.5
+1.0
+0.5
+0.0
+0
+0.5
+1.0
+1.5
+2.0
+Ti
+2
+O/CaTiO3/TiC
+O
+x
+y
+Ti
+2
+O/TiC
+O
+x
+y
+TiC
+O
+x
+y
+2
+4
+6
+8
+10
+12
+14
+Time / h
+Fig. 4. Correspondence between composition of products and current–time curve
+of electrolyzing TiO2 /C.
+◦
+C
+(1)
+thermodynamic calculations. This suggests that TiO2 can react with
+CaO at 900 ◦C to form CaTiO3 .
+TiO2 + CaO = CaTiO3 , G0 = −88.394 kJ mol
+−1 at900
+The product obtained with a 5 min of electrolysis is found to consist
+predominantly of CaTiO3 and carbon, as well as a large quantity of
+TiO (seen in pattern b). It suggests that TiO2 inside of the compos-
+ite cathode could be directly reduced to be TiO. With prolonging
+the electrolysis time as 1.5 h, a signiﬁcant result is found that the
+product mainly comprises Ti2O, CaTiO3 and a new phase TiCxOy
+(seen in pattern c). Two issues are noteworthy to mention: ﬁrstly,
+TiCxOy shows up with respect to the disappearance of carbon. Sec-
+ondly, carbon could not be involved in reaction until TiO2 is further
+reduced to be Ti2O. The result suggests the following reactions:
+TiO2 + (4 − 2n)e
+− = TiOn + (2 − n)O2−
+(0 < n < 1)
+(2)
+TiOn + xC = TiCxOn (0 < n < 1)
+The electrolysis mechanism of TiO2 /C composite cathode has been
+conﬁrmed by further prolonging electrolysis time up to 12 h. The
+XRD results seen from pattern (d,e) shown in Fig. 3 indicates
+that, with increasing the electrolysis time, the amount of Ti2O
+and CaTiO3 gradually declined with more TiCxOy being identiﬁed.
+Finally, TiCxOy is the almost single phase after electrolysis of 12 h.
+Fig. 4 presents a typical current–time curve recorded during the
+potentiostatic electrolysis at an applied voltage of 3 V, with the
+molar ratio of TiO2 to C being set as 2:1. The curve indicates that the
+current rapidly declines within 1.5 h following an initial peak, then
+it continues to decline slowly until the electrolysis was terminated.
+The typical shoulder trend may be attributed to the ionization of
+oxygen in TiO2 to oxygen ions, corresponding to the TiO2 –TiO–Ti2O
+reduction process shown in the inset of Fig. 4. The process can be
+described by Eq. (2). On the other hand, the ionized O2− dissolved
+in the melt and transferred via the melt to the carbon anode, on
+which it combined with carbon to form CO2 /CO.
+C + zO2− = COz + 2ze
+The results suggest, in comparison of TiO2 electro-deoxidation
+[17–19], that the existence of carbon causes the reduction
+mechanism and the rate of electrochemical reaction have been
+(3)
+−
+(4)
+4. Conclusions
+The preparation of TiCxOy directly from the electrochemical
+reduction of TiO2 /C composite cathode in molten calcium chloride
+at 900 ◦C was achieved. Compared with the electro-deoxidation
+of pure TiO2 , the electrolysis of solid TiO2 /C composite cathode
+was signiﬁcantly accelerated by addition of carbon. With a molar
+ratio of TiO2 to carbon being 2:1, the single phase TiC0.5O0.5 can be
+obtained via electro-deoxidation of TiO2 /C composite cathode. A
+series of experiment, where samples were quenched experiments
+were conducted to investigate the mechanism of the whole reduc-
+tion process. It was found that the reduction of the cathode can be
+divided into two steps: ﬁrstly titanium dioxide was reduced to TiOn
+(0 < n < 1) along with the formation of CaTiO3 . Then, TiOn (0 < n < 1)
+was converting to be TiCxOy by reaction with carbon.
+Acknowledgments
+The work was supported by National Natural Science Founda-
+tion of China (50934001), the Program for New Century Excellent
+Talents in University, Ministry of Education of China (NCET-2011-
+0577).
+References
+[1] M.T. Mathew, E. Ariza, L.A. Rocha, A.C. Fernandes, F. Vac, Tribology International
+41 (2008) 603.
+[2] A.C. Fernandes, P. Carvalho, F. Vaz, S. Lanceros-Méndez, A.V. Machado, N.M.G.
+Parreira, J.F. Pierson, N. Martin, Thin Solid Films 515 (2006) 866.
+[3] F. Santerre, M.A.E.I Khakani, M. Chaker, J.P. Dodelet, Applied Surface Science
+148 (1999) 24.
+[4] S.Q. Jiao, H.M. Zhu, Journal of Materials Research 21 (2006) 2172.
+[5] S.Q. Jiao, H.M. Zhu, Journal of Alloys and Compounds 438 (2007) 243.
+[6] S.Q. Jiao, X.H. Ning, K. Huang, H.M. Zhu, Pure and Applied Chemistry 82 (2010)
+1691.
+[7] X.H. Ning, H.Y. Liu, H.M. Zhu, Electrochemistry 78 (2010) 513.
+[8] T. Hashishin, T. Yamamoto, M. Ohyanagi, Z.A. Munir, Journal of the American
+Ceramic Society 86 (2003) 2067.
+[9] G.Z. Chen, D.J. Fray, T.W. Farthing, Nature 407 (2000) 361.
+[10] D.J.S. Hyslop, A.M. Abdelkader, A. Cox, D.J. Fray, Acta Materialia 58 (2010)
+3124.
+[11] G.Z. Chen, E. Gordo, D.J. Fray, Metallurgical and Materials Transactions B 35
+(2004) 223.
+[12] A.M. Abdelkader, D.J. Fray, Electrochimica Acta 55 (2010) 2924.
+[13] W. Chen, S.B. Wang, J.B. Ge, S.Q. Jiao, H.M. Zhu, Intermetallics 25 (2012) 66.
+[14] S.Q. Jiao, D.J. Fray, Metallurgical and Materials Transactions B 41 (2010) 74.
+[15] A.M. Abdelkader, D.J. Fray, Electrochimica Acta 64 (2012) 10.
+[16] E. Juzeliunas, A. Cox, D.J. Fray, Electrochemistry Communications 12 (2010)
+1270.
+[17] D.T.L. Alexander, C. Schwandt, D.J. Fray, Electrochimica Acta 56 (2011) 3286.
+[18] C. Schwandt, D.T.L. Alexander, D.J. Fray, Electrochimica Acta 54 (2009) 3819.
+[19] C. Schwandt, D.J. Fray, Electrochimica Acta 51 (2005) 66.
+[20] Y. Deng, D.H. Wang, W. Xiao, X.B. Jin, X.H. Hu, G.Z. Chen, Journal of Physical
+Chemistry B 109 (2005) 14043.
+[21] S.Q. Jiao, L.L. Zhang, H.M. Zhu, D.J. Fray, Electrochimica Acta 55 (2010) 7016.
+[22] X.B. Jin, P. Gao, D.H. Wang, X.H. Hu, G.Z. Chen, Angewandte Chemie Interna-
+tional Edition 43 (2004) 733.
+[23] W. Xiao, X.B. Jin, Y. Deng, D.H. Wang, X.H. Hu, G.Z. Chen, ChemPhysChem 7
+(2006) 1750.
+[24] W. Xiao, X.B. Jin, Y. Deng, D.H. Wang, G.Z. Chen, Chemistry – A European Journal
+13 (2007) 604.
+[25] Q. Xu, L.Q. Deng, Y. Wu, T. Ma, Journal of Alloys and Compounds 396 (2005)
+288.
+[26] W. Xiao, X.B. Jin, Y. Deng, D.H. Wang, G.Z. Chen, Journal of Electroanalytical
+Chemistry 639 (2010) 130.

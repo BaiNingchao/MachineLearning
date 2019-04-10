@@ -1,0 +1,73 @@
+第一章 项目介绍
+英文论文信息抽取系统，采用自然语言处理技术进行智能化操作，其具备以下几个特点：
+  特点一：支持英文论文pdf格式转换为txt格式。用户可以提供单个文件路径进行格式转换，也可以提供文件夹进行多文件自动批量转换。
+  特点二：提供基础类库，可以支持后期接口开发，也可以重复利用进行相关操作。
+  特点三：采用自动标注方法对文本进行序列标注。
+  特点四：根据标注的信息可以对论文各个部分信息抽取，其中包括：题目title；摘要abstract；引言introduction；实验方法Experimental；结果讨论results；结论concluding；感谢acknowledgement；参考文献reference。抽取信息方法支持单个文件抽取和批量抽取。
+  特点五：支持日志记录和数据追踪操作。
+  特点六：预留算法模块，支持二级开发。
+
+第二章 开发环境
+  开发语言：python
+  开发环境：Windows7+
+  运行环境：sublime
+  相关插件：pdfminer等
+
+第三章 功能模块说明
+EngInfoExtrack：英文论文信息抽取系统。
+DocToPdf：论文文本抽取核心算法
+  BaseClass.py:公共方法类库
+      TraversalFun()：方法名。功能描述：遍历文件夹根路径，对子文件单独处理。
+      TraversalDir(self,defpara='2txt'):    # defpara:自定义目录头（可选）
+      AllFiles(self,rootDir,newDir='')：递归遍历所有文件，并自动转化txt文件，存储在指定路径下。
+      TranType(filename,typename)：检查文件类型，并转化目标类型，返回新的文件名。
+      writeFile(strs,filepath):文件的写操作。
+      readFile(filepath):文件的读操作。
+      mkdir(dirpath):创建目录。
+      Global(object):全局变量。
+      TestMethod(path,newpath=''):测试方法，打印目录文件
+  pdf2txt.py：pdf格式文件转化算法
+      BatchPdfToTxt(filepath,newdir=''):pdf文件批量转化为txt格式文件（支持单/多文件处理）
+      filelogs(path):文件批量转化日志。可以自动过滤不符合要求的、加密的、
+                     图片等pdf文件
+  InfoLabel.py:转化后的文本批量标注
+      LabelBatch(filepath,newdir=''):txt格式文件批量章节标注
+  ChapterExtract.py：论文章节抽取算法
+      ExtractBatch(filepath,newdir=''):论文txt格式文件信息抽取.（支持单/多文件处理）
+      SaveBatchExtract(newdir):论文抽取数据的批量保存
+      
+Document：语料库文件夹
+  EnPapers：英文论文语料（实验准备语料数据）
+  EnPapers_single:pdf单文件转化txt格式数据
+  EnPaper_batch_txt：pdf批量文件转化txt格式数据
+  EnPapers_Import:格式转化后，进行自动标注后待抽取信息数据
+  EnPapers_Export：论文章节信息抽取结果
+  EnPapers_logs: 日志文件保存数据
+  StopWord:      分词和数据分析预留的停用词表
+
+第四章 操作流程详解
+  第一步：安装配置好开发运行环境sublime并打开根目录文件夹
+  第二步：根据指定位置读取待处理数据，默认待处理的数据放到
+          Enpagers文件夹下面。
+  第三步：打开DocToPdf下的pdf2txt.py文件，按【F5键运行】转化提取txt文件，并保存
+          到指定位置。默认保存到Enpagers_batch_txt
+  第四步：可以在Enpagers_logs下查看文件处理的日志文件。比如cvs，Excel等不符合标
+          准格式或者不满足指定文件大小的文件的数据会自动过滤出来。并且显示过滤文件的路径。
+  第五步：(1)对批量转化的txt文件进行自动标注。打开InfoLabel.py，
+             按【F5键运行】运行LabelBatch方法可以解决以下几种情况：
+           第一类：还比较规范具备固定格式的诸如CategoryA
+           第二类：论文格式段落明显，图片和公式过多诸如CategoryB：
+           第三类：有一定的格式，部分章节标志不明显诸如CategoryC
+          （2）还支持半监督人工标注，其优点就是针对准确率要求很高的数据。直接将生成的文件，按照下面的标注规则标注后。导入到EnPapers_Import目录下，进行批量自动提取操作。
+  第六步：算法标注规则，我们采用自定义的标准准则如下：
+            1 题目：title  <T></T>    
+            2 摘要：abstract <A></A>
+            3 引言：introduction <I></I>
+            4 实验与方法: Experimental or methodology  <E></E>
+            5 结果与讨论：results and discussion <R></R>
+            6 结论：concluding <CO></CO> 
+            7 感谢：acknowledgement <AC></AC>
+            8 参考文献：reference   <RE></RE>
+  第七步：打开ChapterExtract.py文件，按【F5键运行】，提取所有章节信息并存放在指
+          定位置，默认保存在Enpagers_Export文件夹下。诸如题目部分的效果如下：
+  第八步：打开Enpagers_Export文件夹下对应章节文件，并做数据分析。

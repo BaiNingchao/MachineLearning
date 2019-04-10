@@ -1,0 +1,517 @@
+Journal of Alloys and Compounds 490 (2010) 241–246
+Contents lists available at ScienceDirect
+Journal of Alloys and Compounds
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j a l l c o m
+Mechanistic insight of electrochemical reduction of Ta2O5 to tantalum in a
+eutectic CaCl2–NaCl molten salt
+Qiu-shi Song a , Qian Xu a,∗ , Xue Kang a , Ji-hong Du b , Zheng-ping Xi b
+a School of Materials Science and Metallurgy, Northeastern University, Shenyang 110004, China
+b Northwest Institute for Non-ferrous Metal Research, Xi’an 710016, China
+a r t i c l e
+i n f o
+a b s t r a c t
+Article history:
+Received 16 April 2009
+Received in revised form
+30 September 2009
+Accepted 30 September 2009
+Available online 6 October 2009
+Keywords:
+Electrochemical reduction
+Tantalum
+Tantalum pentoxide
+Particle morphology
+X-ray diffraction
+An investigation into the reaction pathway of the electrochemical reduction of Ta2O5 to tantalum in a
+eutectic CaCl2 –NaCl molten salt has been performed in order to better understand the reaction mech-
+anism of the electro-deoxidation process. Partially reduced samples were obtained by interrupting the
+reduction process after different reaction times at 1123 K, and examined by XRD, SEM and EDX analysis.
+The results reveal that the reduction process from Ta2O5 to Ta undergoes several intermediate phases,
+such as Ta2O5 ·0.5CaO, Ta2O5 ·2CaO, and Ta2O5 ·4CaO. The particle morphology in the cathode changed
+with the various phase transformations. The CaO concentration in the CaCl2 –NaCl melt seems to affect
+the particle size of nodular-shaped tantalum powder products.
+© 2009 Elsevier B.V. All rights reserved.
+1. Introduction
+Tantalum is widely used because of its properties of strong
+corrosion resistance, high melting point, good ductility and heat
+conductivity, etc. However, the major use for tantalum, as tanta-
+lum metal powder, is in the production of tantalum capacitors,
+which have very high capacity relative to their small volumes.
+The dielectric is formed from a very thin anodized layer of tanta-
+lum pentoxide. Tantalum powder can be industrially produced by
+sodiothermic reduction of K2 TaF7 in the KCl–NaCl–NaF molten salt.
+In this process K2 TaF7 is made from tantalum oxide ores, and then
+was reduced to Ta at high temperatures (>1000 K) using sodium.
+However, it is considered as a complex, expensive, and environ-
+mentally polluting process [1–3], but, in recent years, some new
+processes have been developed as promising methods to replace
+the ﬂuoride-based process someday [1,4–16]. Metallothermic and
+electrochemical reduction are two important processes carried out
+in molten salts, from which many new metallurgical routes were
+derived, such as FFC [6,7], EMR [9], PRP [10,11] and SOM [15,16].
+The FFC process is a method to obtain metals and alloys by direct
+electro-deoxidation of their respective oxides or mixtures of oxides
+in chloride-based molten salts, which should be a much easier, less
+∗ Corresponding author.
+E-mail address: qianxu201@mail.neu.edu.cn (Q. Xu).
+0925-8388/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jallcom.2009.09.168
+expensive and more environmentally friendly way [2,17–21]. Many
+metals and alloys have been produced by using this process, such
+as Nb [17,22–24], Ta [2,8,25], Ti [6,20,21,26], Al [27], Nb–Sn [18],
+Ni–Ti [28], Fe–Ti [29], Ce–Ni [30] and La–Ni [31,32]. Additionally,
+the possible mechanism for the electro-deoxidation process has
+been discussed [20–21,23,33,34], and some models also has been
+applied to understand the process [35,36].
+The metallothermic or electrochemical reduction of Ta2O5 has
+been achieved in CaCl2 -based molten salts without any ﬂuoride
+[6,9,12,13]. In particular, as a medium for the reactions, the molten
+CaCl2 can enhance the reduction because the product CaO, pro-
+duced at the reaction interface, can dissolve into the CaCl2 melt
+[4,5,13]. Furthermore, the CaO in the molten CaCl2 can play an
+interesting role on the reduction of Ta2O5 , which can affect the
+morphology of tantalum powder prepared for the calciothermic
+reduction [4,13], and form calcium tantalates as the intermediates
+for the FFC process [2,33,34]. Greater understanding of CaO reac-
+tions during the reduction in the molten CaCl2 –NaCl will be useful
+in comprehending the mechanism of the FFC process.
+The objective of this work has been to gain a greater insight into
+the reaction between Ta2O5 and the CaO in the molten CaCl2 –NaCl
+which occurs in the course of the electrochemical reduction of
+Ta2O5 to tantalum in the FFC process. It is intended to understand
+the electrochemical reductions of Ta2O5 in the melt of CaCl2 –NaCl
+in order to better control and optimize experimental parameters,
+which may be critical for successful industrialization.
+242
+Q.-s. Song et al. / Journal of Alloys and Compounds 490 (2010) 241–246
+Fig. 1. SEM images of (a) the Ta2 O5 pellet sintered at 1273 K for 4 h; (b) the sample immersed in the CaCl2 –NaCl melt with about 1 mol% CaO for 7 h; (c) the sample immersed
+in the CaCl2 –NaCl melt for 10 h.
+2. Experimental
+The Ta2 O5 powder was of 99.99% purity and purchased from Sino-pharm Chem-
+ical Reagent Co. Ltd. Other chemicals in this study were of analytical grade. 1.5 g
+of Ta2 O5 powder was weighed and compacted into cylindrical pellets (15 mm in
+diameter and 2.3 mm in thickness) under 17 MPa, and then the oxide pellets were
+sintered at 1273 K in air for 4 h. A eutectic mixture of CaCl2 and NaCl was ﬁrst ther-
+mally pre-dried, then melted in an alumina crucible and served as the electrolyte.
+The electrochemical experiments were conducted at 1123 K under an atmosphere
+of dried argon. The electrolysis temperature is about 346 K higher than the eutectic
+temperature of the CaCl2 –NaCl binary system, therefore the eutectic melt has a high
+mobility and conductivity, which are favorable for the electrolysis.
+For some experiments, about 1 mol% of CaO was added into the melt. The sin-
+tered Ta2 O5 pellets served as the cathode, and a graphite rod as the anode, both were
+attached to Kanthal wires which acted as the current collectors. The experimental
+apparatus used here was similar to that described in the literature [8,23,25].
+A voltage of 2.8 V was applied between the cathode and anode for the pre-
+determined times. The partially and totally reduced samples were obtained by
+stopping the electrochemical reduction at any time from 0.5 h to 24 h. In order to
+get the chemical behavior of sintered Ta2 O5 pellets in the electrolyte melt with and
+without the addition of CaO, the pellets were immersed in the melts for the times
+from 6 h to 10 h with no cathodic polarization. After the simple immersion and
+electrochemical reduction, respectively, the recovered samples were washed in de-
+ionized water and dried in ambient air at room temperature. Each of the reduced or
+immersed pellets was separated into several pieces for examination. Phase analysis
+of the samples was carried out with a D/Max-2500PC X-ray diffractometer with Cu-
+K␣ radiation, and the morphology was investigated by means of a SSX-550 scanning
+electron microscope (SEM) equipped with energy-dispersive X-ray analysis.
+3. Results and discussion
+3.1. The chemical reactions of Ta2O5 with CaO in the CaCl2 –NaCl
+melt
+Fig. 1a shows the SEM image of a porous Ta2O5 pellet sintered
+at 1273 K for 4 h. The pellet typically contains particles of about
+0.5 ␮m in diameter with an open porosity of 30–35%. The chemical
+behavior of Ta2O5 in the CaCl2 –NaCl melt with an addition of about
+1 mol% CaO was investigated by submersing the oxide pellets into
+the melts for 6 h and 7 h, respectively, and their XRD patterns are
+both shown in Fig. 2a–c together with the XRD pattern of the sin-
+tered Ta2O5 sample. The sample quenched after being immersed for
+6 h is characterized by the overwhelming presence of Ta2O5 ·CaO.
+As the immersing time increases, Ta2O5 ·2CaO occurs as well as
+Ta2O5 ·CaO in the sample immersed for 7 h. Meanwhile, the sam-
+ples in the CaCl2 –NaCl melt with no addition of CaO for 6, 7 and
+10 h were also composed of calcium tantalates as well, which typi-
+cal XRD patterns are shown in Fig. 2d–f. In general, there is a small
+amount of CaO as an impurity in the CaCl2 –NaCl melt since cal-
+cium chloride can absorb some moisture in ambient air and form
+CaO from its derivatives like calcium hydroxide after being ther-
+mally pre-dried and heated up to 1123 K. But, the concentration of
+CaO should be lower than that in the CaCl2 –NaCl melt with about
+1 mol% CaO added. That is the probable reason for formation of
+CaO–Ta2O5 compounds in the CaCl2 –NaCl melt with no addition of
+CaO. The reaction shown in Eq. (1) could occur spontaneously and
+(1)
+successively in the CaCl2 –NaCl melt with some CaO at 1123 K.
+nCaO + Ta2O5 → Ta2O5 · nCaO (n = 0.5, 1, 2, 4)
+Moreover, there are stable calcium tantalates observed in
+Ta2O5 –CaO binary phase diagram [37]. The predominant calcium
+tantalate formed in the CaCl2 –NaCl melt is Ta2O5 ·0.5CaO in the
+sample which was immersed for 6 and 7 h, and a little of Ta2O5 ·CaO
+was found in the sample for 10 h. Although the duration of its
+immersion in the melt is longer than that of the samples in the
+CaCl2 –NaCl melt with about 1 mol% CaO, the number of CaO incor-
+porated into one Ta2O5 unit on average is smaller. Therefore, it can
+be deduced that the number of CaO included per Ta2O5 unit for the
+calcium tantalate seems strongly dependent on the concentration
+of CaO in the CaCl2 –NaCl melt.
+Fig. 1b shows the morphology of the Ta2O5 pellet which was
+immersed in the CaCl2 –NaCl melt with about 1 mol% CaO for 7 h,
+and then quenched and washed in water. There are larger, lath-
+shaped particles in the interior region of the pellet, in which the
+molar ratio of Ta to Ca is about 2:1 according to the EDX anal-
+compound of Ta2O5 ·CaO by considering of its XRD analysis shown
+ysis together with its SEM image. These are expected to be the
+in Fig. 2c. There are also relatively smaller, cubic particles in the
+outer region of the same pellet, where the ratio is close to 1:1 by
+EDX analysis. These are the compound of Ta2O5 ·2CaO, which was
+deduced by considering of their XRD and EDX analysis. There is a
+clear boundary between the inner and outer region, marked by a
+diffuse reaction front moving into the pellet from its surface. Prob-
+ably, Ta2O5 ·2CaO can be formed in the outer region where CaO in
+the melt has diffused through the channels of open porosity in the
+sample. Elsewhere, the CaO percolation has been less effective, and
+Fig. 2. XRD patterns of (a) the Ta2 O5 sintered pellet; (b) and (c) the samples
+immersed in the CaCl2 –NaCl melt with about 1 mol% CaO for 6 h and 7 h, respec-
+tively; (d)–(f) the samples immersed in the CaCl2 –NaCl melt for 6 h, 7 h and 10 h,
+respectively.
+Q.-s. Song et al. / Journal of Alloys and Compounds 490 (2010) 241–246
+243
+Table 1
+The molar ratios of Ta to Ca for the region A
+and B in Fig. 4a, respectively.
+Region
+A
+B
+Ta:Ca
+32:8
+62:1
+Ta
+••
+tal frequently obtain the electrons from the cathode lead and move
+into the CaCl2 –NaCl melt, leaving behind empty lattice sites. The
+value of x in Eq. (2) is determined by the concentration of the oxygen
+vacancies, which should not exceed the maximum that the stable
+Ta2O5 ·nCaO crystalline lattice can accept. The intrinsic defects Ta(cid:4)
+would be produced in the Ta2O5 ·nCaO crystal particles along with
+charge compensating defects V
+O , which means Ta2O5 is partially
+reduced during the ﬁrst 0.5 h of the reduction process although
+Ta2O5 and Ta2O5 ·0.5CaO can only be identiﬁed for the typical XRD
+pattern.
+Fig. 4a is the SEM image of the partially reduced sample for 0.5 h.
+There were two types of particles classiﬁed by their particle sizes.
+According to their respective EDX analysis shown in Table 1, the
+molar ratio of Ta to Ca is 32:8 for the region A, which indicated
+Ta2O5 ·0.5CaO, conﬁrmed by its XRD analysis; while the molar ratio
+is about 62:1 for the region B, the major phase is Ta2O5 as indicated
+by the small amount of Ca and its XRD pattern.
+The sample recovered after about 1 h is mainly composed of
+Ta2O5 ·0.5CaO and Ta2O5 ·2CaO, and XRD pattern is also shown in
+Fig. 3b. There is the additional presence of Ta, which is detected
+from its typical XRD pattern. But no Ta2O5 exists as shown by the
+XRD pattern. It seems that almost all Ta2O5 , combined with CaO and
+form calcium tantalates. Fig. 4b shows the morphology of partially
+reduced sample for 1 h. The EDX analysis was carried out for the
+regions which are marked as C and D, respectively. The molar ratio
+of Ta to Ca is 43: 9 for region C, where the major phase should be
+Ta2O5 ·0.5CaO, while the molar ratio for region D is 22:16, where
+two phases should be Ta2O5 ·0.5CaO and Ta2O5 ·2CaO. The mor-
+phology of the particles in region D reﬂects the aggregates of the
+smaller ﬂakes, which was created by the network modifying effects
+of CaO in the melt on the surface of Ta2O5 ·0.5CaO. When more of
+the network-modifying CaO is combined with Ta2O5 , this disinte-
+grates the larger particles of Ta2O5 ·0.5CaO. It should be mentioned
+that Ta2O5 ·0.5CaO may still exists inside the particles, which leads
+than 1:1 of Ta2O5 ·2CaO for region D.
+the molar ratio of Ta to Ca obtained by EDX analysis to be bigger
+Fig. 3c also shows XRD pattern of the sample reduced for about
+2 h, which comprises basically Ta, Ta2O5 ·2CaO and Ta2O5 ·4CaO, the
+latter was not found within the sample immersed simply in the melt
+both with and without the addition of CaO in this study. During fur-
+ther electrochemical reduction, there are two possible streams to
+enrich the local concentration of CaO within the cathode. First, CaO
+can be released directly from calcium tantalates through the reac-
+tion (3). Second, the oxygen ions released by the reaction (2) can
+incorporate with Ca2+ in the CaCl2 –NaCl melt and form more CaO.
+The enhancement of the local CaO concentration in the melt which
+percolates the cathode can lead to an increase in the CaO/Ta2O5
+ratio. The typical peaks of Ta are more dominant compared with
+those of the samples reduced for 1 h from their XRD patterns, and
+there is almost no Ta2O5 ·CaO identiﬁed since it can incorporate CaO
+to form Ta2O5 ·2CaO or Ta2O5 ·4CaO. Finally, tantalum is obtained by
+the reaction (3).
+Ta2O5−x · (VO )x · nCaO + 2(5 − x)e = 2Ta + (5 − x)O2− + nCaO (3)
+For the whole electrochemical process, no tantalum sub-oxides
+and their compounds with CaO were observed from the typical
+XRD patterns. It is probable that Ta2O5 ·nCaO can be reduced to Ta
+directly without any intermediates in which the oxidation state of
+Fig. 3. XRD patterns of the samples electro-deoxidized in the CaCl2 –NaCl melt with
+about 1 mol% CaO for various times. (a) 0.5 h, (b) 1 h, (c) 2 h, (d) 4.5 h, (e) 5.5 h, (f)
+10 h, (g) 13 h and (h) 24 h, respectively.
+Ta2O5 ·CaO has been formed in the inner region since the amount of
+CaO is in short supply, and the local concentration of CaO was lower
+in the inner region of the pellet. Similar effects probably occurred
+for the samples in the melt without the addition of CaO for 10 h
+though the quenched sample was broken up after being washed
+in water and its integrity was not maintained. Fig. 1c shows its
+SEM image. The particles should be the compound of Ta2O5 ·0.5CaO,
+which was identiﬁed by its XRD pattern in Fig. 2f. The calcium tanta-
+lates in this study exhibit a strongly faceted morphology as shown
+in Fig. 1b and c. The particle size of Ta2O5 ·0.5CaO can reach up to
+20 ␮m shown in Fig. 1c, which is about 40 times bigger than that
+of the original grains in the Ta2O5 pellet. The atomic structures
+formed from corner-, edge- and face-sharing TaO6 octahedra while
+Ca2+ ions were located in interstitial sites among the octahedra.
+The greater amount of CaO that was incorporated per Ta2O5 unit,
+the greater the number of O atoms that go to the TaO6 octahedron
+arrays. Therefore, the number of bridging oxygen (BO) decreases
+and the number of non-bridging oxygen (NBO) increases in the
+TaO6 octahedron arrays so that the more complex and bigger net-
+works of TaO octahedra were broken up into simpler and smaller
+ones. CaO behaves here as a network modiﬁer.
+3.2. The electrochemical reduction of Ta2O5 in the CaCl2 –NaCl
+melt with about 1 mol% CaO
+The partially reduced tantalum oxide specimens were obtained
+by interrupting the electrochemical reduction after different reac-
+tion times. Fig. 3a–c show the XRD patterns of partially reduced
+samples in the CaCl2 –NaCl melt with about 1 mol% CaO for 0.5 h,
+1 h and 2 h, respectively. The sample quenched after electrolysis
+for 0.5 h consists predominantly of Ta2O5 and Ta2O5 ·0.5CaO, the
+latter is one member of calcium tantalates which are formed by the
+chemical reactions shown in Eq. (1) as explained previously. Even
+though electrons were supplied to the tantalum oxide cathode, no
+tantalum sub-oxides can be identiﬁed from the XRD pattern. One of
+the most likely effects during reduction is the formation of oxygen
+vacancies in the atomic structures of Ta2O5 or Ta2O5 ·0.5CaO. The
+reaction can be expressed as Eq. (2).
+Ta2O5 · nCaO + x · 2e = Ta2O5−x · (VO )x · nCaO + xO2−
+(n = 0, 0.5, 2, 4)
+(2)
+The oxygen vacancies, as point defects, exist in Ta2O5 or
+Ta2O5 ·0.5CaO crystal when oxygen atoms within the oxide crys-
+244
+Q.-s. Song et al. / Journal of Alloys and Compounds 490 (2010) 241–246
+Fig. 4. SEM images of the samples electro-deoxidized in the CaCl2 –NaCl melt with about 1 mol% CaO for (a) 0.5 h, (b) 1 h, (c) 2 h, (d) 5.5 h, (e) 10 h and (f) 24 h, respectively.
+tantalum atom may be lower than 5. This differs from the reduc-
+tion pathway of TiO2 [20,21,33,34] or Nb2O5 [22,23] by the FFC
+process. It is also different from the results of Chen and co-workers
+[2]. Usually, metals in lower oxidation states can be found during
+the reduction of TiO2 in the molten CaCl2 [20,21,33].
+Fig. 4c shows the morphology of partially reduced sample for 2 h.
+The size of most particles in the sample is smaller than 2 ␮m. The
+aggregate of particles has an alveolate structure shown in Fig. 4c,
+which are probably the result of disagglomeration of Ta2O5 ·0.5CaO
+to Ta2O5 ·4CaO by combination of more CaO. Therefore, Ta2O5 ·4CaO
+particles are smaller in size than Ta2O5 ·0.5CaO.
+Fig. 3d–f shows the typical XRD patterns of the partially reduced
+samples for 4.5 h, 5.5 h and 10 h, respectively. The major phase is
+Ta, and the minor phases are Ta2O5 ·4CaO, Ta2O5 ·2CaO and CaCO3
+after 4.5 h electrolysis. The formation of CaCO3 may be because
+of the use of graphite anode in this study. Carbon dioxide can
+be generated on the anode during electrolysis, and dissolved in
+the CaCl2 –NaCl melt as CO2−
+3 . Fig. 4d is the SEM image of par-
+tially reduced sample for 5.5 h electrolysis, in which the alveolate
+structures can be found. Considering its typical XRD pattern, it con-
+sists mainly of Ta, and Ta2O5 ·4CaO with a smaller particle size.
+The particles bigger than 5 ␮m cannot be observed, these are very
+normal in the sample of 1 h reduction as Ta2O5 ·0.5CaO. Fig. 4e
+shows the morphology of the partially reduced sample for 10 h
+electrolysis. The number of smaller size particles becomes more
+and more, and some of them are interconnected one another. But
+the particle size is not uniform probably because the sample is not
+reduced completely and the calcium tantalates particle size may be
+bigger.
+Fig. 3g–h shows the two typical XRD patterns of the samples
+reduced for 13 h and 24 h, respectively. Metallic tantalum is the
+only phase being present in both samples. After undergoing sev-
+eral intermediate phases, such as Ta2O5 ·0.5CaO, Ta2O5 ·2CaO and
+Ta2O5 ·4CaO, the starting material Ta2O5 was completely reduced to
+tantalum. During the process of immersion and reduction, only cal-
+cium tantalates determined from the XRD patterns and no sodium
+tantalates are found. Similarly, calcium niobates were formed dur-
+ing the electrochemical reduction of Nb2O5 in the CaCl2 –NaCl
+molten salt, while sodium niobates were not observed according
+the XRD patterns [38,39]. The phenomenon was probably because
+the calcium tantalates formed were thermodynamically more sta-
+ble than sodium tantalates in the CaCl2 –NaCl melt. Fig. 4f is the SEM
+image of the sample reduced for 24 h. It shows the uniform parti-
+cle sizes and similar nodular shapes of the metal tantalum product.
+One interesting aspect of the Ta particles is that the smaller nodu-
+lar Ta particles are interconnected to one another, which was also
+described in the literature [2]. Such structures are considered to be
+preferable for their application of electronic capacitors.
+Fig. 5 is the current vs. time curve of electrochemical reduc-
+tion experiment in the CaCl2 –NaCl melt with about 1 mol% CaO, in
+which cathode composition was given for various points in time
+during electrolysis. Based on the explanation of the mechanism
+put forward above, the current peaks are caused by fast reductions
+of the cathode with participation of calcium oxide, which lead to
+Q.-s. Song et al. / Journal of Alloys and Compounds 490 (2010) 241–246
+245
+Fig. 5. The current vs. time curve of electrochemical reduction experiment in the
+CaCl2 –NaCl melt with 1 mol% CaO, in which cathode composition was given for
+various points in time during electrolysis.
+the formation of calcium tantalate mixtures. Ta2O5 ·4CaO has the
+most number of CaO per Ta2O5 unit among the tantalates, which
+should have the lowest degree of polymerization for TaO6 octahe-
+dron. It exists until Ta2O5 is completely reduced to Ta. During the
+later stages of the reduction process, while calcium tantalates for-
+mation seems to cease, the removal of oxygen from the cathode
+becomes the dominant process. However, the electronic current
+now contributes signiﬁcantly to the overall current, and leads the
+relatively low overall current efﬁciency of about 11% for prepara-
+tion of tantalum with low oxygen contents by the process.
+3.3. The electrochemical reduction of Ta2O5 in the CaCl2 –NaCl
+melt
+As mentioned above, there should be some CaO as an impurity
+in the CaCl2 –NaCl melt with no addition of CaO. But the concentra-
+tion of CaO in the melt is lower than that of the CaCl2 –NaCl melt
+with about 1 mol% CaO added specially. Fig. 6a–c shows the XRD
+patterns of partially reduced samples in the melt for 0.5 h, 1 h, and
+2 h, respectively. Ta had already been detected by XRD analysis for
+partially reduced sample for 0.5 h, while the characteristic peaks
+of Ta2O5 were not found. The major phase is Ta2O5 ·0.5CaO, similar
+to the sample in the melt with about 1 mol% CaO. During the elec-
+trochemical reduction, Ta2O5 ·2CaO and Ta2O5 ·4CaO can be formed
+successively, which are detected from the XRD patterns of sample
+reduced for 1 h and 2 h, respectively. At the same time, the amount
+of Ta is increasing apparently according to their XRD patterns. The
+morphology of the sample reduced for 0.5 h is shown in Fig. 7a.
+Some of the particles are bigger than 5 ␮m. The EDX analysis were
+carried on for the regions where the larger particle of E and the
+Fig. 6. XRD patterns of the samples electro-deoxidized in the CaCl2 –NaCl melt for
+(a) 0.5 h, (b) 1 h, (c) 2 h, (d) 6.5 h and (e) 12 h, respectively.
+smaller one of F are found with the molar ratios of Ta to Ca are
+37:9 and 55:0, respectively. Therefore, the larger particle is prob-
+ably Ta2O5 ·0.5CaO, while the smaller one is Ta by considering of
+their XRD results as well. Fig. 7b is the SEM image of the sample
+reduced for 2 h. The amount of small nodular particles is increas-
+ing, which are probably metallic Ta. The bigger particles may be
+Ta2O5 ·2CaO or Ta2O5 ·4CaO, whose particle size is smaller than that
+of Ta2O5 ·0.5CaO particles shown in Fig. 7a. The surface of the bigger
+particles has a terraced structure, and there are traces of disag-
+glomeration of Ta2O5 ·0.5CaO to Ta2O5 ·4CaO by combination of CaO.
+Fig. 6d–e shows the typical XRD patterns for the samples reduced
+6.5 h are Ta and Ta2O5 ·4CaO. There are also some typical peaks for
+for 6.5 h and 12 h, respectively. The major phases in the sample for
+CaCO3 , and its formation can be explained as mentioned previously.
+After 12 h electrolysis, the starting material, Ta2O5 is completely
+reduced to Ta according to its XRD pattern. Its morphology is shown
+in Fig. 7c. The tantalum product consists of the interconnected
+nodular shape particles. It is intriguing that the particle size of
+most nodules is bigger than that of the particles reduced in the melt
+with the CaO concentration of 1 mol% higher. The reason is probably
+related with the role which CaO plays during electro-deoxidation.
+Suzuki and co-workers [4,13] had also found that CaO concentra-
+tion affects the morphology of the tantalum powder, which is the
+product of calciothermic reduction of Ta2O5 in the molten CaCl2 .
+Fig. 8 is the current vs. time curve of electrochemical reduction
+experiment in the CaCl2 –NaCl melt, in which cathode composi-
+tion was given for various points in time during electrolysis. Its
+shape is somewhat different to that for the CaCl2 –NaCl with 1 mol%
+CaO, and the time-averaged current intensity for the ﬁrst 5 h is
+lower, although the intermediate products of the electrochemi-
+Fig. 7. SEM images of the samples electro-deoxidized in the CaCl2 –NaCl melt for (a) 0.5 h, (b) 2 h and (c) 12 h, respectively.
+246
+Q.-s. Song et al. / Journal of Alloys and Compounds 490 (2010) 241–246
+ode undergoes several intermediate phases, such as Ta2O5 ·0.5CaO,
+Ta2O5 ·2CaO, Ta2O5 ·4CaO, and ﬁnally changes to metal Ta. The
+incorporation of more CaO can disintegrate the higher calcium tan-
+talates with a larger particle size to the lower ones with smaller
+particle size. The bulk concentration of CaO in the CaCl2 –NaCl melt
+seems to affect the particle size of the ﬁnal product, Ta. The sintered
+porous Ta2O5 pellets can chemically react with CaO in the melt and
+form Ta2O5 ·nCaO, successively, in which n is strongly dependent
+on the concentration of CaO in the melt.
+Acknowledgements
+The authors acknowledge the National Natural Science Founda-
+tion of China (Grant No. 50574025 and 50374030), and the Natural
+Science Foundation of Liaoning Province (Grant No. 20062020),
+China, for ﬁnancial support. The authors gratefully thank the ﬁnan-
+cial support from the Ministry of Science and Technology of China
+(Grants No. 2007CB613801). The authors appreciate that Professor
+Fray Derek for critically reading the manuscript.
+References
+[1] I. Park, T.H. Okabe, Y. Waseda, J. Alloys Compd. 280 (1998) 265.
+[2] T. Wu, X.B. Jin, W. Xiao, X.H. Hu, D.H. Wang, G.Z. Chen, Chem. Mater. 19 (2007)
+153.
+[3] S.M. Jeong, H.Y. Yoo, J.M. Hur, C.S. Seo, J. Alloys Compd. 440 (2007) 210.
+[4] M. Baba, R.O. Suzuki, J. Alloys Compd. 392 (2005) 225.
+[5] M. Baba, Y. Ono, R.O. Suzuki, J. Phys. Chem. Solids 66 (2005) 466.
+[6] G.Z. Chen, D.J. Fray, T.W. Farthing, Nature 407 (2000) 361.
+[7] D.J. Fray, T.W. Farthing, G.Z. Chen, International Patent PCT/GB99/01781.
+[8] X.F. Hu, Q. Xu, Acta Metall. Sinica 42 (2006) 285.
+[9] T.H. Okabe, I. Park, K.T. Jacob, J. Alloys Compd. 288 (1999) 200.
+[10] B. Yuan, T.H. Okabe, J. Alloys Compd. 454 (2008) 185.
+[11] T.H. Okabe, N. Sato, Y. Mitsuda, S. Ono, Mater. Trans. 44 (2003) 2646.
+[12] T.H. Okabe, S. Iwata, M. Imagunbai, Mater. Jpn. (Bull. Jpn. Inst. Met.) 43 (2004)
+34.
+[13] R.O. Suzuki, M. Baba, Y. Ono, K. Yamamoto, J. Alloys Compd. 389 (2005) 310.
+[14] H.H. Nersisyan, J.H. Lee, S.I. Lee, C.W. Won, Combust. Flame 135 (2003) 539.
+[15] C.Y. Chen, X.G. Lu, Q. Li, H.W. Cheng, Rare Met. Mater. Eng. 36 (2007) 1991.
+[16] C.Y. Chen, X.G. Lu, Acta Metall. Sinica 44 (2008) 145.
+[17] X.Y. Yan, D.J. Fray, Metall. Trans. Trans. B 33B (2002) 685.
+[18] X.Y. Yan, D.J. Fray, Adv. Funct. Mater. 15 (2005) 1757.
+[19] G.Z. Chen, E. Gordo, D.J. Fray, Metall. Mater. Trans. B 35B (2004) 223.
+[20] C. Schwandt, D.J. Fray, Electrochim. Acta 51 (2005) 66.
+[21] D.T.L. Alexander, C. Schwandt, D.J. Fray, Acta Mater. 54 (2006) 2933.
+[22] G.H. Qiu, D.H. Wang, X.B. Jin, G.Z. Chen, Electrochim. Acta 51 (2006) 5785.
+[23] Q. Xu, L.Q. Deng, Y. Wu, T. Ma, J. Alloys Compd. 396 (2005) 288.
+[24] T. Wu, W. Xiao, X. Jin, C. Liu, D.H. Wang, G.Z. Chen, Phys. Chem. 10 (2008) 1809.
+[25] X.F. Hu, Q. Xu, Y. Wu, Mater. Rev. 19 (2005) 97.
+[26] C. Schwandt, D.T.L. Alexander, D.J. Fray, Electrochim. Acta 54 (2009) 3819.
+[27] X.Y. Yan, D.J. Fray, J. Appl. Electrochem. 39 (2009) 1349.
+[28] B. Jackson, M. Jackson, D. Dye, D. Inman, J. Electrochem. Soc. 155 (2008) E171.
+[29] S. Tan, T. Oers, M.K. Aydinol, T. Ozturk, I. Karakaya, J. Alloys Compd. 475 (2009)
+368.
+[30] B.J. Zhao, L. Wang, L. Dai, G.H. Cui, H.H. Zhou, R.V. Kumar, J. Alloys Compd. 468
+(2009) 379.
+[31] Y. Zhu, D.H. Wang, M. Ma, X.H. Hu, X.B. Jin, G.Z. Chen, Chem. Commun. 24 (2007)
+2515.
+[32] X. Kang, Q. Xu, S.J. Ma, L.N. Zhao, Q.S. Song, Electrochemistry 77 (2009) 663.
+[33] K. Jiang, X.H. Hu, M. Ma, D.H. Wang, G.H. Qiu, X.B. Jin, G.Z. Chen, Angew. Chem.
+Int. Ed. 45 (2006) 428.
+[34] G.Z. Chen, D.J. Fray, J. Electrochem. Soc. 149 (2002) E455.
+[35] P. Kar, J.W. Evans, Electrochim. Acta 53 (2008) 5260.
+[36] P. Kar, J. Solid State Electrochem. 12 (2008) 1611.
+[37] M. Sales, G. Eguia, P. Quintana, L.M. Torres-Martinez, A.R. West, J. Solid State
+Chem. 143 (1999) 62.
+[38] X.Y. Yan, D.J. Fray, J. Electrochem. Soc. 152 (2005) D12.
+[39] X.Y. Yan, D.J. Fray, J. Electrochem. Soc. 152 (2005) E308.
+Fig. 8. The current vs. time curve of electrochemical reduction experiment in the
+CaCl2 –NaCl melt in which cathode composition was given for various points in time
+during electrolysis.
+cal reductions are the same. This means CaO in the melt probably
+has some activation for the electrochemical reduction on the Ta2O5
+cathode.
+From the experimental results of this study, the driving-force
+of the incorporation of CaO into Ta2O5 should be the minimum
+of total chemical potential energy since calcium tantalates can be
+formed from Ta2O5 and CaO in the melt without any cathodic polar-
+ization. There is no evidence to conﬁrm calcium tantalates as the
+products of the calcium cathodic intercalation, which was used
+to explain the formation of calcium titanates [20,21,33]. CaO in
+the CaCl2 –NaCl melt is incorporated with Ta2O5 to higher tanta-
+lates, such as Ta2O5 ·0.5CaO and Ta2O5 ·CaO, both having a much
+larger particle size, and Ta2O5 ·0.5CaO is the overwhelming phase
+for the sample which is simply immersed in the CaCl2 –NaCl melt.
+When the bulk concentration of CaO was increased by adding
+about 1 mol% CaO to the CaCl2 –NaCl melt, the major phases were
+Ta2O5 ·CaO and Ta2O5 ·2CaO, and the particle size of Ta2O5 ·2CaO is
+smaller than that of Ta2O5 ·CaO particles as shown in Fig. 1b. This
+implies incorporation of more CaO per Ta2O5 unit disintegrated the
+large grains of higher calcium tantalates, and this view was con-
+ﬁrmed by the fact of the much smaller particle size of Ta2O5 ·4CaO.
+It means that CaO in the melt is a network modiﬁer for the higher
+calcium tantalates with a larger particle size, which can be disin-
+tegrated to smaller ones, just like “hydration process” for ions in
+aqueous solutions. So, the higher the bulk concentration of CaO in
+the melt, the more opportunities for the higher tantalates to be
+separated to the lower ones with smaller particle size, which may
+strongly affect the particle size of the ﬁnally reduced product, metal
+tantalum.
+4. Conclusions
+The reaction pathway of electrochemical reduction of Ta2O5 to
+tantalum was studied under a voltage of 2.8 V in the CaCl2 –NaCl
+melt with and without the addition of CaO by interrupting the
+reduction after various reaction times at 1123 K. During the
+reduction process from Ta2O5 to Ta, the tantalum oxide cath-

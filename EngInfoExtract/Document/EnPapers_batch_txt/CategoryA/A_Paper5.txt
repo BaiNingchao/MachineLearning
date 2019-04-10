@@ -1,0 +1,949 @@
+GENE-41637; No. of pages: 11; 4C:
+Gene xxx (2016) xxx–xxx
+Contents lists available at ScienceDirect
+Gene
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / g e n e
+Research paper
+Conditional tenomodulin overexpression favors tenogenic lineage
+differentiation of transgenic mouse derived cells
+Yuan Shi a,1, Yao Xiong a,1, Yongkang Jiang a, Zhiyong Zhang a,b, Guangdong Zhou a,b, Wenjie Zhang a,b,
+Yilin Cao a,b, Jing He, Dr. c,⁎, Wei Liu, Dr. a,b,⁎⁎
+a Department of Plastic and Reconstructive Surgery, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai Key Laboratory of Tissue Engineering, 639
+ZhiZaoJu Road, Shanghai 200011, PR China
+b National Tissue Engineering Center of China, Shanghai, PR China
+c Department of Anatomy and Neurobiology, Tongji University School of Medicine, Shanghai 200092, PR China
+a r t i c l e
+i n f o
+a b s t r a c t
+Article history:
+Received 22 July 2016
+Received in revised form 29 September 2016
+Accepted 19 October 2016
+Available online xxxx
+Keywords:
+Conditional overexpressing transgenic mice
+TNMD overexpression
+MSCs
+Tenogenic differentiation
+Multi-lineage differentiation
+Tenomodulin (TNMD) is a type II transmembrane protein that is widely expressed in a variety of avascular con-
+nective tissues and fat tissue. Its function remains largely unknown except for a marker for mature tenocytes. This
+study reports the generation of tetracycline (Tet)-on driven conditional TNMD overexpressing mice and thus to
+provide a tool for systemic investigation of its role in regulating functions of various tissues. The current study
+focuses on in vitro comparison of tenogenic differentiation potentials induced by doxycycline (Dox) treatment
+among bone marrow derived stem cells (BMSCs), adipose derived stem cells (ASCs), dermal ﬁbroblasts (DFs)
+and tenocytes (TCs) of the same transgenic mice. The results showed that BMSCs exhibited the best tenogenic
+potential than other three cell types (p b 0.05 for majority of markers), whereas ASCs and DFs revealed similar
+potentials (p N 0.05 for majority of markers). TCs were found the least capable of being induced for tenogenic
+gene expression. In addition, TNMD overexpression also signiﬁcantly inhibited the differentiation towards oste-
+ogenic and chondrogenic lineages in both BMSCs and ASCs (p b 0.05). However, the inhibition of adipogenic dif-
+ferentiation was not observed in ASCs (p N 0.05), suggesting different gene regulation mechanisms may involve
+in different tissue types and thus leading to different functions, which is likely to be revealed with a transgenic
+mouse model.
+© 2016 Elsevier B.V. All rights reserved.
+Abbreviations: aa, amino acid; AKP, alkaline phosphatase; aP2, adipocyte protein 2;
+ASCs, adipose derived stem cells; BMSCs, bone marrow derived stem cells; CDS, coding
+sequences; COL1, collagens I; COL2, collagens II; COL3, collagens III; COL6, collagens VI;
+DCN, decorin; DFs, dermal ﬁbroblasts; DMEM, Dulbecco's modiﬁed Eagle's medium;
+Dox, doxycycline; ECM, extracellular matrix; FBS, fetal bovine serum; hCMV, human
+cytomegalovirus; HUVECs, human umbilical vein endothelial cells; IGF-1, insulin-like
+growth factor-1; MACS, magnetic-activated cell sorting; MSCs, mesenchymal stem cells;
+PCR, polymerase chain reaction; PPAR-γ, peroxisome proliferator-activated receptor-γ;
+qPCR, quantitative PCR; rtTA, reverse tetracycline transcriptional activator; Runx2, Runt-
+related transcription factor 2; SCX, scleraxis; Sox9, SRY-box 9; SRY, sex determining
+region; TCs, tenocytes; Tet, tetracycline; TGF-β3, transforming growth factor-β3; TNC,
+tenascin-C; TNMD, tenomodulin.
+⁎ Correspondence to: J. He, Department of Anatomy and Neurobiology, Tongji
+University School of Medicine, 1239 Si Ping Road, Shanghai 200092, PR China.
+⁎⁎ Correspondence to: W. Liu, Department of Plastic and Reconstructive Surgery,
+Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, 639
+ZhiZaoJu Road, Shanghai 200011, PR China.
+E-mail addresses: hejing76@126.com (J. He), liuwei_2000@yahoo.com (W. Liu).
+1 The authors who contribute equally.
+http://dx.doi.org/10.1016/j.gene.2016.10.028
+0378-1119/© 2016 Elsevier B.V. All rights reserved.
+1. Introduction
+Tenomodulin (TNMD) is a type II transmembrane surface molecule
+that is composed of a highly conserved C-terminal domain with eight
+cysteine residues, a BRICHOS domain which is composed of a conserved
+sequence of approximately 100 amino acids and a putative protease rec-
+ognition site RXXR. Cleavage at this site by furin results in the release of
+C-terminal cysteine-rich domain from the cell membrane into the extra-
+cellular matrix (ECM) (Brandau et al., 2001). TNMD is mainly expressed
+in avascular tissues in general and particularly in dense connective tis-
+sue such as tendon/ligament, heart valve and eye (Oshima et al.,
+2003). Interestingly, this molecule is also highly expressed in fat tissue
+(Saiki et al., 2009), an anatomic location exceptional from its principal
+distributed tissue types.
+The functions of TNMD are relatively unexplored. Previous reports
+indicated that the extracellular part of this molecule, C-terminal cyste-
+ine-rich domain, has an anti-angiogenesis effect. Its overexpression in
+human umbilical vein endothelial cells (HUVECs) inhibited cell prolifer-
+ation and tube formation in an in vitro assay (Oshima et al., 2003;
+Oshima et al., 2004). In addition, this molecule is also expected to
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+2
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+participate in fat metabolism regulation (Tolppanen et al., 2008; Saiki et
+al., 2009; Senol-Cosar et al., 2016).
+Tenogenic differentiation is one of the areas of mesenchymal stem
+cells (MSCs) research, which may potentially be translated into tendon
+regeneration (Yin et al., 2013; Deng et al., 2014; Jiang et al., 2016; Lu et
+al., 2016; Yin et al., 2016). MSCs are also the potential source of cell ther-
+apy for tendon injury (Docheva et al., 2015; Gaspar et al., 2015). In ad-
+dition to MSCs, certain types of mature and differentiated somatic
+cells, such as dermal ﬁbroblasts (DFs), are also possible to be
+transdifferentiated into a tenogenic phenotype and thus potentially be
+used for tendon regeneration (Liu et al., 2006; Chen et al., 2016; Wang
+et al., 2016). And despite the disadvantages such as limited resource
+and poor proliferation, functional tenocyte-based tendon engineering
+had been successfully produced (Wang et al., 2008; Chen et al., 2016).
+It thus would be interesting to investigate how overexpressed TNMD af-
+fects the behavior of multiple cell types and what is the difference in
+their functions given the same stimulator to different cell types.
+Transgenic mouse model is a widely used methodology to investi-
+gate the role of a single molecule in directing functions of multiple cell
+types. However, overexpression of certain molecule including TNMD
+will have an embryonic lethal effect and also the difﬁculty to regulate
+the transgene expression level, and thus limits its application. The de-
+velopment of conditional overexpressing transgenic mouse driven by
+an inducible promoter systems such as tetracycline (Gossen and
+Bujard, 1992), ecdysone (No et al., 1996), steroids (Burcin et al., 1999)
+and rapamycin (Ye et al., 1999) are likely to overcome the undesirable
+shortcomings of the traditional transgenic mouse model. The tetracy-
+cline (Tet)-inducible gene regulation system is a powerful tool that al-
+lows for temporal and dose-dependent regulation of target transgene
+expression in vitro (Gossen and Bujard, 1992; Rabiee et al., 2014) and
+in vivo (Furth et al., 1994; Jazwa et al., 2013). For example, Runt-related
+transcription factor 2 (Runx2) overexpressing mice displayed
+multiorgan abnormalities, including ectopic calciﬁcation and induction
+of the osteogenic program in a limited number of tissues, such as muscle
+and lung (He et al., 2011). The Tet-On system comprises two key com-
+ponents: the doxycycline (Dox)-dependent regulator, such as reverse
+tetracycline Transcriptional Activator (rtTA), and the response element
+containing the target gene, such as pTRE-X. The Tet-On system usually
+contains integrated copies of the regulator and response plasmids in
+order to create a double-stable transgenic mice line (Kistner et al.,
+1996).
+Previously, we described a Tet-On transgenic TNMD mice that ubiq-
+uitously expresses rtTA driven by human cytomegalovirus (hCMV)
+early promoter (Jiang et al., 2016), which was used to support the role
+of TNMD overexpression in driving MSC tenogenic differentiation. We
+hypothesized that overexpression of TNMD gene in an overexpressing
+animal model will exert different functions among different cell types.
+In this study, we employed the same model to examine the difference
+in tenogenic lineage differentiation potentials among bone marrow de-
+rived stem cells (BMSCs), adipose-derived stem cells (ASCs) and DFs
+using tenocytes (TCs) as a positive control, given the same
+overexpressed gene, TNMD.
+2. Materials and method
+2.1. Generation the pTRE TNMD transgenic mouse line
+Generation of conditional TNMD overexpression mice was brieﬂy
+mentioned previously (Jiang et al., 2016) and more detailed description
+was provided in this study. In the process, pCAGGS-TNMD plasmid was
+kindly provided by Dr. Yuji Hiraki at Kyoto University, Japan. After sufﬁ-
+cient ampliﬁcation, mouse TNMD coding sequences (CDS) were excised
+from pCAGGS-TNMD plasmid using EcoRI digestion, and then inserted
+into pTRE vector at EcoRI site using T4 ligase (New England Biolabs, Ips-
+wich, MA) resulting in pTRE-TNMD plasmid. Then, the plasmid was lin-
+earized followed by the microinjection into the pronucleus of fertilized
+zygotes of C57BL/6 mice as described (Conner, 2004; Liu et al., 2013).
+A pseudo-pregnant ICR foster mother served as a rec ip ient for
+the egg implantation (This work was performed by Model Animal
+Research Center , Nanj ing Un ivers ity as a commerc ia l techn ica l
+serv ice) to generate the founder pTRE-TNMD mice . To ident ify
+founder (F0) transgenic mice, tail biopsies were collected from the
+animals aged from two to three weeks for genomic DNA isolation
+us ing Gentra Puregene Mouse Tai l Kit (Qiagen) . The generated
+founder mice were further screened by polymerase chain reaction
+(PCR) analysis of the DNA derived from pTRE-TNMD mouse tails using
+specially designed primers (forward: 5-GCTCGTTTAGTGAACCGTCAGA-3
+and reverse: 5-CCGTCCTCCTCAAAGTCCTGTA-3). Each founder (F0)
+mouse was given a speciﬁc number and bred with wild type C57BL/6
+mouse but never crossed each other. Then the tails of each founder's
+offspring were collected and identiﬁed by PCR as previous described
+(Jiang et al., 2016). The positive offspring mice of each founder were
+mated each other to reproduce the next generation and the process was
+repeated until the positive rate reached 100%. All experimental protocols
+involving mouse experiments were approved by the Animal Care and Ex-
+periment Committee of Shanghai Jiao Tong University School of Medicine.
+2.2. Generation of conditional TNMD overexpressing mice
+Subsequently, conditional TNMD overexpressing mice were gener-
+ated by breeding pTRE-TNMD mice with STOCK Tg (rtTAhCMV) 4Uh/J
+mice (purchased from Model Animal Research Center, Nanjing Univer-
+sity, China). To identify the conditional TNMD overexpressing mice
+that carried the gene encoding rtTA under the control of a hCMV early
+promoter, the ﬁnally generated bitransgenic mice were characterized
+by PCR using above mentioned primer for pTRE-TNMD and a new prim-
+er for rtTA (forward: 5-CGCTGTGGGGCATTTTACTTTAG-3 and reverse:
+5-CATGTCCAGATCGAAATCGTC-3). All experimental protocols involving
+mouse experiments were approved by the Animal Care and Experiment
+Committee of Shanghai Jiao Tong University School of Medicine.
+2.3. Induction of TNMD overexpression with Dox treatment
+In all experiments, four types of cells derived from the conditional
+TNMD overexpressing mice were tested for conditional TNMD gene
+overexpression with the addition of 5 μM Dox (Sigma, St. Louis, MO,
+USA) in culture medium.
+2.4. Harvest and in vitro culture of BMSCs
+To obtain murine primary BMSCs from the transgenic mice, 10 con-
+ditional TNMD overexpressing mice aged from 3 to 4 weeks old were
+randomly selected and sacriﬁced via excessive anesthesia, and the
+bone marrow cells were harvested from the femurs by grinding and
+rinsing aseptically as previously described (Zhu et al., 2015). In this
+study, BMSCs derived from 3 to 4 mice were combined into one cell
+sample, total 3 cell samples were generated from 10 mice. The derived
+cells were cultured in low glucose Dulbecco's modiﬁed Eagle's medium
+(DMEM) (Hyclone, Logan City, UT) supplemented with 10% fetal bovine
+serum (FBS) (Gibco, Grand Island, NY), 100 U/ml penicillin and
+100 mg/ml streptomycin. After culture for 48 h, non-adherent cells
+were removed by changing the medium. The adherent cells were
+grown and sorted by magnetic-activated cell sorting (MACS) (Miltenyi
+Biotec, Germany) using a mouse lineage cell depletion kit (Miltenyi
+Biotec, Germany) as previously described (Zhu et al., 2015). The lineage
+negative cells were considered as BMSCs and seeded at a density of
+2 × 104 cells/cm2. To induce the overexpression of TNMD, 5 μM Dox
+was added into the DMEM culture medium with medium change
+every 2 days.
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+2.5. Harvest and in vitro culture of ASCs and tri-lineage differentiation
+2.7. Harvest and in vitro culture of TCs
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+3
+To obtain murine primary ASCs from the transgenic mice, 20 trans-
+genic mice aged from 6 to 8 weeks old were randomly selected and
+sacriﬁced as previously described. ASCs derived from 6 to 7 mice were
+combined into one cell sample, total 3 cell samples were generated
+from 20 mice. Brieﬂy, subcutaneous adipose tissues were harvested
+from the inguinal and armpit areas, cut into small fragments and
+digested with 0.075% (w/v) collagenase (NB4, Serva, France) in
+serum-free low glucose DMEM at 37 °C for 2 h. The cell suspension
+was harvested and ﬁltered through a 40-μm nylon ﬁlter mesh (BD Fal-
+con, Bedford, MA) to remove tissue residues. The cells were seeded
+onto 10-cm dishes at a density of 3 × 105 cells/cm2 for primary culture
+and 2 × 104 for subculture. Cell culture medium was consisted of DMEM
+plus 10% FBS with or without 5 μM Dox, and changed every 2 days.
+The assessing of multi-lineage differentiation of ASCs in vitro was
+described previously (Xiong et al., 2015). The cells were seeded at a
+density of 1 × 105 cells per well in six-well plates followed by the
+change of differentiation media every 2 days. The differentiation
+media were prepared as below described.
+For osteogenic induction, non-induced or Dox-induced cells were
+cultured in osteogenic medium (0.01 μM 1,25-dihydroxy vitamin
+D3,Sigma, St Louis, MO), 50 μM ascorbate-2-phosphate (Sigma, St
+Louis, MO) and 10 mM β-glycerol phosphate (Sigma, St Louis, MO) for
+21 days. Total 5 views (× 100) were randomly selected from 3 cell sam-
+ples and subjected to quantitative analysis of Alizarin Red staining area
+with Image-Pro Plus processing software (version 6.0, Media Cybernet-
+ics, Silver Spring, MD). Mean plus standard deviation was derived from
+the data of ﬁve views.
+To induce chondrogenic differentiation in a pellet culture fashion,
+ASCs were resuspended to 5 × 105 cells in 1 ml culture medium, then
+centrifuged at 240g for 5 min to form pellets according to a previously
+established protocol (Zhu et al., 2015). These pellets were cultured in
+chondrogenic medium (50 μM ascorbate-2-phosphate, Sigma, St Louis,
+MO), 10 ng/ml transforming growth factor-β3 (TGF-β3, R&D Systems,
+Minneapolis, MN) and 50 ng/ml insulin-like growth factor-1 (IGF-1,
+R&D Systems, Minneapolis, MN) and the medium was changed every
+2 days. After 3 weeks of in vitro culture, pellet samples were evaluated
+by qPCR and histochemical analyses. Total 3 histology samples respec-
+tively derived from 3 pellet samples were subjected to quantitative
+analysis of Alcian Blue staining area with Image-Pro Plus processing
+software. Mean plus standard deviation was derived from the data of
+three views.
+For adipogenic induction, both Dox treated and non-treated cells
+were cultured in adipogenic medium (0.5 mM isobutylmethylxanthine
+(Sigma, St Louis, MO), 1 μM dexamethasone (Sigma, St Louis, MO),
+10 μM insulin (Gibco, Grand Island, NY) and 200 μM indomethacin
+(Sigma, St Louis, MO)) for 10 days. Total 5 views (× 100) were randomly
+selected from 3 cell samples and subjected to quantitative analysis of Oil
+Red staining area with Image-Pro Plus processing software. Mean plus
+standard deviation was derived from the data of ﬁve views.
+2.6. Harvest and in vitro culture of DFs
+DFs derived from 6 to 7 mice aged from 6 to 8 weeks were combined
+into one cell sample, and total 3 cell samples were generated from 20
+sacriﬁced transgenic mice. Skin tissue from back of the mice was har-
+vested and cut into strips in the width of 5 mm. To separate epidermis
+and dermis, the skin tissue was treated with 0.2% dispase (Roche Diag-
+nostics, Indianapolis, IN) at 4 °C overnight followed by mechanical sep-
+aration of dermis and epidermis. The dermis was then cut into small
+pieces and treated with 0.2% collagenase in serum-free high glucose
+DMEM on a rotator at 37 °C for 2 h. The cells were cultured with high
+glucose DMEM culture medium containing 10% FBS at a density of
+3 × 104 cells/cm2. Culture medium with or without 5 μM Dox was
+changed every 2–3 days for cell expansion and further experiments.
+Total 20 transgenic mice aged from 6 to 8 weeks were included. TCs
+derived from 6 to 7 mice were combined into one cell sample, and total
+3 cell samples were generated from 20 mice. Brieﬂy, ﬂexor tendons
+were harvested from hind limbs, collected, and surrounding soft tissues
+were carefully removed. The harvested tendons were minced and sub-
+jected to enzyme digestion with 0.2% collagenase in serum-free high
+glucose DMEM on a rotator at 37 °C for 2 h. After being ﬁltered through
+a 40-μm ﬁlter mesh, the isolated primary TCs were seeded with high
+glucose DMEM culture medium containing 10% FBS at a density of
+1 × 106 cells/cm2 for primary culture, and 5 × 105 cells/cm2 for subcul-
+ture. Culture medium with or without 5 μM Dox was changed every 2–
+3 days for cell expansion and further experiments.
+2.8. Cell morphology analysis
+As previously described (Wang et al., 2016), both Dox-induced and
+non-induced cells of all four cell types were observed under phase-con-
+trast microscope (Nikon, Japan) and 3 views of high power magniﬁca-
+tion (× 100) were randomly selected from each group, in which 20
+cells were randomly selected from each view and analyzed with
+Image-Pro Plus processing software (version 6.0, Media Cybernetics, Sil-
+ver Spring, MD). The analyzed characters included cell area, cell body
+aspect (length/width ratio) cell length and cell width. All measurements
+were performed on 20 cells per view and total 3 views of each group
+were measured to generate means and standard deviation.
+2.9. Cell proliferation assay
+Passage 3 of all four different cell types were seeded in 24-well plate
+at a density of (1–2) × 104 cells/well. Culture medium with or without
+5 μM Dox was changed every 2 days. At days 1, 3, 5, 7, 9 and 11, cells
+in quadruplicate wells of each group were digested with 0.05% or
+0.25% trypsin (Gibco, Grand Island, NY) and counted separately. The
+assay was repeated in 3 cell samples for each group.
+2.10. RNA extraction and qPCR assay
+Total RNAs were extracted respectively from different types of cells
+at passage 3, which were cultured with or without Dox for 7 days
+using Trizol reagent (Invitrogen, Carlsbad, CA) for examining tenogenic
+gene expression. Or the cells were harvested at desired time points for
+tri-lineage differentiation as described in Section 2.5. Brieﬂy, 2 μg RNA
+was reversely transcribed into cDNA with AMV reverse transcriptase
+(Promega, Madison, WI) in a 20-μl reaction solution including 4 μl 5 ×
+buffer, 1 μl oligo-(dT), 2 μl dNTP, 0.5 μl RNase inhibitor and 0.5 μl AMV
+reverse transcriptase, using ddH2O to meet the ﬁnal volume. To tran-
+scribe cDNAs, the mixture was incubated at 30°Cfor 10 min, 42 °C for
+60 min, and 95 °C for 5 min (Wang et al., 2015).
+A Power SYBR Green PCR master mix (2 ×) (Applied Biosystems, Fos-
+ter City, CA) and a real-time thermal cycler (stratagene Mx3000PTM
+QPCR System, La Jolla, CA) were employed to perform quantitative
+PCR (qPCR) analysis. The mixture of cDNA, PCR master mix, primers
+and ddH2O was incubated at 95 °C for 10 min, then with 40 cycles of
+95 °C for 30 s, at annealing temperature (see Table 1) for 30 s, 72 °C
+for 45 s and 95 °C for 30 s. Analysis of each gene expression was con-
+ducted in triplicate, repeated in three samples and was normalized to
+glyceraldehyde-3-phosphate dehydrogenase (GAPDH) expression by
+using 2−ΔΔC(t) method.
+2.11. Comparison of relative gene expression levels among four cell types
+To compare the tenogenic differentiation or transdifferentiation po-
+tential among four cell types, the gene expression levels of each Dox-in-
+duced cell group were normalized to non-induced group with the same
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+4
+Table 1
+Primers used in qPCR analysis.
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+Gene name
+GAPDH
+Tenomodulin
+Scleraxis
+Collagen I
+Collagen III
+Collagen VI
+Decorin
+Tenascin-C
+AKP
+Runx2
+Osteocalcin
+Sox9
+Collagen II
+Aggrecan
+aP2
+PPARγ
+Adiponectin
+Primer sequence
+Annealing temperature (°C)
+PCR product size (bp)
+F: GACTTCAACAGCAACTCCCAC
+R: TCCACCACCCTGTTGCTGTA
+F: TGTACTGGATCAATCCCACTCT
+R: GCTCATTCTGGTCAATCCCCT
+F: CCTTCTGCCTCAGCAACCAG
+R: GGTCCAAAGTGGGGCTCTCCGTGACT
+F: GGCGGCCAGGGCTCCGACCC
+R: AATTCCTGGTCTGGGGCACC
+F: CAACCAGTGCAAGTGACCAA
+R: GCACCATTGAGACATTTTGAAG
+F: AGAACATAGCCTGGACG
+R: ACAACCCGCCTTAGAG
+F: CTACCTTCACAACAACAACATCTC
+R: GCAGAACGCACATAGACACATC
+F: CAAGGGAGACAAGGAGAGTGAT
+R: AGGCTGTAGTTGAGGCGGTAAC
+F: CCAACTCTTTTGTGCCAGAGA
+R: GGCTACATTGGTGTTGAGCTTTT
+F: GCCGCTAGAATTCAAAACAGTTGG
+R: GAATGGCAGCACGCTATTAAATCC
+F: CCCAGCGGCCCTGAGTCTGA
+R: CCCAGCGGCCCTGAGTCTGA
+F: GCTTGACGTGTGGCTTGTTC
+R: GAGCCGGATCTGAAGATGGA
+F: CACCAAATTCCTGTTCAGCC
+R: TGCACGAAACACACTGGTAAG
+F: TAGAGGATGTGAGTGGTCTT
+R: TCCACTAAGGTACTGTCCAC
+F: AAATCACCGCAGACGACA
+R: CACATTCCACCACCAGCT
+F: AGACCACTCGCATTCCTTT
+R: CCCACAGACTCGGCACTCA
+F: GCAGAGATGGCACTCCTGGA
+R: CCCTTCAGCTCCTGTCATTCC
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+125
+115
+156
+320
+174
+282
+165
+159
+110
+103
+136
+151
+124
+490
+138
+268
+101
+cell type separately. The relative gene level of non-induced group of
+each cell type was set as 1, so that relative expression level of one
+gene could be compared among four cell groups that were induced for
+TNMD overexpression with Dox.
+2.12. Cell colony forming efﬁciency assay
+Colony forming efﬁciency assay was performed as previously de-
+scribed (Xiong et al., 2015). Passage 3 ASCs with or without Dox-induc-
+tion were respectively seeded with DMEM plus 10% FBS on 10-cm
+dishes (10 dishes for each group) at a density of 2000 cells per dish. Cul-
+ture medium was changed every 3 days. After 2 weeks of culture, the
+cells were ﬁxed with 4% paraformaldehyde, stained with 0.1% crystal vi-
+olet and the number of colonies with diameter ≥ 2 mm was counted.
+2.13. Statistical analysis
+The statistical analyses were performed using the statistical software
+SPSS (version 19.0, SPSS, Chicago, IL). Data are presented as mean and
+standard deviation. Student's t-test was used for statistical analysis of
+all paired comparisons and one-way ANOVA test was used to analyze
+differences among different groups. Student-t-test was also used to an-
+alyze the difference of paired groups. A p-value b 0.05 was considered
+statistically signiﬁcant.
+3. Results
+3.1. Characterization of TNMD transgenic mouse
+The pTRE-TNMD plasmid (Fig. 1A) was injected into pronucleus of
+fertilized zygotes of C57BL/6 mice. The injected embryos divided and
+then produced 2-cell embryos after overnight culture and these were
+transferred to the oviducts of 3 pseudopregnant female C57BL/6 mice.
+These transferred embryos resulted in 41 live progeny and PCR results
+indicated that 8 (19.5%) of these carried pTRE-TNMD transgene includ-
+ing founders No. 3, No. 7, No. 8, No. 9, No. 28, No. 29, No. 31 and No. 37
+(Fig. 1B, Table 2). During the further breeding, some founders failed to
+give offspring mice that carried the transgene due to various causes,
+and only founders No. 7 and No. 9 succeeded (Table 2). Following the
+progress of the mice reproduction, the positive rate of pTRE-TNMD de-
+tected by RT-PCR increased gradually, and reached 100% positive after
+ninth generations of reproduction derived from No. 7 and No. 9 founder
+mice. The ﬁnally generated conditional TNMD overexpressing mice pos-
+itive for bitransgenes (pTRE-TNMD and rtTA) revealed no obvious ab-
+normal phenotype when compared to pTRE-TNMD transgene mice
+(Fig. 1C, D). More importantly, all four types of cells (BMSCs, ASCs, DFs
+and TCs) derived from the double-transgene mice exhibited conditional
+TNMD overexpression temporally induced by Dox and well controlled
+in a dose-depended manner in vitro (data not showed), and 5 μM was
+selected as the optimal dosage for various experiments based on prima-
+ry tests.
+3.2. No effect on cell morphology by conditional TNMD overexpression
+To observe the effect of induced TNMD overexpression on cell mor-
+phology, four types of cells were cultured on the dishes. As shown in Fig.
+2A, after 7 days of culture without or with 5 μM Dox-induction, micro-
+scopic observation revealed no obvious cell morphological difference
+between induced and non-induced cells. The BMSCs exhibited relatively
+heterogeneous cell shapes in both Dox-induced and non-induced
+groups. Among them, most cells exhibit polygon cell shape along with
+some small sized and light reﬂected cells. The cultured ASCs revealed
+relatively homogenous cells, which are relatively smaller. By contrast,
+both TCs and DFs showed homogenous morphology of spindle shape
+with no difference between induced and non-induced groups.
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+5
+Fig. 1. The procedure of generating conditional tenomodulin (TNMD) overexpressing mice. (A) The plasmid construct containing pTRE responsive element and TNMD coding cDNA (pTRE-
+TNMD plasmid). (B) The genotyping of pTRE-TNMD founder mice. The symbol “+” indicates a positive control using pTRE-TNMD plasmid; “WT” is C57BL/6 wild type mice serving as a
+negative control, and “−” is ddH2O as a blank control. (C) The conditional TNMD overexpressing transgenic mice were generated by hybridizing pTRE-TNMD transgenic mice with STOCK
+Tg (rtTAhCMV) 4Uh/J transgenic mice. (D) The genotyping of C57BL/6 wild type mice (WT), STOCK Tg (rtTAhCMV) 4Uh/J mice (rtTA), pTRE-TNMD mice (pTRE-TNMD), and conditional
+TNMD overexpressing transgenic mice (pTRE-TNMD/rtTA).
+To further provide quantitative supporting data, Dox-induced and
+non-induced cells of each cell type were analyzed for their morpholog-
+ical parameters. As shown in Fig. 3, there was no signiﬁcant difference
+between Dox-induced and non-induced cells in cell area, cell body as-
+pect, cell length and cell width for all four cell types (p N 0.05), except
+for cell area of TCs (p b 0.05).
+3.3. Conditional TNMD overexpression promoted cell proliferation
+Passage 3 cells were cultured in 24 well-plate at the density of (1–
+2) × 104 cells/cm2 and cultured in DMEM plus 10% FBS, and the cells
+were collected every other days for total 11 days and counted. As
+shown in Fig. 2B–E, all cell types except for DFs revealed enhanced cell
+proliferation after Dox induction, with signiﬁcant difference in total
+cell number between Dox-induced and non-induced groups (p b 0.05)
+at most of the examined time points.
+3.4. Conditional TNMD overexpression promoted differentiation and
+transdifferentiation towards tenogenic lineage
+In this study, scleraxis (SCX), collagens I (COL1), III (COL3) and VI
+(COL6), decorin (DCN) and tenascin-C (TNC) were used as the teongenic
+markers to examine this particular lineage differentiation. As shown in
+Fig. 4, after Dox induction for 7 days, both BMSCs (Fig. 4A) and ASCs
+(Fig.4B) showed more than two folds of up-regulated gene expression
+level of TNMD when compared to non-induced cells (p b 0.01), indicat-
+ing the success of this transgenic animal model. Relatively, the TNMD
+gene expression levels were less up-regulated in both TCs (p b 0.01,
+Table 2
+The summary of positive ratio of pTRE-TNMD transgene mice.
+Founder (no.)
+Total (positive)
+3 (male)
+7 (male)
+8 (male)
+9 (male)
+28 (female)
+29 (female)
+31 (female)
+37 (male)
+In total
+Positive ratio
+F1
+32 (3)
+12 (8)
+20 (6)
+23 (10)
+0
+27 (6)
+23 (8)
+40 (0)
+117 (41)
+23.0%
+F2
+55 (31)
+60 (47)
+F3
+48 (37)
+93 (79)
+F4
+8 (6)
+57 (50)
+F5
+F6
+F7
+F8
+F9
+81 (70)
+120 (112)
+104 (98)
+113 (113)
+143 (143)
+62 (48)
+57 (43)
+45 (32)
+89 (78)
+69 (59)
+95 (89)
+101 (100)
+112 (112)
+50 (31)
+83 (46)
+227 (157)
+69.2%
+281 (205)
+73.0%
+110 (88)
+80.0%
+170 (148)
+87.1%
+189 (171)
+90.5%
+199 (187)
+94.0%
+214 (213)
+99.5%
+255 (255)
+100.0%
+Results
+Reproductive failure
+Found new mice line
+Reproductive failure
+Found new mice line
+Accidental death
+Reproductive failure
+Reproductive failure
+Accidental death
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+6
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+Fig. 2. TNMD overexpression promotes cell proliferation but has no effect on cell morphology. No signiﬁcant difference in cell morphology change is observed in all four cell types between
+their respective Dox treated and non-treated paired groups (A). TNMD overexpression induced by Dox treatment enhances the proliferation of BMSCs (B), ASCs (C) and TCs (D) but not
+DFs (E). Scale bar = 100 μm; *p b 0.05, **p b 0.01.
+Fig. 4C) and DFs (p b 0.01, Fig. 4D), suggesting that differential expres-
+sion levels induced by Dox among different types of tissues.
+Even so, up-regulated TNMD gene expression could drive tenogenic
+differentiation of BMSCs (Fig. 4A) and ASCs (Fig. 4B) and DF tenogenic
+transdifferentiation (Fig. 4D), as the gene expression of all these
+markers was signiﬁcant ly enhanced (p b 0 .01 , or p b 0 .05) except
+for DCN in ASCs (p N 0 .05) and COL3 , TNC in DFs (p N 0 .05) . In
+addition, most markers , except for COL6 and DCN (p N 0 .05) , were
+enhanced for their gene expression in TCs (p b 0 .01 , or p b 0 .05 ,
+Fig. 4C).
+Fig. 3. Cell morphology analysis showed similarity between Dox-induced and non-induced cells of all cell types. (A) Cell area analysis; (B) Cell body aspect analysis; (C) Cell length analysis;
+(D) Cell width analysis.*p b 0.05.
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+7
+Fig. 4. Conditional TNMD overexpression promotes differentiation and transdifferentiation towards tenogenic lineage. qPCR analysis of the gene expression of tenogenic markers in BMSCs
+(A), ASCs (B), TCs (C) and DFs (D). Abbreviation: TNMD = tenomodulin; SCX = scleraxis; COL1 = collagen I; COL3 = collagen III; COL6 = collagen VI; DCN = decorin; TNC = tenascin-C.
+*p b 0.05; **p b 0.01.
+3.5. MSCs exhibited more potent tenogenic differentiation potential than
+mature differentiated cells
+The relative gene expression levels of tenogenic markers were com-
+pared among four different cell types. As shown in Fig. 5, among these
+cell types, BMSCs could be best induced for the expression of TNMD as
+well as other tenogenic markers (p b 0.05), indicating that BMSCs may
+have better potential for induced differentiation towards a particular
+lineage in a transgenic model. ASCs, as another type of MSCs, exhibited
+better induced expression of tenogenic markers than TCs for TNMD, TNC
+and COL6 (p b 0.05). However, DFs exhibited the expression levels of
+certain induced markers equivalent to those of ASCs, such as SCX, TNC,
+DCN, COL1, COL3 and COL6 (p N 0.05).
+3.6. Conditional TNMD overexpression promoted ASCs colony forming
+efﬁciency
+As shown in Fig. 6A–C, conditional TNMD overexpression led to sig-
+niﬁcantly enhanced colony forming efﬁciency. In the total 10 tested
+Fig. 5. Tenogenic differentiation potential comparison among four cell groups. The Dox induced gene expression levels relative to their non-induced levels were compared for BMSC, ASC,
+TC and DF groups for TNMD (Tenomodulin), SCX (scleraxis), COL1(collagen I), COL3(collagen III), COL6 (collagen VI), DCN(decorin) and TNC(tenascin-C). Groups labeled with different letters
+indicate statistically signiﬁcant difference (p b 0.05), whereas no signiﬁcant difference is found between the groups labeled with the same letter (p N 0.05).
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+8
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+Fig. 6. Conditional TNMD overexpression promotes ASC colony forming efﬁciency and inhibits other lineage differentiation potentials. Gross view of formed cell colonies of non-induced
+(A), Dox-induced (B) cells and their quantitative analyses (C). Speciﬁc histochemical staining of the ASCs under induced multi-lineage differentiation with or without Dox (D) and their
+respective semi-quantitative analyses of staining areas of Alizarin Red (E), Alcian Blue (F) and Oil Red (G). *p b 0.05.
+culture dishes for each group, cell cultures at the density of 2000 cells
+per 10 cm dish along with Dox induction formed averaged 23 ± 4.6 col-
+onies per dish, which was signiﬁcantly higher than that of the non-in-
+duced cells (17 ± 3.9 colonies per dish, p b 0.05).
+3.7. Conditional TNMD overexpression inhibited ASCs differentiation poten-
+tials towards other lineages
+Passage 3 ASCs derived from the transgenic mice were cultured with
+or without 5 μM Dox and were subjected to osteogenic, chondrogenic
+and adipogenic differentiation as described in the method. As shown,
+conditional overexpression of TNMD signiﬁcantly inhibited the gene ex-
+pression of alkaline phosphatase (AKP) and Osteocalcin (p b 0.05), but
+not Runx2 (p N 0.05) under osteogenic induction condition (Fig. 7A).
+Relatively weaker Alizarin Red staining was found in Dox-induced
+group than in non-induced group with signiﬁcant difference in the
+staining area between two groups (Fig. 6D and E, p b 0.05).
+Similarly, conditional TNMD overexpression led to signiﬁcantly re-
+duced gene expression levels of SRY (sex determining region Y)-box 9
+(Sox9), collagen II (COL2) and Aggrecan when compared to the levels
+of non-induced cells (p b 0.05, Fig. 7B). Additionally, relatively weaker
+Alcian Blue staining was found in induced group than in non-induced
+group with signiﬁcant difference in the staining area between two
+groups (p b 0.05, Fig. 6D and F).
+However, conditional overexpression of TNMD seemed to have no
+effect on adipogenic differentiation of ASCs. As shown in Fig. 7C, no sig-
+niﬁcant difference in the gene expression levels of adipocyte protein
+2(aP2), peroxisome proliferator-activated receptor-γ (PPARγ), and
+Adiponectin between two groups (p N 0.05). Additionally, there was
+also no signiﬁcant difference in the Oil Red staining intensity and stain-
+ing area between two groups (Fig. 6D and G, p N 0.05).
+4. Discussion
+Cell functions according to the signals triggered by a certain mole-
+cule. Many examples have demonstrated such an important biological
+process which determines the eventual function of a given cell type.
+For example, transfection of BMP into cells could not only drive osteo-
+genic differentiation of MSCs (Meinel et al., 2006), but also induce
+transdifferentiation of DFs into osteoblasts (Ishihara et al., 2015). By
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+9
+similar effect on tenogenic lineage differentiation of other cell types.
+With the advances in genetic manipulation technologies, the best way
+to study gene function might be through the generation of “gain-of-
+function” (transgenic) or “loss-of-function” (knock-out, knock-down)
+animal models. Previous report already revealed the importance of
+TNMD in tendon development via loss-of-function model (Docheva et
+al., 2005; Alberton et al., 2015), this study further investigated its func-
+tion for cell lineage switch using gain-of-function way via TNMD over-
+expression transgenic mouse model.
+Tet-On transgenic mouse is an animal model that can efﬁciently in-
+vestigate the function of a certain molecule, because the expression of
+desired gene can be regulated in a temporal and dose-dependent way
+(Kistner et al., 1996). As shown in Fig. 1, in the current study, a Dox-de-
+pendent regulator, rtTA was employed to activate TNMD gene expres-
+sion by its binding to pTRE-TNMD in the presence of Dox induction.
+During the process, it was found that this transgenic mouse line has
+been bred to homozygosity, and only 2 out of 8 founders were able to
+be propagated to the ninth generation without silencing of transgene
+expression (Table 2). Through further breeding with STOCK Tg
+(rtTAhCMV) 4Uh/J mice, we were able to generate Tet-On conditional
+TNMD transgenic mice, and the TNMD expression could be induced by
+Dox temporally and in a dose-dependent manner (data not shown).
+Although this animal model is potentially valuable for investigating
+TNMD overexpression in tissue development, the current study mainly
+focused on the effect of its overexpression on tenogenic lineage differ-
+entiation of adult cells in an in vitro model.
+In this study, BMSCs, ASCs and DFs were chosen because the former
+two represent MSCs, whereas DFs represent mature and differentiated
+somatic cell type. In addition, we also used TCs as a positive control.
+As shown in Fig. 4, it was observed that Dox induction could signiﬁcant-
+ly enhance TNMD expression in all four cell types along with signiﬁcant-
+ly up-regulated gene expression of all tenogenic markers in general,
+indicating that overexpressed TNMD not only enhanced tenogenic line-
+age differentiation of MSCs, but was also able to promote
+transdifferentiation of DFs.
+To further compare the potentials among different cell types to-
+wards tenogenic lineage, we artiﬁcially grouped the relative gene ex-
+pression levels of a certain molecule from four cell types to make a
+horizontal comparison. As shown in Fig. 5, although similar level of
+TNMD was observed between BMSCs and ASCs (Fig. 5A), a signiﬁcantly
+higher level of induced SCX expression, a transcription factor driving
+MSC towards tenogenic lineage, was observed in BMSCs than in ASCs
+(Fig. 5B), indicating greater tenogenic potential in BMSCs than in ASCs.
+Interestingly, all tenogenic genes were induced in TCs with relatively
+less extent. Although the mechanism remains unknown, we assumed
+this was because that TCs themselves already exhibited a potent
+tenogenic phenotype with relatively higher endogenous expression
+levels and thus exogenous gene expression would not be able to further
+greatly induce the expression of tenogenic markers.
+Although DFs represent fully differentiated somatic cells, the relative
+gene expression comparison indicates that DFs can achieve tenogenic
+differentiation potential similar to that of ASCs. As shown in Fig. 5,
+there was no signiﬁcant difference in the gene expression levels of
+SCX, TNC, DCN, COL1, COL3 and COL6 between ASCs and DFs, suggesting
+that DFs may become a possible cell source for tendon regeneration. In-
+deed, it has been shown that DFs could be induced into a tenogenic phe-
+notype via artiﬁcial cell elongation (Wang et al., 2016). In our previous
+report, we also showed that DFs could replace TCs to engineer and re-
+pair tendon defect in vivo (Liu et al., 2006).
+A previous study from our group showed that TNMD overexpression
+could reduce BMSCs differentiation towards osteogenic, chondrogenic
+and adipogenic lineage (Jiang et al., 2016). Similar to BMSCs, TNMD
+overexpression also led to signiﬁcantly reduced differential potentials
+towards osteogenic and chondrogenic lineages of induced ASCs, as the
+gene expression levels of AKP, osteocalcin (osteogenic markers), Sox 9,
+collagen 2 and Aggrecan (chondrogenic markers) were signiﬁcantly
+Fig. 7. TNMD overexpression inhibits the expression of osteogenic and chondrogenic
+genes of ASCs under the induction of multi-lineage differentiation. qPCR analysis reveals
+differential gene expression between non-induced and Dox-induced cell groups for
+osteogenic (A) and chondrogenic (B) markers, but not for adipogenic markers(C).
+Abbreviation: AKP = alkaline phosphatase; Runx2 = Runt-related transcription factor 2;
+Sox9 = SRY (sex determining region Y)-box 9; COL2 = collagen II; aP2 = adipocyte
+protein 2; PPARγ = peroxisome proliferator-activated receptor-γ. **p b 0.01.
+overexpressing exogenous MyoD, a ﬁbroblast cell line could be induced
+towards a skeletal muscle linage (Qin et al., 2007).
+Tendon is an important part of musculoskeletal system, which is an
+essential tissue type that transfers muscle contraction force to limb
+movement. Additionally, TNMD is considered as an important molecule
+for tendon development, because it not only serves as a tenogenic line-
+age marker, but also regulates tendon matrix maturation and guides
+tendon stem/progenitor cell destiny (Shukunami et al., 2001; Docheva
+et al., 2005; Jiang et al., 2016). As a type II transmembrane glycoprotein,
+it is composed of extracellular domain which contains a highly con-
+served C-terminal with eight cysteine residues region, a transmem-
+brane domain from amino acid (aa) 31 to aa 49 (Brandau et al., 2001;
+Dex et al., 2016). Thus far, its functions remain to be explored in addi-
+tion to being as a speciﬁc marker for mature TCs. It was found that TC
+number signiﬁcantly reduced and collagen superstructure was
+disrupted in the tendon of TNMD knock-out mice, indicating its poten-
+tial role in tendon development (Docheva et al., 2005; Alberton et al.,
+2015).
+In our previous study, we speciﬁcally invested the role of TNMD
+overexpression in MSC tenogenic differentiation. It was demonstrated
+that the overexpression not only enhanced tenogenic differentiation
+of MSC line, but also promoted neotendon formation in vivo (Jiang et
+al., 2016). However, it remains unknown if such an approach will have
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+10
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+down-regulated after Dox induction (Fig. 7A and B). This was also sup-
+ported by the reduced staining area of Alizarin Red (Fig. 6D and E) and
+Alcian Blue (Fig. 6D and F).
+However, in contrast to our expectation, TNMD overexpression had
+no effect on adipogenic differentiation potential in ASCs. Actually, previ-
+ous studies revealed that TNMD may also participate in fat metabolism
+(Tolppanen et al., 2007; Tolppanen et al., 2010). TNMD expression in-
+creases in human preadipocytes during differentiation, whereas silenc-
+ing TNMD blocks adipogenesis (Senol-Cosar et al., 2016). All these
+reports suggest that TNMD may act as a protective factor in visceral ad-
+ipose tissue to alleviate insulin resistance in obesity (Senol-Cosar et al.,
+2016). Therefore, we assume that no effect of TNMD overexpression on
+adipogenic lineage differentiation is likely caused by two reasons. One is
+the already highly expressed endogenous TNMD gene when compared
+to other vascularized soft tissues (Brandau et al., 2001), which renders
+ASCs relatively insensitive to the driving effect of exogenous TNMD
+gene expression. The other may rely on the great adipogenic lineage po-
+tential naturally preserved in ASCs, which is less inﬂuenced by exoge-
+nous gene when compared to other types of MSCs such as BMSCs.
+Overall, transgenic mouse model via inserting TNMD gene into a fer-
+tilized egg is theoretically able to distribute the gene evenly to all tissue
+types in a fully developed animal body. This method provides a means
+of ideal comparison among different cell types of the same animals, be-
+cause the variations in gene transfection efﬁciency, gene insert place
+and activation/inactivation of the inserted gene can be avoided in gen-
+eral. Interestingly, this horizontal comparison provides the valuable in-
+formation that BMSCs are more potent than ASCs for tenogenic lineage
+differentiation and DFs exhibit the tenogenic potential similar to or per-
+haps even better than ASCs. These ﬁndings may provide valuable ratio-
+nales for the selection of proper cell source for tendon regeneration. In
+the future, revealing the detailed mechanism how the TNMD overex-
+pression triggers the tenogenic differentiation pathway in BMSCs will
+be essential for both basic and translational works.
+Declaration of interest
+The authors have no conﬂict of interests to disclose.
+Acknowledgments
+This study was supported by National Natural Science Foundation
+(31170937, 31470943, 81401530), National “863” (2012AA020507)
+Project Foundation, and Specialized Research Fund for the Doctoral Pro-
+gram of Higher Education (20130072120028).
+References
+Alberton, P., Dex, S., Popov, C., Shukunami, C., Schieker, M., Docheva, D., 2015. Loss of
+tenomodulin results in reduced self-renewal and augmented senescence of tendon
+stem/progenitor cells. Stem Cells Dev. 24, 597–609.
+Brandau, O., Meindl, A., Fassler, R., Aszodi, A., 2001. A novel gene, tendon, is strongly
+expressed in tendons and ligaments and shows high homology with
+chondromodulin-I. Dev. Dyn. 221, 72–80.
+Burcin, M.M., Schiedner, G., Kochanek, S., Tsai, S.Y., O'Malley, B.W., 1999. Adenovirus-me-
+diated regulable target gene expression in vivo. Proc. Natl. Acad. Sci. U. S. A. 96,
+355–360.
+Chen, B., Ding, J., Zhang, W., Zhou, G., Cao, Y., Liu, W., Wang, B., 2016. Tissue engineering of
+tendons: a comparison of muscle-derived cells, tenocytes, and dermal ﬁbroblasts as
+cell sources. Plast. Reconstr. Surg. 137, 536e–544e.
+Conner, D.A., 2004. Transgenic mouse production by zygote injection. Curr. Protoc. Mol.
+Biol. (Chapter 23, Unit 23–9).
+Deng, D., Wang, W., Wang, B., Zhang, P., Zhou, G., Zhang, W.J., Cao, Y., Liu, W., 2014. Repair
+of Achilles tendon defect with autologous ASCs engineered tendon in a rabbit model.
+Biomaterials 35, 8801–8809.
+Dex, S., Lin, D., Shukunami, C., Docheva, D., 2016. Tenogenic modulating insider factor:
+systematic assessment on the functions of tenomodulin gene. Gene 587, 1–17.
+Docheva, D., Hunziker, E.B., Fassler, R., Brandau, O., 2005. Tenomodulin is necessary for
+tenocyte proliferation and tendon maturation. Mol. Cell. Biol. 25, 699–705.
+Docheva, D., Muller, S.A., Majewski, M., Evans, C.H., 2015. Biologics for tendon repair. Adv.
+Drug Deliv. Rev. 84, 222–239.
+Furth, P.A., St Onge, L., Boger, H., Gruss , P., Gossen, M., Kistner, A., Bujard, H.,
+Hennighausen, L., 1994. Temporal control of gene expression in transgenic mice by
+a tetracycline-responsive promoter. Proc. Natl. Acad. Sci. U. S. A. 91, 9302–9306.
+Gaspar, D., Spanoudes, K., Holladay, C., Pandit, A., Zeugolis, D., 2015. Progress in cell-based
+therapies for tendon repair. Adv. Drug Deliv. Rev. 84, 240–256.
+Gossen, M., Bujard, H., 1992. Tight control of gene expression in mammalian cells by tet-
+racycline-responsive promoters. Proc. Natl. Acad. Sci. U. S. A. 89, 5547–5551.
+He, N., Xiao, Z., Yin, T., Stubbs, J., Li, L., Quarles, L.D., 2011. Inducible expression of Runx2
+results in multiorgan abnormalities in mice. J. Cell. Biochem. 112, 653–665.
+Ishihara, A., Weisbrode, S.E., Bertone, A.L., 2015. Autologous implantation of BMP2-ex-
+pressing dermal ﬁbroblasts to improve bone mineral density and architecture in rab-
+bit long bones. J. Orthop. Res. 33, 1455–1465.
+Jazwa, A., Florczyk, U., Jozkowicz, A., Dulak, J., 2013. Gene therapy on demand: site speciﬁc
+regulation of gene therapy. Gene 525, 229–238.
+Jiang, Y., Shi, Y., He, J., Zhang, Z., Zhou, G., Zhang, W., Cao, Y., Liu, W., 2016. Enhanced
+tenogenic differentiation and tendon-like tissue formation by tenomodulin overex-
+pression in murine mesenchymal stem cells. J. Tissue Eng. Regen. Med. http://dx.
+doi.org/10.1002/term.2150.
+Kistner, A., Gossen, M., Zimmermann, F., Jerecic, J., Ullmer, C., Lubbert, H., Bujard, H., 1996.
+Doxycycline-mediated quantitative and tissue-speciﬁc control of gene expression in
+transgenic mice. Proc. Natl. Acad. Sci. U. S. A. 93, 10933–10938.
+Liu, W., Chen, B., Deng, D., Xu, F., Cui, L., Cao, Y., 2006. Repair of tendon defect with dermal
+ﬁbroblast engineered tendon in a porcine model. Tissue Eng. 12, 775–788.
+Liu, C., Xie, W., Gui, C., Du, Y., 2013. Pronuclear microinjection and oviduct transfer proce-
+dures for transgenic mouse production. Methods Mol. Biol. 1027, 217–232.
+Lu, Y.F., Chan, K.M., Li, G., Zhang, J.F., 2016. Tenogenic differentiation of mesenchymal
+stem cells and noncoding RNA: from bench to bedside. Exp. Cell Res. 341, 237–242.
+Meinel, L., Hofmann, S., Betz, O., Fajardo, R., Merkle, H.P., Langer, R., Evans, C.H., Vunjak-
+Novakovic, G., Kaplan, D.L., 2006. Osteogenesis by human mesenchymal stem cells
+cultured on silk biomaterials: comparison of adenovirus mediated gene transfer
+and protein delivery of BMP-2. Biomaterials 27, 4993–5002.
+No, D., Yao, T.P., Evans, R.M., 1996. Ecdysone-inducible gene expression in mammalian
+cells and transgenic mice. Proc. Natl. Acad. Sci. U. S. A. 93, 3346–3351.
+Oshima, Y., Shukunami, C., Honda, J., Nishida, K., Tashiro, F., Miyazaki, J., Hiraki, Y., Tano, Y.,
+2003. Expression and localization of tenomodulin, a transmembrane type
+chondromodulin-I-related angiogenesis inhibitor, in mouse eyes. Invest. Ophthalmol.
+Vis. Sci. 44, 1814–1823.
+Oshima, Y., Sato, K., Tashiro, F., Miyazaki, J., Nishida, K., Hiraki, Y., Tano, Y., Shukunami, C.,
+2004. Anti-angiogenic action of the C-terminal domain of tenomodulin that shares
+homology with chondromodulin-I. J. Cell Sci. 117, 2731–2744.
+Qin, R.F., Mao, T.Q., Gu, X.M., Hu, K.J., Liu, Y.P., Chen, J.W., Nie, X., 2007. Regulation of skel-
+etal muscle differentiation in ﬁbroblasts by exogenous MyoD gene in vitro and in
+vivo. Mol. Cell. Biochem. 302, 233–239.
+Rabiee, F., Forouzanfar, M., Ghazvini Zadegan, F., Tanhaei, S., Ghaedi, K., Motovali Bashi,
+M., Baharvand, H., Nasr-Esfahani, M.H., 2014. Induced expression of Fndc5 signiﬁ-
+cantly increased cardiomyocyte differentiation rate of mouse embryonic stem cells.
+Gene 551, 127–137.
+Saiki, A., Olsson, M., Jernas, M., Gummesson, A., McTernan, P.G., Andersson, J., Jacobson, P.,
+Sjoholm, K., Olsson, B., Yamamura, S., Walley, A., Froguel, P., Carlsson, B., Sjostrom, L.,
+Svensson, P.A., Carlsson, L.M., 2009. Tenomodulin is highly expressed in adipose tis-
+sue, increased in obesity, and down-regulated during diet-induced weight loss.
+J. Clin. Endocrinol. Metab. 94, 3987–3994.
+Senol-Cosar, O., Flach, R.J., DiStefano, M., Chawla, A., Nicoloro, S., Straubhaar, J., Hardy, O.T.,
+Noh, H.L., Kim, J.K., Wabitsch, M., Scherer, P.E., Czech, M.P., 2016. Tenomodulin pro-
+motes human adipocyte differentiation and beneﬁcial visceral adipose tissue expan-
+sion. Nat. Commun. 7, 10686.
+Shukunami, C., Oshima, Y., Hiraki, Y., 2001. Molecular cloning of tenomodulin, a novel
+chondromodulin-I related gene. Biochem. Biophys. Res. Commun. 280, 1323–1327.
+Tolppanen, A.M., Pulkkinen, L., Kolehmainen, M., Schwab, U., Lindstrom, J., Tuomilehto, J.,
+Uusitupa, M., 2007. Tenomodulin is associated with obesity and diabetes risk: the
+Finnish diabetes prevention study. Obesity (Silver Spring) 15, 1082–1088.
+Tolppanen, A.M., Pulkkinen, L., Kuulasmaa, T., Kolehmainen, M., Schwab, U., Lindstrom, J.,
+Tuomilehto, J., Uusitupa, M., Kuusisto, J., 2008. The genetic variation in the
+tenomodulin gene is associated with serum total and LDL cholesterol in a body
+size-dependent manner. Int. J. Obes.(Lond.) 32, 1868–1872.
+Tolppanen, A.M., Kolehmainen, M., Pulkkinen, L., Uusitupa, M., 2010. Tenomodulin gene
+and obesity-related phenotypes. Ann. Med. 42, 265–275.
+Wang, B., Liu, W., Zhang, Y., Jiang, Y., Zhang, W.J., Zhou, G., Cui, L., Cao, Y., 2008.
+Engineering of extensor tendon complex by an ex vivo approach. Biomaterials 29,
+2954–2961.
+Wang, W., He, A., Zhang, Z., Zhang, W., Zhou, G., Cao, Y., Liu, W., 2015. Induction of tran-
+sient tenogenic phenotype of high-density cultured human dermal ﬁbroblasts. Con-
+nect. Tissue Res. 56, 288–299.
+Wang, W., Li, J., Wang, K., Zhang, Z., Zhang, W., Zhou, G., Cao, Y., Ye, M., Zou, H., Liu, W.,
+2016. Induction of predominant tenogenic phenotype in human dermal ﬁbroblasts
+via synergistic effect of TGF-beta and elongated cell shape. Am. J. Physiol. Cell Physiol.
+310, C357–C372.
+Xiong, Y., He, J., Zhang, W., Zhou, G., Cao, Y., Liu, W., 2015. Retention of the stemness of
+mouse adipose-derived stem cells by their expansion on human bone marrow stro-
+mal cell-derived extracellular matrix. Tissue Eng. Part A 21, 1886–1894.
+Ye, X., Rivera, V.M., Zoltick, P., Cerasoli Jr., F., Schnell, M.A., Gao, G., Hughes, J.V., Gilman, M.,
+Wilson, J.M., 1999. Regulated delivery of therapeutic proteins after in vivo somatic
+cell gene transfer. Science 283, 88–91.
+Yin, Z., Chen, X., Zhu, T., Hu, J.J., Song, H.X., Shen, W.L., Jiang, L.Y., Heng, B.C., Ji, J.F., Ouyang,
+H.W., 2013. The effect of decellularized matrices on human tendon stem/progenitor
+cell differentiation and tendon repair. Acta Biomater. 9, 9317–9329.
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028
+Yin, Z., Guo, J., Wu, T.Y., Chen, X., Xu, L.L., Lin, S.E., Sun, Y.X., Chan, K.M., Ouyang, H., Li, G.,
+2016. Stepwise differentiation of mesenchymal stem cells augments tendon-like tis-
+sue formation and defect repair in vivo. Stem Cells Transl. Med. http://dx.doi.org/10.
+5966/sctm.2015-0215.
+Zhu, Y., Zhang, Y., Liu, Y., Tao, R., Xia, H., Zheng, R., Shi, Y., Tang, S., Zhang, W., Liu, W., Cao,
+Y., Zhou, G., 2015. The inﬂuence of Chm-I knockout on ectopic cartilage regeneration
+and homeostasis maintenance. Tissue Eng. Part A 21, 782–792.
+Y. Shi et al. / Gene xxx (2016) xxx–xxx
+11
+Please cite this article as: Shi, Y., et al., Conditional tenomodulin overexpression favors tenogenic lineage differentiation of transgenic mouse
+derived cells, Gene (2016), http://dx.doi.org/10.1016/j.gene.2016.10.028

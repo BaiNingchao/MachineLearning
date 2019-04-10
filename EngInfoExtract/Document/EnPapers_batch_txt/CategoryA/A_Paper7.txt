@@ -1,0 +1,339 @@
+Journal of Physics and Chemistry of Solids 66 (2005) 410–413
+www.elsevier.com/locate/jpcs
+Production of titanium powder directly from TiO2 in CaCl2 through
+an electronically mediated reaction (EMR)
+Il Parkb, Takashi Abikoc,1, Toru H. Okabea,*,2
+aInstitute of Industrial Science, University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan
+bKorea Science and Engineering Foundation (KOSEF), and Institute of Industrial Science, University of Tokyo,
+4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan
+cDepartment of Materials Engineering, Graduate School of Engineering, University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan
+Accepted 4 June 2004
+Abstract
+Production of titanium powder directly from titanium dioxide (TiO2) through an electronically mediated reaction (EMR) using calcium as
+a reductant was investigated. Feed material (TiO2 powder or preform) and reductant (Ca–Ni alloy) were charged in electronically isolated
+locations in a molten calcium chloride (CaCl2) salt at 1173 K, and the current ﬂow through an external circuit between the feed and reductant
+locations was monitored during reduction of TiO2. The voltage between feed electrode and reductant alloy was intermittently measured
+during the reduction experiment to monitor the reduction process. After the reduction experiment, pure titanium powder with low nickel
+content was obtained even though liquid Ca–Ni alloy was used as a reductant. These results demonstrate that titanium metal powder can be
+produced without direct physical contact between the feed and reductant. In some experimental conditions, pure titanium powder with 99.5
+mass% purity was successfully obtained.
+q 2004 Published by Elsevier Ltd.
+Keywords: Titanium; Titanium dioxide; Metallothermic reaction; Reduction process; Molten salt electrolysis; Metal powder
+1. Introduction
+At present, titanium is industrially manufactured by the
+Kroll process [1], which is based on the magnesiothermic
+reduction of titanium chloride. Although the Kroll process is
+suitable for producing high-purity titanium, it is a labor-
+intensive, batch-type process with low productivity. Even
+when large-scale modern facilities are used [2], It takes over
+10 days to produce 10 tons of sponge titanium. With this
+background, a new efﬁcient reduction process that can serve
+as an alternative to the Kroll process is being investigated by
+* Corresponding author. Tel.: C81 3 5452 6314; fax: C81 3 5452 6313.
+E-mail addresses: parkil@iis.u-tokyo.ac.jp (I. Park), krparkil@han-
+mir.com (I. Park), abiko@iis.u-tokyo.ac.jp (T. Abiko), okabe@iis.u-
+tokyo.ac.jp (T.H. Okabe).
+1 Present address: KOBE Steel, Ltd. Tel.: C81 3 5452 6314; fax: C81 3
+5452 6313.
+2 Tel.: C81 3 5452 6312 (direct), C81 3 5452 6314; fax: C81 3 5452
+6313.
+0022-3697/$ - see front matter q 2004 Published by Elsevier Ltd.
+doi:10.1016/j.jpcs.2004.06.052
+many researchers. Although various types of titanium
+reduction processes were studied in the past, none of them
+could be used for industrial purposes. The key factors in
+developing a commercial process, which can compete with
+the Kroll process, are the establishment of technology for
+effective purity control and/or speeding up the reduction
+process.
+Fray et al. have recently been trying to develop a new
+industrial reduction process, called the FFC Cambridge
+process, based on the direct electrochemical reduction of
+TiO2 to metallic titanium in molten CaCl2 salt [3]. Their
+extensive work has not only inspired academic research
+activity on titanium but has also stimulated the related
+industries. As a result, a large variety of
+titanium
+reduction processes are currently under
+investigation
+[4–6]. For example, Ono and Suzuki are engaged in
+developing a commercial process, based on the cal-
+ciothermic reduction of TiO2 powder in molten CaCl2
+salt during electrolysis [4].
+I. Park et al. / Journal of Physics and Chemistry of Solids 66 (2005) 410–413
+411
+In this study, we carried out fundamental research on a
+new titanium reduction process with the purpose of
+developing new technology for preventing the accumulation
+of impurities in titanium deposits using an electronically
+mediated reaction (EMR) [7,8]. The EMR is not only
+effective in maintaining purity control but is also suitable for
+improving energy efﬁciency when it is combined with the
+conventional molten salt electrolysis (MSE) of CaO in
+molten CaCl2 salt, for producing reductant calcium alloy.
+One of the features of the EMR/MSE process is that the
+reduction of TiO2 takes place without any direct contact
+with the reductant alloy because titanium is reduced by
+electrons released from the reductant. By using the EMR/
+MSE process, the reduction of TiO2 and the electric power
+input for producing reductant alloy can be carried out
+separately. This makes it possible to carry out titanium
+reduction during the day and electrolysis for producing
+reductant alloy during the night. The possibility of applying
+this EMR/MSE process for the reduction of TiO2 was
+investigated in this study.
+2. Experiment
+Experimental conditions of reductions are shown in
+Table 1, and a schematic diagram of the reduction apparatus
+is shown in Fig. 1. Anhydrous CaCl2 was used as the molten
+salt medium, which was dried in a vacuum at 473 K for over
+12 h before the experiment. TiO2 powder or a preform
+containing TiO2 powder (5w8 g) was kept in a sample
+holder and charged in molten CaCl2 salt (1300w1500 g) at
+1173 K in an argon atmosphere. The holder containing the
+TiO2 powder was placed in the molten salt to prevent it from
+making physical contact with the Ca–18 mass% Ni
+reductant alloy (50w90 g). TiO2 was thus electrochemi-
+cally reduced using electrons discharged from the reductant
+alloy. The current ﬂow (iA/C) through an external circuit
+between TiO2 and the Ca–Ni alloy was monitored using a
+standard resistance of 1 mU. In order to monitor the driving
+force of the chemical reaction, the voltage (DEA/C) between
+the feed electrode and reductant alloy was intermittently
+measured by opening the external circuit during the
+reduction experiment.
+After the reduction experiment, the sample holder was
+taken out of the reactor, and was soaked in distilled water
+Table 1
+Experimental conditions in this study
+Exp. no.
+Exp. temp.
+(T/K)
+Mass of sample (wi/g)
+CaCl2
+molten salt
+Ca–Ni
+alloy
+Feed
+material
+C1
+C2
+C3
+1173
+1173
+1173
+1300
+1333
+1333
+80
+72
+86
+5.02
+8.02
+7.98
+Form of
+feed
+preform
+powder
+powder
+Fig. 1. Schematic illustration of experimental apparatus for TiO2 reduction
+through an EMR.
+for 24 h to dissolve the CaCl2. The titanium powder
+obtained after the experiment was recovered by leaching it
+with acetic acid and hydrochloric acid. The metal powder
+obtained was then rinsed with distilled water, alcohol, and
+acetone, and ﬁnally dried in a vacuum. The morphology of
+the metal powder was observed by a scanning electron
+microscopy (SEM). Phases in the sample were identiﬁed by
+an X-ray diffraction analysis (XRD). The composition of the
+sample was determined using an energy dispersive X-ray
+spectroscopy (EDS), and an inductively coupled plasma-
+atomic emission spectroscopy (ICP-AES). The oxygen
+concentration of the powder deposit was determined by an
+inert gas fusion-infrared absorption spectroscopy.
+3. Results and discussion
+As shown in Fig. 2(a), an external current (iA/C) of
+0.2w0.4 A was observed between the anode and cathode for
+the ﬁrst 500 s. Time zero corresponds to the moment when
+the feed TiO2 powder in the sample holder (cathode) was
+charged into the molten CaCl2 salt. The reductant Ca–Ni
+alloy (anode) was also charged into the molten salt at the
+same time. The external current, iA/C, decreased to below
+0.1 A after 3 ks. When the external current fell below
+0.03 A, the sample holder was taken out of the molten CaCl2
+salt. In most cases, the reduction was completed within
+7.2 ks (2 h). The value of the electric charge (Qexp) that
+passed through the external path was calculated by means of
+time integration of the observed external current, and it was
+412
+I. Park et al. / Journal of Physics and Chemistry of Solids 66 (2005) 410–413
+Fig. 2. Variation of the external current and electromotive force. (Exp.
+no. C1).
+r
+about 650 C for the case shown in Fig. 2(a). It was found
+that this value was about 3% of the theoretical electric
+charge (Qtheo) necessary for reducing 5 g of TiO2 as feed
+material. The percentage of the obtained charge in relation
+to the theoretical charge, EMR ratio (XEMR (Z100!Qexp/
+Qtheo)), varied between 1w9% depending upon experimen-
+tal conditions. Fig. 2(b) shows the change in the voltage
+between the anode and cathode obtained by opening an
+external circuit intermittently. Until 2 ks after beginning the
+reduction experiment, the voltage was above 0.05 V, and
+DEA/C decreased with time. The theoretical electromotive
+force of the reaction, DEtheo, calculated from the standard
+ZK240:6 kJ [9]) in the reaction,
+Gibbs energy change (DG8
+TiO2(s)C2 Ca (l)/Ti (s)C2 CaO (s), was 0.62 V at
+1173 K. The value of DEA/C observed during the reduction
+experiment was substantially smaller than that of DEtheo.
+The reasons for the values of EMR ratio and DEA/C are
+smaller than the theoretical values were not clear at this
+stage, but it is possible that the dissolution of calcium in the
+molten CaCl2 salt caused an electric conduction through the
+CaCl2. Fig. 3(a) and (b) show the SEM image and XRD
+pattern of the obtained titanium powder, respectively. It was
+found that pure titanium powder was produced in the sample
+holder after the reduction experiment. The analytical results
+of the obtained titanium powder and EMR ratio are listed in
+Table 2. Titanium with high purity of 99.5% or more was
+obtained using an EMR. In a certain experimental condition,
+titanium powder with 3500 mass ppm of oxygen was
+successfully obtained. This result clearly shows that the feed
+material (TiO2) was reduced without any physical contact
+with the reductant (Ca–Ni alloy). It is worth noting that
+the nickel content in the titanium was quite low at just 0.2
+mass%, even though a Ca–Ni alloy was used as the
+Fig. 3. Titanium powder obtained after reduction. (a) SEM image. (Exp. no.
+C3). (b) X-ray diffraction pattern (Cu Ka). (Exp. no. C3).
+reductant. The detailed mechanism of TiO2 reduction in
+mo lten CaC l2 us ing an EMR is curren tly under
+investigation.
+To understand the local reaction, a three-dimensional
+(3D) chemical potential diagram of the Ti–Ca–O system at
+1173 K was constructed, and is shown in Fig. 4(a) [9,10]. As
+the Ca–Ni alloy was used in the reduction experiment, the
+activity of Ca was not unity in theory, therefore, the stability
+plane of Ca (l) in Fig. 4(a) shifts to lower activity region.
+But this shift can be neglected considering the scale of the
+diagram. The diagram provides an insight into the phase
+relationship during the EMR. Point ‘a’ and ‘b’ in Fig. 4(a),
+corresponding to Ti/Ca/CaO and Ti/TiO/CaO equilibrium
+can be connected through the metal/molten salt interface
+Table 2
+Analytical results of the titanium powder obtained using an EMR and EMR
+ratio at 1173 K
+Exp.
+no.
+C1
+C2
+C3
+Composition, Ci
+a (mass%)
+Ti
+95.6
+99.9
+99.9
+Ca
+Fe
+Ni
+4.16
+0.10
+0.16c
+0.01
+0.15c
+0.05
+0.00
+0.27c
+0.00
+0.20c
+0.16
+0.00
+0.05c
+0.00
+0.04c
+Cl
+0.06
+0.04
+0.00
+O
+(0.00)
+(0.00)
+0.57d
+(0.00)
+0.35d
+EMR ratio,
+b (%)
+XEMR
+2.8
+3.6
+5.1
+b XEMR
+a Determined by EDS analysis. Values in parenthesis are listed for
+reference.
+Z100!Qexp/Qtheo, where Qexp is amount of electric charge
+passed through external circuit, and Qtheo is the theoretical electric charge
+necessary for reducing TiO2.
+c Determined by ICP-AES analysis.
+d Determined by inert gas fusion-infrared absorption spectroscopy
+analysis.
+I. Park et al. / Journal of Physics and Chemistry of Solids 66 (2005) 410–413
+413
+the reduction process. The reduction of TiO2 proceeds
+without direct physical contact with the reductant Ca–Ni
+alloy, and contamination of titanium can effectively be
+prevented by utilizing the EMR. This approach may be
+applied to develop a (semi-)continuous production of
+titanium powder.
+Acknowledgements
+The authors are grateful to Prof. Masafumi Maeda and
+Prof. Yoshitaka Mitsuda of University of Tokyo, and Mr S.
+Kosemura of Toho Titanium Co., Ltd for their support
+during this study. Thanks are due to Toho Titanium Co., Ltd
+for sample preparation and analysis, and Messrs Itaru
+Maebashi, Yoshihiro Kayanuma, and Shusuke Iwata for
+their experimental assistance. A part of this research is
+ﬁnancially supported by TEPCO Research Foundation, and
+it also includes the results of the program, “Development of
+Electrochemical Reduction Process for Oxide Nuclear
+Fuel,” conducted by the Central Research Institute of the
+Electric Power Industry, which is ﬁnancially supported by
+the Ministry of Education, Culture, Sports, Science and
+Technology (MEXT). One of the authors (I.P.) was
+supported by the Postdoctoral Fellowship Program of the
+Korea Science and Engineering Foundation (KOSEF).
+References
+[1] W. Kroll, Tr. Electrochem. Soc. 78 (1940) 35–47.
+[2] A. Moriya, A. Kanai, Journal of Mining and Materials Institute of
+Japan 109 (1993) 1164–1169.
+[3] Z. Chen, D.J. Fray, T.W. Farthing, Nature 407 (2000) 361–364.
+[4] K. Ono, R.O. Suzuki, Journal of Metals 54 (2002) 59–61.
+[5] T.H. Okabe, Abstracts of EUCHEM /Molten Salts Conference, Royal
+Society of Chemistry, Oxford, 2002, p. PL2.
+[6] T.H. Okabe, T. Uda, Titanium Japan 4 (2002) 325–330.
+[7] T.H. Okabe, D.R. Sadoway, Journal of Materials Research 12 (1998)
+3372–3377.
+[8] T.H. Okabe, I. Park, K.T. Jacob, Y. Waseda, Journal of Alloys and
+Compounds 288 (1999) 200–210.
+[9] I. Barin,, Third ed. Thermochemical Date of Pure Substances, VCH
+Verlagsgesellschaft mbH, Weinheim, Federal Republic of Germany,
+1995.
+[10] P. Wanlder, G. Eriksson, Calphad 2 (1999) 189–218.
+Fig. 4. (a) Three-dimensional chemical potential diagram of the Ti–Ca–O
+system at 1173 K. (b) Depiction of the reaction pathway consistent with the
+chemical potential diagram.
+(solid two-phase equilibrium shown by the line between
+point a and b). Fig. 4(b) is a schematic representation of the
+EMR pathway, consistent with the chemical potential
+diagram. The metal/molten salt
+interface, which corre-
+sponds to the line connecting points a and b in Fig. 4(a),
+connects the two three-phase ﬁelds. In this situation, the
+reductant calcium need not necessarily make physical
+contact with the titanium oxides; rather electron and ion
+transfer can be considered to be the major step especially in
+the process with molten CaCl2.
+4. Conclusion
+The experimental results for calciothermic reduction of
+TiO2 in molten CaCl2 salt showed that the electronically
+mediated reaction (EMR) plays an important role in

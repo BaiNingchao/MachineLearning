@@ -1,0 +1,1056 @@
+EBIOM-01064; No of Pages 15
+EBioMedicine xxx (2017) xxx–xxx
+Contents lists available at ScienceDirect
+EBioMedicine
+j o u r n a l h o m e p a g e : w w w . e b i o m e d i c i n e . c o m
+Research Paper
+Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril
+Adaptation to Mechanical Load
+Sarah Dex a, Paolo Alberton a, Lena Willkomm b, Thomas Söllradl c, Sandra Bago c, Stefan Milz d,
+Mehdi Shakibaei d, Anita Ignatius e, Wilhelm Bloch b, Hauke Clausen-Schaumann c, Chisa Shukunami f,
+Matthias Schieker a,g, Denitsa Docheva a,h,⁎
+a Experimental Surgery and Regenerative Medicine, Department of Surgery, Ludwig-Maximilians-University (LMU), 80336 Munich, Germany
+b Department of Molecular and Cellular Sports Medicine, German Sport University, 50933 Cologne, Germany
+c Center for Applied Tissue Engineering and Regenerative Medicine – CANTER, University of Applied Sciences, 80335 Munich, Germany
+d Department of Anatomy, Ludwig-Maximilian University (LMU), 80336 Munich, Germany
+e Institute of Orthopaedic Research and Biomechanics, University of Ulm, 89081 Ulm, Germany
+f Department of Molecular Biology and Biochemistry, Division of Basic Life Sciences, Institute of Biomedical & Health Sciences, Hiroshima University, 734-8553 Hiroshima, Japan
+g Novartis Institute for Biomedical Research (NIBR), Translational Medicine Musculoskeletal Disease, 4056 Basel, Switzerland
+h Experimental Trauma Surgery, Department of Trauma Surgery, University Regensburg Medical Centre, 93053 Regensburg, Germany
+a r t i c l e
+i n f o
+a b s t r a c t
+Article history:
+Received 21 February 2017
+Received in revised form 3 May 2017
+Accepted 3 May 2017
+Available online xxxx
+Keywords:
+Tendons
+Tenomodulin
+Knockout mouse model
+Running tests
+Atomic force microscopy
+Collagen I crosslinking
+Tendons are dense connective tissues that attach muscles to bone with an indispensable role in locomotion
+because of their intrinsic properties of storing and releasing muscle- generated elastic energy. Tenomodulin
+(Tnmd) is a well-accepted gene marker for the mature tendon/ligament lineage and its loss-of -function in
+mice leads to a phenotype with distinct signs of premature aging on tissue and stem/progenitor cell levels.
+Based on these ﬁndings, we hypothesized that Tnmd might be an important factor in the functional performance
+of tendons. Firstly, we revealed that Tnmd is a mechanosensitive gene and that the C-terminus of the protein co-
+localize with collagen I-type ﬁbers in the extracellular matrix. Secondly, using an endurance training protocol, we
+compared Tnmd knockout mice with wild types and showed that Tnmd deﬁciency leads to signiﬁcantly inferior
+running performance that further worsens with training. In these mice, endurance running was hindered due to
+abnormal response of collagen I cross-linking and proteoglycan genes leading to an inadequate collagen I ﬁber
+thickness and elasticity. In sum, our study demonstrates that Tnmd is required for proper tendon tissue adaptation
+to endurance running and aids in better understanding of the structural-functional relationships of tendon tissues.
+© 2017 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://
+creativecommons.org/licenses/by-nc-nd/4.0/).
+1. Introduction
+Tendon biology is under-investigated, yet tendon pathologies are a
+big burden for affected patients. The poor regenerative ability of tendon
+tissues (Benjamin and Ralphs, 1997) and unsuccessful surgical attempts
+to repair tendon tears (Pennisi, 2002) underline the need to develop
+superior therapies. Identifying key molecular markers would aid in
+deﬁning the response to therapy (Morse and Gillies, 2010).
+Tenomodulin (TNMD/Tnmd) is an established gene marker for the
+mature tendon/ligament lineage in vertebrates (Docheva et al., 2005).
+⁎ Corresponding author at: Experimental Trauma Surgery, Department of Trauma
+Surgery, University Regensburg Medical Centre, Franz-Josef-Strauss-Allee 11, 93053
+Regensburg, Germany.
+E-mail address: denitsa.docheva@ukr.de (D. Docheva).
+So far, limited studies have focused on deciphering its functions in ten-
+don tissues and residing cells (Dex et al., 2016). The gene is abundantly
+expressed in tendons and ligaments (Brandau et al., 2001; Shukunami
+et al., 2001; Docheva et al., 2005). Its protein has a highly conserved
+cleavable C-terminal cysteine-rich domain (Brandau et al., 2001;
+Shukunami et al., 2001) that has been identiﬁed as an important regula-
+tor for tendon stem/progenitor cell (TSPC) proliferation and senescence
+as well as for tendon maturation (Alberton et al., 2015, and reviewed by
+Dex et al., 2016). A variety of tissues express Tnmd mRNA, however
+Tnmd cleavage and secretion is exclusive to tissues undergoing tension,
+suggestive of a possible mechano-regulation. The cleaved form is
+detected in the extracellular matrix (ECM) of mouse Achilles tendons
+(Docheva et al., 2005) and human chordae tendineae cordis (Kimura
+et al., 2008), but not in the eye (Oshima et al., 2003). Loss of Tnmd tran-
+scripts in cultivated human periodontal ligament cells, tenocytes (Itaya
+et al., 2009; Mazzocca et al., 2011) and in rat tendon ﬁbroblasts has been
+http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+2352-3964/© 2017 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+2
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+reported (Jelinsky et al., 2010), suggesting its downregulation is a
+consequence of the lack of mechanical stimuli in vitro.
+Through a multidisciplinary approach, we aimed to reveal further
+features and functions of Tnmd in tendon tissue. First, we tested whether
+Tnmd gene promotor activity and transcription are responsive to in vitro
+mechanical stretching, which was followed by subjecting wildtype
+(WT) and Tnmd knockout (KO) mice to forced endurance and voluntary
+running protocols. We performed an ultrastructural analysis using
+atomic force microscopy (AFM) technology and investigated collagen I
+ﬁber topography, diameter distribution, average diameter, and average
+stiffness from sedentary and trained Achilles tendons. Lastly, we studied
+the localization of TNMD protein in human tendon and TSPC specimens
+and examined the effect of Tnmd loss-of-function on the expression of
+collagen I cross-linking genes.
+In sum, we report that TNMD/Tnmd is a mechanosensitive gene vital
+for optimal running performance, proper tendon adaptation to running
+and maintenance of structurally and functionally integral collagen
+ﬁbrils.
+2. Materials and Methods
+2.1. Cell Culture
+Human Achilles tendon TSPC (3 young healthy donors) were previ-
+ously isolated (under grant No.: 166-08 of the Ethical Commission of the
+Medical Faculty of the LMU), and validated to possess multipotential
+differentiation capacity, self-renewability and clonogenicity, and to ex-
+press stem cell-, and tendon related gene markers (Kohler et al., 2013;
+Popov et al., 2015). TSPC were cultured as described in (Kohler et al.,
+2013; Popov et al., 2015). Cells in passages 1–3 were used for
+experiments.
+2.2. Mouse Strain
+The Tnmd KO mouse line was established by Docheva et al. (2005).
+Mouse husbandry, handling and euthanasia were strictly carried out
+according to the guidelines of the Bavarian authorities. Animals were
+euthanized with CO2 and dissected for collection of whole foot and
+tendon tissues.
+2.3. Semiquantitative and Quantitative PCR
+Tota l RNA from human TSPC was iso lated w ith Q iagen RNeasy
+Mini kit (Qiagen, Hilden, Germany) and used for standard semiquan-
+t itat ive PCR (protoco l in Supp . Info .) . Tota l RNA/cDNA from WT
+and Tnmd KO tendons (pool of three animals) was prepared from lit-
+termates subjected or not to the forced endurance running protocol.
+Quant itat ive PCR o f co l lagen I regu latory and cross- l ink ing genes
+(asporin, biglycan, decorin, ﬁbromodulin, ﬁbronectin, lysyl hydroxy-
+lase , lysy l oxidase and lum ican) was performed us ing Rea lT ime
+Ready Custom Pane l 96 – 32 + plates (https ://conﬁgurator .
+realtimeready.roche.com) according to the manufacturer's instruc-
+tions (Roche , Penzberg , Germany) . Br ieﬂy , PCR react ions were
+pipetted on ice and each well contained 10 μl LightCycler 480 probes
+master m ix , 0 ,2 μl cDNA (diluted 1:5) and 9 ,8 μl PCR grade water .
+Plates were subsequently sealed and centrifuged down for 15 s . at
+2100 rpm. Crossing points for each sample were determined by the
+second der ivat ive max imum method and relat ive quant iﬁcat ion
+was performed using the comparative ΔΔCt method according to
+the manufacturer 's protocol . Four PCR independent repeats were
+carried out (n = 4).
+2.4. Western Blot Analysis
+Biopsies from cadaveric human tissue complex gastrocnemius muscle-
+Achilles tendon-calcaneus (from donors donated to the Department of
+Anatomy, LMU in Munich) as well as mouse tendons from WT and
+Tnmd KO animals were lysed with 8 M urea, 50 mM Tris-HCl [pH 8.0],
+1 mM dithiothreitol, 1 mM EDTA). Protein (25 μg) aliquots were loaded
+on a 15% SDS- polyacrylamide gel and transferred to Hybond-P membrane
+(Amersham, GE Healthcare, Waukesha, USA). The membranes were pre-
+incubated for 4 h at 4 °C in blocking buffer and probed with rabbit poly-
+clonal anti-C-terminal Tnmd antibody, raised against a synthetic polypep-
+tide conforming to amino acids 245 to 252 in mouse and human Tnmd
+(Docheva et al., 2005). A mouse anti-beta-actin antibody cross-reacting
+with mouse and human beta-actin (Abcam, Cambridge, United Kingdom)
+was used as a loading control. Following overnight incubation at 4 °C,
+membranes were probed with corresponding HRP-conjugated secondary
+antibodies (Amersham). Protein bands were visualized using an enhanced
+chemiluminescence system (ECL Plus, Amersham) and ﬁlm paper.
+Western blotting was replicated independently three times (n = 3).
+2.5. Immunoﬂuorescence
+Human biopsies from Achilles tendon (grant No.: 166-08) as well as
+mouse whole foot were embedded in parafﬁn and cut in 6 μm thick lon-
+gitudinal sections. Prior to staining, slides were deparafﬁnated with
+xylol and rehydrated via ethanol (100–50% EtOH). For antigen retrieval,
+sections were treated with 0,2% hyaluronidase for 30 min. Following
+blocking with 1% BSA/PBS for 2 h sections were incubated overnight at
+4 °C with primary antibodies against asporin, ﬁbromodulin, lysyl
+oxidase (All Abcam), lumican (Santa Cruz, Dallas, USA) and Tnmd
+(Docheva et al., 2005). Corresponding Alexa Fluor 488-labeled second-
+ary antibodies and nuclear dye 4′, 6-diamidino-2-phenylindole (DAPI)
+(both Life technology, Carlsbad, USA) were applied at room tempera-
+ture for 1 h and 5 min, respectively. Photomicrographs were taken
+with an Axiocam MRm camera on Observer Z1 microscope (Carl Zeiss,
+Oberkochen, Germany). Confocal photomicrographs of Tnmd staining
+in human and mouse Achilles tendon were taken using a confocal
+Leica TSC SP2 microscope (Leica, Wetzlar, Germany). Immunoﬂuores-
+cence experiments were repeated thrice independently.
+2.6. Mechanical Stimulation
+TSPC underwent axial cyclic strain in a six-station stimulation appa-
+ratus driven by an eccentric motor as described previously (Popov et al.,
+2015). For this, 1 × 105 TSPC were cultured for 4 days on FBS-coated
+ﬂexible silicone dishes (60 mm × 30 mm). Triplicates were then
+stretched 60 min/day in the long axis at a frequency of 1 Hz and a mag-
+nitude of 5% for 3 consecutive days. In parallel, non-stimulated cells
+were used as controls on day 3. Directly after stimulation, cells were
+lysed for mRNA isolation as described above. Mechanical stimulation
+was performed with 2 different TSPC donors (n = 2) (each in tripli-
+cates) and repeated twice independently.
+2.7. Luciferase Assay
+The assay was performed as previously described by us (Alberton et
+al., 2012). In brief, human TSPC (3 × 104 cells/cm2) were transfected
+with 2,5 μg control promoter-less and Tnmd promoter-luciferase plas-
+mids using OptiMEM media and Lipofectamine 2000 kit (Invitrogen).
+After 6 h, transfection media was replaced with complete growth
+media, and TSPC were cultured for 2 days. Luciferase activity was then
+measured with the Luciferase Assay E4030 kit (Promega, Madison,
+USA) according to the manufacturer's instructions. Cells were lysed in
+1 × lysis buffer, 20 μl of the cell lysates were mixed with 100 μl luciferase
+reagent and immediately measured on Saﬁre II Luminometer (TECAN,
+Männedorf, Germany). Two transfected TSPC donors were used for
+two independent mechanical stimulations (n = 4).
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+3
+2.8. Forced Endurance Training
+Forced endurance exercise training with adult Tnmd KO and WT
+male mice (6 animals per genotype, n = 6) was carried out. Training
+and testing was performed according to the guidelines of the animal
+authority of North Rhine Westphalia. Mice were allowed to accom-
+modate 1 week to the new environment and to the treadmill. Tests
+started once the an imals were ab le to run w ithout any externa l
+stimulus. The treadmill (Exer3/6; Columbus Instruments, Columbus,
+USA) endurance training protocol consisted of a 60 min treadmill
+exercise, 5 days a week, at a constant speed of 10 m/min and angle
+of − 10°, which was selected in order to increase the tendon loading
+during the training. The speed for the training session was sustained
+by the mice for the daily hourly training session. The training lasted 4
+consecut ive weeks . A pre- and post-training exhaustive test took
+place, one day before the ﬁrst day of training and one day after the
+last day of tra in ing , respect ively . In these exhaust ive tests , m ice
+were placed to run from 12 m/min with an increasing velocity (ΔV)
+of 2 m/min every 3 m in, until volitional exhaustion. Running time
+and velocity were recorded for each mouse until they were not able
+to run anymore and fell off the treadmill. Littermates of 6 animals
+per genotype , not subjected to training , were used as a sedentary
+control group . M ice were randomly al located to either trained or
+sedentary conditions. For the complete experimental period, mice
+were fed ad libitum. Lastly, animals were authanized and legs excised
+and processed for further analysis.
+2.9. Pulmonary Capacity Measurements
+Each animal from both genotypes was analyzed, prior and post train-
+ing, for maximal lung volume in an Oxymax Economy System chamber
+(Columbus Instruments, Columbus, USA). Experiments were performed
+in the Department of Prof. W. Bloch.
+2.10. Atomic Force Microscopy (AFM)
+AFM was performed on Achilles tendon sections from sedentary
+and tra ined Tnmd KO and WT m ice . Measurements were taken
+with NanoWizard AFM instrument (JPK Instruments, Berlin, Germa-
+ny) mounted on an inverted opt ica l m icroscope (Ax iovert 200 ,
+Ze iss) accord ing to (Kamper et a l . , 2016 ; Pre in et a l . , 2016) w ith
+s l ight mod iﬁcat ions . To ident i fy and ensure comparab le reg ions
+between the groups, every 10th slide was analyzed by H&E staining
+and consecutive slides were taken for AFM. The optical microscope
+w ith a 40 × magn iﬁcat ion was used to guarantee the correct
+pos it ioning of the cant i lever t ip onto the tendon co l lagen ﬁbers .
+The AFM had a maximum horizontal scanning range of 100 × 100
+μm2 and a vertical range of 15 μm. For AFM imaging and indentation
+measurements , s ilicon nitride cantilevers (MLCT , Microcantilever ,
+Bruker , Mannhe im) with a nom ina l spring constant o f 0 .01 N/m
+and integrated pyramidal tips with a nominal radius b 20 nm were
+used. Prior to each measurement, the force constants of cantilevers
+were determ ined ind iv idua l ly us ing the therma l no ise method
+described in Butt and Jaschke (1995). The collected data were eval-
+uated with the JPK Data process ing so ftware 4 .0 .23 ( JPK instru-
+ments) . For AFM imag ing and co l lagen d iameter ana lys is the
+following algorithm was used: 1) polynomial ﬁt for each line of the
+scan , to correct for a ﬂat beve led under lying sur face ; 2) low pass
+ﬁlter (Gaussian); 3) high pass ﬁlter, to enhance the geometrical out-
+line; and 4) edge detection, to determine the diameter of the indi-
+vidual ﬁbrils.
+Elasticity recording and calculation of Young's Modulus was based
+on AFM-collected force indentation curves. Prior to each ﬁt the following
+operations were applied: 1) conversion of the detector deﬂection signal
+into a force; 2) baseline subtraction: the last 10% of the force-distance
+curves were used to calculate the baseline and was subtracted from
+the force signal; 3) contact point determination: the point in which
+the force curve crosses zero is set as the x-axis zero; 4) calculation of
+tip sample separation: the height signal is corrected for the deﬂection
+of the cantilever.
+AFM imaging and force mapping was performed with two tendons
+per group. Intact ﬁbrils were randomly chosen from three different sec-
+tions/animal. A total of 60 ﬁbrils per animal were measured for diameter
+size and Gaussian distribution analysis (75–100 data points are
+sufﬁcient), whilst 110 force curves were analyzed for Young's Modulus
+analysis.
+2.11. Immunogold Labelling (Post Embedding Technique) and Electron
+Microscopy
+Tendon tissue biopsies and TSPC were ﬁxed in 3% paraformaldehyde
+for 1 h, washed overnight in PBS/BSA, dehydrated in ascending series
+with ethanol and embedded in LR-white (London Resin, Plano,
+Marburg, Germany). Ultrathin sections were prepared on nickel grids,
+pre-treated with hyaluronidase (1 mg/ml) for 10 min, washed and incu-
+bated with 1% BSA in 0,01 M PBS, pH 7,9 and 0,5% Tween for 10 min.
+Subsequently, sections were incubated with primary antibodies
+(Tnmd (Docheva et al., 2005), collagen I and decorin, 1:50 in BSA/PBS)
+overnight at 4 °C and washed with 1% BSA in PBS for 15 min. Secondary
+antibodies conjugated with 10 nm gold particles (diluted 1:30 in PBS/
+BSA) were applied for 1 h. After rinsing for 2 × 5 min and ﬁxation
+with 1% glutaraldehyde, sections were contrasted with tannic acid 1%/
+20 min, osmium 1%/10 min and uranyl acetate 2%/30 min. Finally,
+sections were rinsed and examined under transmission electron micro-
+scope (Zeiss EM10, Germany).
+2.12. Statistical Analysis
+Quantitative data and statistical signiﬁcance was analyzed with
+GraphPad Prism5 software (GraphPad). Unless otherwise speciﬁed, all
+quantitative data were acquired from at least three independent
+experiments. Bar charts show mean values and standard deviations.
+Statistical difference was tested with one-way ANOVA (multigroup) or
+with unpaired Student's t-test (two groups). In multiple comparisons,
+one-way ANOVA was followed by Bonferroni post-hoc correct ion .
+p-Value of 0.05 was considered statistically signiﬁcant and indicated
+in ﬁgures as *p b 0.05, **p b 0.005 and ***p b 0.0005.
+3. Results
+3.1. Tnmd is a Mechanosensitive Gene
+Tnmd is a gene abundantly expressed in tendons and ligaments
+(Brandau et al., 2001; Shukunami et al., 2001; Docheva et al., 2005).
+The protein has a highly conserved cleavable C-terminal cysteine-rich
+domain (Brandau et al., 2001; Shukunami et al., 2001) identiﬁed as an
+important regulator for TSPC proliferation and senescence as well as
+for tendon maturation (Alberton et al., 2015 and reviewed in Dex et
+al., 2016). Western blot analysis of human musculoskeletal elements
+identiﬁed the expression of Tnmd C-terminal domain predominantly
+in tendons at approximately 16 kD (Fig. 1a), as shown previously by
+us and others (Docheva et al., 2005; Kimura et al., 2008). Immunoﬂuo-
+rescent stainings localized the Tnmd protein in the ECM of human and
+WT mouse Achilles tendon sections (Fig. 1b) as well as in human
+ﬁbrocartilage, but not in hyaline cartilage (Supplementary Fig. 1).
+Tnmd transcripts were abundant in human tendon total mRNA extracts,
+but in vitro culturing of previously characterized human TSPC (Kohler et
+al., 2013; Popov et al., 2015) led to a rapid loss of Tnmd mRNA (Fig. 1c).
+Interestingly, upon 5% axial cyclic strain, the Tnmd promoter was
+strongly activated and expression signiﬁcantly upregulated as validated
+by luciferase assay and semi-quantitative PCR (Fig. 1d and e).
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+4
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+Fig. 1. Tnmd expression in human musculoskeletal elements and mechano-regulation. (a) Representative western blot with anti-C-terminal Tnmd antibody on human (tendon, MTJ
+myotendinous junction, muscle and bone) and mouse (tendon) tissues. Detection of beta actin served as loading control. (b) Representative immunoﬂuorescent detection of Tnmd in
+human and mouse Achilles tendons. Tnmd expression in green and nuclear DAPI in blue colour. Upper panel: low magniﬁcation epi-ﬂuorescence images; lower panel: confocal
+microscopy. (c) Semi-quantitative PCR for Tnmd expression in cultured human TSPC (passage 0 and 3). The house-keeping gene GAPDH was used for normalization. Western blotting,
+staining and PCR were reproduced three times (n = 3). (d) Luciferase activity assays (expressed in RLU, relative light units) with human TSPC transfected with a promoter-less
+(mock-luc) or Tnmd promoter (− 769/+84F Tnmd genomic fragment)-driven luciferase (pTnmd-luc) plasmids without or undergoing mechanical stimulation of 5% axial strain. Two
+independent stimulations with two different donors were carried out (n = 4). (e) Semi-quantitative PCR bands and densitometric evaluation of Tnmd expression against GAPDH in
+human TSPC (passage 3) prior and after mechanical stimulation (presented in fold change). Statistical signiﬁcance: ***p b 0.0005. (For interpretation of the references to colour in this
+ﬁgure legend, the reader is referred to the web version of this article.)
+In conclusion, the C-terminal domain of Tnmd protein is deposited
+in the ECM of human and mouse Achilles tendons. Tnmd expression in
+human TSPC rapidly diminishes in two- dimensional static culture, but
+is restored upon axial stretching, indicating the mechanosensitivity of
+the TNMD gene.
+3.2. Tnmd is Required for Optimal Running Performance
+Mice naturally cover large distances of over 5 km daily (Koteja et
+al., 1999). To compare their running ability, WT and Tnmd KO mice
+were subjected to a forced endurance running protocol depicted in
+Fig . 2a . Even in the in it ia l exhaust ive tests , mutant m ice ran for
+signiﬁcantly less time. With increasing speed of 12–18 m/min more
+mutant mice dropped out earlier and none ran at 18 m/min (Fig. 2b
+left and c left). The training regime of 10 m/min was based on 70%
+of the average maximum velocity of both genotypes (Fig . 2b left) .
+Moreover ,
+in the post-exhaust ive tests , mutant m ice ran for
+signiﬁcantly less time and were unable to run over 12 m/min with
+70% (4 out of 6 Tnmd KO mice) failing at that speed (Fig. 2b left and
+c) . Th is suggested that Tnmd KO tendons may experience fat igue
+and if that is the case, training further worsens their performance.
+In contrast, the beneﬁcial effects of training were clear in the control
+animals where more mice were able to sustain speeds between 12
+and 14 m/min . The observed drop at 18 m/m in may be re lated to
+muscle ﬁber composition shift during endurance running . Supple-
+mentary Fig. 2 depicts the stacked areas of the data points in Fig. 2c
+and stack area ca lcu lat ion in percentage to the WT sedentary
+an ima ls . Max imum speed reached was not di fferent between
+genotypes nor affected by training (Fig. 2b right).
+Endu rance pe r fo rmance i s mu l t i fac to r ia l and can reﬂec t the
+s ta tus o f the muscu loske le ta l and pu lmona ry sy s tem . Fo r th is ,
+muscu loske le ta l e lemen t s and foo t jo in t s we re h i s to log i ca l ly
+examined (Supp lementary Fig . 3) and pulmonary capacity , which
+is considered the “gold standard” when studying the cardiovascu-
+la r , pu lmonary , and metabo l ic adap ta t ions to exe rc ise , (da ta no t
+shown) we re measu red revea l ing no d i f fe rences . Mo rphome t r ic
+evaluation of gastrocnemius myoﬁbre perimeter and area showed
+reduced va lues in t ra ined Tnmd KO m ice (Supp lemen tary F ig . 4a
+and b) . Furthermore , we not iced a spec iﬁc k ind of myopathy only
+in t ra ined Tnmd KO an ima l s , name ly tubu la r agg rega tes (TA )
+(Enge l e t a l . , 1970 ) , wh ich a re a typ i ca l memb ranou s s t ru c tu re s
+or ig inat ing from the term ina l c isterns of the sarcop lasm ic ret icu-
+lum (Morgan-Hughes , 1998; Pavlovicova et al . , 2003) . The screen-
+ing and TA coun t ing o f u l t ra th in musc le sec t ions demons t ra ted
+approximately 1% of TA per area in mutant myoﬁbers (Supplemen-
+tary Fig . 4c , d and e) . Though their incidence is rare , they represent
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+5
+Fig. 2. Tnmd KO and WT performance in endurance running tests. (a) Experimental setup of the forced endurance running experiments. Mice ran in a treadmill at an angle of − 10°.
+Beneath is the timeline: a, 1 week of acclimatization, start exhaustive test, followed by 5 days training for 4 consecutive weeks and end exhaustive test. (b) Average running time (left
+graph) and average of the maximum velocity (right graph) achieved by each group in the exhaustive tests. (c) Bar graphs present the success rate of both groups at each speed of 12–
+18 m/min in the start (left) and end (right) exhaustive tests. Six animals per genotype (n = 6) were tested. Statistical signiﬁcance: *p b 0.05.
+an important indicator of skeleta l musc le d isease assoc iated w ith
+aging (Boncompagni et al . , 2012) .
+The response to forced exerc ise a lso depends on the adapt ive
+capab i l i ty and neu ra l sys tem o f the m ice ( Le rman e t a l . , 2002)
+because phys ica l ac t iv i ty leve ls syne rg ize env i ronmenta l fac to rs
+with genetic and biolog ical components (L ightfoot , 2011) . There-
+fo re , we a lso exam ined the m ice by vo lun tary runn ing te s t s
+(Supp lementary F ig . 5a and b) . Th is invest igat ion conﬁrmed that
+even vo luntar i ly Tnmd KO m ice per formed in fer io r ly as reﬂec ted
+by the ir runn ing t ime and d is tance covered (Supp lemen tary F ig .
+5d , c and d) . The reg is te red tendency was no t s ign iﬁ can t due to
+lower techn ica l measurement accuracy o f the runn ing whee l set-
+up.
+In sum, our results revealed that Tnmd KO mice are inferior runners
+compared to WT littermates in endurance tests, hence demonstrating
+that Tnmd is essential for the intrinsic properties of tendons allowing
+optimal running performance.
+3.3. Tnmd Regulates the Structural and Biomechanical Properties of Tendon
+Collagen I Fibers and Their Response to Training
+We utilized AFM technology to analyze collagen ﬁber diameter
+d istr ibut ion and s t i f fness because it is the on ly too l that enab les
+measurements of both parameters on the same tissue section . We
+exam ined the co l lagen topog raphy , ave rage ﬁber d iame te r and
+diameter distribution in WT and KO Achilles tendons from seden-
+tary and t ra ined m ice by AFM . We found tha t co l lagen ﬁbr i ls o f
+Tnmd KO tendons were less compact, more frayed and interrupted
+by gaps (F ig . 3a) . Comparison o f ﬁbri l d iameters revea led s igniﬁ-
+cant ly larger mean va lues in Tnmd KO tendons (245 ,1 nm ±
+44 ,8 nm) and a wider Gaussian distribut ion compared to controls
+(mean diameter of 179,3 nm ± 32,9 nm) with a narrower Gaussian
+distribution (Fig. 3b and c). Thicker collagen ﬁbril phenotypes were
+previously described in thrombospondin-2 (Kyriakides et al., 1998),
+lumican (Chakravarti et al., 1998) and decorin KO mice (Zhang et al.,
+2006). WT mice ﬁbril diameter ranged from 100 to 260 nm, whereas
+sma l l ﬁb r i ls we re en t ire ly m iss ing in the Tnmd KO tendons and
+the range sh i fted to 190–390 nm (Fig . 3b) . Interest ing ly , tra in ing
+led to w iden ing o f the Gauss ian d istr ibut ion and to an increase
+in ﬁbril thickness in WT tendon, but this latter response was absent
+in the mu tants , and the Gauss ian d is tr ibu t ion became narrower
+(Fig. 3b and c). Taking advantage of the AFM-based nano-indenta-
+tion, we measured the elasticity of single collagen ﬁbers and calcu-
+la ted average Young 's Modu lus (YM) (F ig . 3d) . He re , Tnmd
+KO mice had signiﬁcantly stiffer collagen I ﬁbrils with YM of 511 ,5
+± 148.5 kPa in the sedentary group, which was slightly reduced to
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+6
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+Fig. 3. Atomic force microscopy analysis on nano-topography, distribution of diameter size and elastic modulus of collagen I ﬁbrils in Achilles tendons of sedentary and trained WT and
+Tnmd KO mice. (a) Representative AFM topographical images. Arrows: indicate collagen I ﬁbers, arrowheads: interﬁbrular matrix, asterisk: section artifacts. (b) Distribution of collagen
+I ﬁbril diameter size; blue curves present Gaussian distribution. (c) Average collagen ﬁbril diameter (n = 60). (d) Calculation of mean Young's Moduli denoting the elastic properties
+of collagen I ﬁbrils (n = 110). Bars represent mean ± standard deviation. Statistical signiﬁcance: ***p b 0.005. (For interpretation of the references to colour in this ﬁgure legend, the
+reader is referred to the web version of this article.)
+453 ,9 ± 136 ,7 kPa in the trained group . In contrast, sedentary WT
+mice had softer collagen ﬁbri ls and responded more e fﬁc ient ly to
+endurance exerc ise by fur the r increas ing the ir e last ic i ty by 47%
+(trained group YM 192 ,3 ± 66 ,2 kPa vs sedentary group YM 362 ,6
+± 148 ,5 kPa) . F ig . 3d fur the rmore revea ls that t ra in ing led to a
+more homogenous tissue ultrastructure in WT tendons as reﬂected
+by a lower standard deviation.
+Thus, our data presents a striking collagen I phenotype of the Tnmd-
+deﬁcient tendons; hereupon, we conclude that this gene is important
+for regulating the lateral thickness and stiffness of single collagen I ﬁbers
+and for proper ﬁber adaptation to exercise by modifying their width and
+elasticity.
+3.4. Tnmd is Required for Proper Collagen I Cross-linking
+To explain this collagen-related phenomenon, we next investigated
+the exact localization of TNMD by immuno-gold labelling with anti-
+Tnmd C-terminal, collagen I and decorin antibodies together with elec-
+tron microscopy imaging on Achilles tendon tissue (Fig. 4a) and TSPC
+sections (4b).
+High collagen I signals were observed directly in the bundles of
+thick ECM ﬁbrils in tendon and TSPC sections . Further , gold-parti-
+c les attached to decor in ant ibod ies were grouped in between the
+mesh o f co l lagen ﬁbr i ls in a manne r d is t inc t ive for pro teog lycan
+d istr ibut ion . F ig . 4a and b a lso revea led strong labe l l ing for Tnmd
+in the ECM in both tendon sect ions and secreted by TSPC; its ep i-
+tope was detected in small c lusters or singularly localized between
+or along collagen ﬁbers , differing from the larger c lusters seen for
+decor in . TNMD was a lso found on the cel l membrane in both ten-
+don cells and TSPC in regions where collagen ﬁbers were attached
+o r p ro t rud ing . Impo r tan t ly , no exp ress ion a long the naked ce l l
+memb rane was v is ib le , sugge s t ive o f in t race l lu la r c leavage o f
+TNMD , wh ich when sec re ted , depos i ts in the ECM in a ssoc ia t ion
+with collagen I ﬁbrils .
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+7
+Fig. 4. Tnmd localization in extracellular matrix and investigation of collagen I regulatory and cross-linking genes. Immunogold electron microscopy imaging of Achilles tendon (a) and
+TSPC sections (b) with immunogold labelling for collagen I (Col I), decorin (Dcn) and C-terminal Tnmd antibodies. Black arrows point to sites of epitope expression in the extracellular
+matrix (M) and arrowheads point to sites of epitope expression on tenocytes (T). (c) Quantitative PCR analysis for asporin (Asp), biglycan (Bgn), decorin (Dcn), ﬁbromodulin (Fmod),
+ﬁbronectin (Fn1), lysyl hydroxylase (Llh), lysyl oxidase (Lox) and lumican (Lum) on total cDNA from sedentary and trained Tnmd KO and WT tendons. N = 4. Statistical signiﬁcance:
+*p b 0.05 and **p b 0.005.
+Lastly, we evaluated whether Tnmd affects collagen I ﬁbril regu-
+la to ry p ro teog ly cans and c ross - l inke rs , by inves t iga t ing the
+exp re ss ion o f aspo r in , b ig lycan , ﬁb romodu l in , deco r in , ly sy l hy -
+d roxy lase and ly sy l ox idase gene s in seden tary and endu rance -
+t ra ined tendons . Quan t i ta t ive PCR ident iﬁed h igh exp ress ion fo r
+deco r in ; mode ra te fo r ﬁb romodu l in and b ig ly can ; and low fo r
+lum ican , aspor in , lysy l ox idase , lysy l hydroxy lase and ﬁbronect in
+(F ig . 4c ) . Lo s s o f Tnmd resu l ted in s ign iﬁ cant down regu la t ion o f
+decorin , ﬁbromodul in , ﬁbronect in and lysy l ox idase mRNA leve ls .
+Regarding adaptation to exerc ise, only genes that were signiﬁcant-
+ly down regu la ted in re s t ing cond i t ions we re s ign iﬁ can t ly
+up regu la ted in the mu tan t s a f te r t ra in ing . Th is was ma rked ly
+different to WT mice, which responded by sign iﬁcantly upregulat-
+ing only lysy l hydroxy lase , a pro-co llagen I cross- l inker (Yeowe l l
+and Wa lker , 2000) . Intr igu ing ly , at the prote in leve l we detected
+h ighe r leve ls o f ﬁbromodu l in , lum ican and lysy l ox idase in Tnmd
+KO p r io r to exe rc ise ; howeve r , the i r p ro te in depos i t ion was
+unchanged a f te r t ra in ing (Supp lemen ta ry F ig . 6) . On ly a spo r in
+responded to exe rc ise by exh ib i t ing a mo re ﬁb r i l lary pa t te rn . In
+cont rast , WT an ima ls had more pronounced lysy l ox idase s igna ls
+in the ECM after running .
+Taken together , our results suggest that TNMD/Tnmd is a
+mechanosensitive gene important for tendon running performance,
+proper adaptation to exercise and maintenance of structurally and
+functionally integral collagen ﬁbers.
+4. Discussion
+Mechanical stimuli are important for development , homeosta-
+s is and regene ra t ion o f muscu loske le ta l t issues such as bone
+(Pa lomares e t a l . , 2009) , car t i lage (Khoshgo f tar et a l . , 2011) and
+musc le (Cand ian i e t a l . , 2010) . Musc le - re s t r ic ted de le t ion o f
+integr in- linked k inase , the downstream partner o f the mechano-
+recep to r in teg r in β1 , leads to muscu la r dys t rophy a t the s i te
+of myotend inous junc t ions , a phenotype that is further enhanced
+by endu rance exe rc ise t ra in ing (Wang e t a l . , 2008 ) . Conve r se ly ,
+m ice lacking decor in and undergo ing exerc ise are protected from
+the onse t o f os teoa r th r i t is (G ronau e t a l . , 2017 ) . Me chan ica l
+st imu lation was recognized as indispensab le for tendon deve lop-
+men t and homeos tas is (Yang e t a l . , 2005 ; Ga l loway e t a l . , 2013) .
+One recent study by Maeda et a l . , 2011 ind icated that in tendons
+physical forces are translated into biochemica l signals via a signal-
+ing loop between TGF-β3 growth factor-Smad 2/3 med iators and
+Sc le rax is (Scx) t ransc r ip t iona l ac t iv i ty . In ano the r s tudy , i t was
+d iscovered tha t Scx and Os te r ix antagon is t ica l ly regu la te tens i le
+force-responsive remodeling of periodontal ligaments and alveolar
+bone (Tak imo to e t a l . , 2015) . However , the exact invo lvement o f
+o the r mechano -sens i t ive genes and the i r s igna l ing cascades in
+tendon t issues rema ins la rge ly unknown and fu r the r e f fo r ts in
+unde r s tand ing such pa thways a re fundamen ta l fo r imp rov ing
+therapeutic strategies for tendinopathies .
+We have previously described that Tnmd KO mice have a very mild
+developmental phenotype, consisting of reduced tenocyte density and
+increased collagen ﬁber diameter (Docheva et al., 2005). These data
+suggested that Tnmd is not a master-switch gene, but rather a ﬁne-
+tuner. For this reason, we decided to examine whether TNMD is a
+mechanosensitive gene and to challenge control and KO animals by
+endurance running.
+Tendons are comprised of abundant ECM , mainly collagen I , and
+low numbe r o f ce l l s (He ineme ie r and K jae r , 2011 ) . A sma l l
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+8
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+pe rcen tage o f these ce l l s a re TSPC , a d is t inc t ive ce l l popu la t ion
+w ith common adu lt stem ce l l character ist ics suggested to modu-
+la te tendon homeo s ta s i s (Popov e t a l . , 2015 ; B i e t a l . , 2007 ;
+Kohler et al ., 2013) . Mechanical loading of TSPC at 4% cycl ic uniax-
+ia l s t re tch s t imu la ted the i r pro l i fe ra t ion and d i f fe ren t ia t ion into
+tenocy tes (Zhang and Wang , 2010) , p romo ted the produc t ion o f
+co l lagen I , wh i l s t supp re s s ing inﬂamma to ry response s (Yang e t
+a l . , 2005 ) . We have p rev ious ly shown tha t 8% b iax ia l - loaded
+human TSPC respond by upregulation of mechano-sensitive genes
+and produc t ion o f the p ro teog lycan s ﬁb romodu l in and lum ican
+(Popov et al . , 2015) . Loss of Tnmd transcripts in cu ltivated human
+periodontal ligament cells , tenocytes (Itaya et al . , 2009; Mazzocca
+e t a l . , 2011 ) and in ra t tendon ﬁb rob la s t s ha s been shown
+( Je l in sky e t a l . , 2010) . We sugge s t th is down regu la t ion re su l t s
+from lack o f mechan ica l s t imu l i in v itro . Furthermore , a study on
+the e f fec t o f re lease o f tens i le s t ra in on eng inee red human
+tendon-constructs seeded with tendon ﬁbroblasts reported down-
+regu lat ion o f TNMD express ion (Bayer et a l . , 2014) . In our s tudy ,
+the PCR and luciferase data on control and mechanically stretched
+human TSPC showed clearly that TNMD upregulates with mechan-
+ical stretching . Interestingly , TSPC transduced with Tnmd promot-
+e r , bu t no t unde rgo ing s t re tch ing had in c rea sed luc i fe rase
+ac t iv i ty , wh ich we sugges t i s due to endogenous exp ress ion o f
+ups t ream Tnmd regu la to rs in TSPC such as Scx (A lbe r ton e t a l . ,
+2012) .
+When subjec ted to exhaust ive tests and endurance runn ing
+exerc ise Tnmd-deﬁcient m ice exhibited a s igniﬁcant ly d ifferent
+performance phenotype , comprised of lower running time , earlier
+runn ing test fa i lure and worsen ing of runn ing performance after
+train ing reg ime . These results suggest that Tnmd is important for
+opt imal runn ing performance . In order to exc lude s ide-e ffec ts of
+Tnmd gene KO on mice running performance , we carried out gross
+morpho log ica l assessment of muscu loske leta l e lements and foot
+joints revealing no obvious differences between genotypes. Interest-
+ingly , we detected a TA myopathy only in the trained KO animals ,
+there fore at present we considered the onset of this pathology
+secondary to the tendon functional maladaptation to running. The
+in it ia l study of tenomodu l in by Brandau et al . , 2001 , suggested a
+low messenger expression of Tnmd in the bra in , wh ich so far has
+not been validated on the protein level. Still, to examine any poten-
+tial neural side-effects , we performed voluntarily running tests
+where the animals were not forced to run, and in these tests Tnmd
+KO an ima ls showed wi l l ingness to run , suggest ing no profound
+behav iora l d ifferences , but st i l l a tendency for infer ior runn ing .
+Fo llow up investigations will be undertaken to further study the
+Tnmd-re lated TA musc le phenotype as we l l as poss ib le e ffects of
+Tnmd in the neural system.
+Collagen I is the main determinant of tendon mechanical strength
+and function. Our immunogold labelling imaging co-localized Tnmd to
+collagen I ﬁbers in human Achilles tendon and TSPC sections. Strong la-
+belling for TNMD was observed in the ECM in both tendon sections and
+secreted by TSPC. Additionally, it was also found on the cell membrane
+in both tendon cells and TSPC in regions where collagen ﬁbers were at-
+tached or protruding. Importantly, no expression along the naked cell
+membrane was visible, suggestive of intracellular cleavage of Tnmd,
+with subsequent export and deposition in the ECM in close association
+with collagen I ﬁbers.
+Since Tnmd KO m ice harbor very mi ld deve lopmenta l changes ,
+inc lud ing interest ing u ltras tructura l phenotype charac ter ized by
+irregular and thicker collagen I ﬁbrils when examined by electron
+microscopy (Docheva et al . , 2005) , we hypothesized possible struc-
+tural and biomechanical alterat ions of the tendon tissue on nano-
+leve l . To p inpo int such we imp l ica ted AFM topography and force
+inden ta t ion ana lyses , a techno logy tha t has been large ly used in
+ca r t i lage resea rch , demons t ra t ing so l id da ta on nano -s t ruc tu ra l
+and -b iomechan ica l assessment o f car t i lage pa tho log ies (Gronau
+et al ., 2017; Prein et al . , 2016; Stolz et al . , 2009) . AFM of collagen I
+ﬁbers in sedentary and t ra ined Ach i l les tendons conﬁrmed these
+p rev ious obse rva t ions and add i t iona l ly revea led tha t the ﬁbe rs
+are s ign iﬁcan t ly s t i f fe r in the KO than in WT tendons . Mo reover ,
+while ﬁber size increased and stiffness decreased with training in
+control m ice , the KO tendons were non-respons ive . The ab il ity o f
+tendons to s t re tch and reco i l is impo r tan t to save ene rgy du r ing
+locomo t ion fo r e conom ic fo rce gene ra t ion (A lexande r , 1991 ) .
+Howeve r , a t the same t ime they mus t no t unde rgo i r reve rs ib le
+deformation. Physiologica l stretch ing of tendons in v ivo decreases
+crimp numbers close to 50% in order to reduce the degree of ﬁbril
+undu la t ion (F ranch i e t a l . , 2007 ) . Th is is mo re impo r tan t fo r
+tendon s than mu sc le , s ince mu sc le can e longa te by a lmo s t 10%
+wh i le in con trast the who le tendon un it can on ly lengthen by 3–
+4% (E lsa lan ty e t a l . , 2007) . V i la r ta e t a l . , obse rved mo re a l igned
+and intense ly packed ﬁbri ls in Ach il les tendons o f rats after exer-
+c i se (V i lar ta and V ida l Bde , 1989) . S t i f fen ing o f human tendons
+was obse rved in ag ing o r d iabe t ic ind iv idua ls due to inc reased
+pa tho log ica l c ro ss - l ink ing o f co l lagen ﬁb r i ls (Shadw ick , 1990 ;
+Couppe e t a l . 2016 ) . S t i f fne ss o f tendons va r ies w i th age , sex ,
+phy s i ca l ac t iv i ty and fa t igue (Kubo e t a l . , 2001b ; Kubo e t a l . ,
+2001a ; Kubo e t a l . , 2001c ; Reeves , 2006) . Interest ing ly , d i f fe ren t
+types o f tendons modu la te the i r s t i f fness to each o the r , fo r
+example in endurance running , tendons in the knee joints become
+s t i f fe r and in p lan te r jo in ts so f te r to gua ran tee op t ima l runn ing
+performance (Kubo et al . , 2015) . Supplementary Fig . 7 depicts the
+exp lana t ion o f th is phenomenon . When sub jec ted to the same
+amoun t o f mechan ica l load , s t i f fe r tendons ex tend le ss and in
+tu rn s tore less energy . In con t ra s t , tendons tha t are more e las t ic
+extend further , store more energy and can there fore prevent pre-
+mature rupturing . In endurance training the tendon spring softens;
+the so f te r the sp r ing , the mo re e las t ic po ten t ia l ene rgy can be
+stored and less restoring force is needed resulting in more econom-
+ic running.
+A r ise in blood-ﬂow (Langberg et a l . , 1998) , col lagen-turnover
+(Langbe rg e t a l . , 2000) , g lu cose up take (Hannuka inen e t a l . ,
+2005) and a l te red regu la t ion o f ma t r ix me ta l lop ro tease s
+(Ko sk inen e t a l . , 2004 ) a re de tec ted in tendons du r ing exe r c ise .
+Tendons a lso adap t d i f fe ren t ly depend ing on the na tu re o f the
+exe r c ise . Fo r examp le , Sven sson e t a l . (2016) u sed res i s tance
+tra in ing protoco l (bu i ld ing up strength , anaerob ic endurance and
+s ize of ske leta l musc les; invo lving fast-tw itch musc le ﬁbers) that
+resu l ted in tendon s t i f fen ing . In con t ras t , Wood and Brooks
+(2016) reported endurance runn ing ( involving slow-twitch ﬁbers)
+led to more elastic tendon tissues in tendons of old mice , which is
+in l ine w i th ou r resu l ts . Endu rance runn ing in humans leads to
+so f ten ing o f Ach i l les tendons (Oo i e t a l . , 2015 ) and tendon s o f
+young mice adjusted to treadmi ll running by alterations in collagen
+ﬁbe r d iame te r , d i s t r ibu t ion , c ross - se c t iona l a rea and numbe r
+(M ichna , 1984 ; M ichna and Ha r tmann , 1989 ; Ma j ima e t a l . ,
+2003) . I t w i l l be o f g rea t impo r tance in subsequen t s tud ie s to
+inves t iga te mo re prec ise ly the s t ruc tura l- func t iona l re la t ionsh ip
+be tween tendon t issue and bo th mu sc le ﬁbe r type s by app ly ing
+d i f fe ren t exe r c ise pro toco l s as we l l as to coup le AFM da ta w i th
+whole tendon biomechanical tests .
+Collagen I and various proteoglycans contribute to the tensile
+strength and viscoelastic properties of the tendon tissue, respectively
+(Puxkandl et al., 2002; Robinson et al., 2004). Furthermore, proteogly-
+cans and cross-linking enzymes modulate collagen I ﬁbrillogenesis
+during rest and training (Kalamajski and Oldberg, 2010; Kwansa et al.,
+2014). Therefore, we last examined what effect Tnmd exerts on cross-
+linker genes in resting and exercise conditions. Comparison of mRNA
+levels of cross-linkers in tendons of WT mice revealed only one signiﬁ-
+cant exercise-responder gene - lysyl hydroxylase. In contrast, the ten-
+dons of the mutant mice exhibited a very different molecular response
+to exercise: namely all genes that were signiﬁcantly downregulated in
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+9
+sedentary animals responded by upregulation in the trained. The
+expression of the extracellular collagen cross-linker gene Lox was aug-
+mented in the KO mice as a result of exercise. Heinemeier et al.
+(2007) have shown Lox upregulation in rat tendon with increased load-
+ing, which is suggested to potentiate the tendon collagen cross-linking
+process. At the protein level, we observed discrepancies in the expres-
+sion proﬁle, a phenomenon similar to that seen in the development of
+early osteoarthritis in articular cartilage: comparison between osteoar-
+thritic versus healthy patients revealed that link protein, among several
+other genes, increased 50-fold at the mRNA level compared with only a
+three-fold increase at the protein level in the cartilage of diseased
+donors (Cs-Szabo et al., 1997). At present, how Tnmd exactly regulates
+collagen I ﬁbrillogenesis remains difﬁcult to decipher due to our lack
+of understanding of Tnmd signaling pathways. Our data greatly empha-
+size the need for future studies to accurately explain the signaling
+pathways of this gene protein.
+Taken together, our study demonstrates that TNMD/Tnmd, a
+mechanosensitive gene, is required for proper tendon tissue adaptation
+to endurance running. The data advance our understanding of the
+structural-functional relationships of tendon tissues.
+Funding Sources
+German Research Foundation, D.D. grant Nr. DO1414/3-1.
+Conﬂict of Interest
+Authors have no conﬂict of interest.
+to control, none-mechanically stimulated cells. For enabling fold-upreg-
+ulation calculation, the PCR 0 value from the measurement in the con-
+trol group was set to 1.
+A.2. Immunoﬂuorescence
+Immunoﬂuo re scence on human pa te l la , men iscus , tendon
+and ﬁb roca r t i lage was pe r fo rmed as desc r ibed in the ma in tex t .
+B iops ies from cadaver ic human cart i lage (pate l la) , men iscus and
+en thes is ﬁb roca r t i lage we re dono r dona ted to the Ana tomy
+Ins t i tu te , LMU , Mun i ch . C ryo - se c t ion s (12 μm th i ck) we re
+rehyd ra ted in PBS and immunoﬂuo rescence was ca r r ied w i th
+an t ibod ies fo r co l lagen I I and Tnmd w i th ﬁna l nuc lea r , DAP I
+coun te rs ta in . Photom ic rog raphs were taken w i th Ax iocam MRm
+camera on Observer Z1 microscope (Carl Zeiss) .
+A.3. Hematoxilin/Eosin staining
+H&E staining was performed on parafﬁn sections of mouse lower
+foot as follows: after deparaﬁnization and xylol treatment, re-hydration
+in descending alcohol row (100/H2O-50/PBS%) and dH2O wash were
+carried out. Hematoxylin solution of 0.1% was applied for 5 min, follow-
+ed by intense washing with tap water. Next, slides were rinsed with
+dH2O and incubated in 0.1% eosin solution for 5 min. Slides were
+dehydrated in ascending ethanol row to 100%, cleared by two xylol
+steps and ﬁnally mounted with DPX mounting media (Sigma-Aldrich).
+Pictures were taken on an Axiovert 100 microscope using AxioCam
+ICc3 color camera (Carl Zeiss).
+Author Contributions
+A.4. Processing of tissue samples for electron microscopy (EM)
+S.D. performed experimental design, voluntary running experi-
+ments, collagen cross-linking experiments and wrote the manuscript;
+P.A. contributed to experimental design, prepared specimens and
+performed H&E stainings of mouse limbs and arranged sections for
+AFM experiments; L.W. and W.B. did forced endurance training and
+tests and pulmonary examinations and muscle analyses; T.S., S.B. and
+H. C-S. provided AFM data; S.M. made available cadaver human tissue
+biopsies and contributed with histological interpretation; M.S. carried
+out immunogold labelling and EM; A.I. contributed to mechanical stim-
+ulation of TSPC; C.S. provided plasmids for luciferase assay; M.S. ap-
+proved manuscript; D.D. made project conception and experimental
+design, wrote and approved manuscript.
+Acknowledgments
+D.D. acknowledges the support of the German Research Foundation
+(DO1414/3-1). TS, SB and HCS acknowledge the support through the
+CANTER research focal point of the Bavarian State Ministry for Science
+and Education. The funders were not involved in study design, data
+co l lect ion , data ana lys is , interpretat ion and writ ing of the report .
+We thank Martina Burggraf for technical assistance in generating data
+for Fig. 1.
+Appendix A. Supplementary materials and methods
+A.1. Semiquantitative PCR
+Total RNA from human TSPC was isolated with Qiagen RNeasy Mini
+kit (Qiagen, Hilden, Germany). For cDNA synthesis, 1μg total RNA and
+AMV First-Strand cDNA Synthesis Kit (Life technologies) were used.
+PCR was performed with Taq DNA Polymerase (Life technologies) in
+MGResearch instrument (BioRad, Germany). The conditions for TNMD
+and GAPDH PCR are given in Supp. Table 1. PCR bands were quantiﬁed
+densitometrically using BioCapt software (Vilber Lourmat, Germany).
+Values were normalized to GAPDH and results reported as fold change
+Muscle specimens for EM were processed in the Department of Prof.
+W. Bloch as described by Wang et al., 2008. Brieﬂy, muscle tissue was
+ﬁxed in pre-cooled 4% PFA ON at 4°C. After ﬁxation, specimens were
+rinsed 3x10 min in 1 M cacodylate buffer and then treated with 1% ura-
+nyl acetate in 70% ethanol for 8 h at 4°C. Biopsies were subsequently
+dehydrated in a graded series of ethanol and ﬁnally embedded in
+Araldite (Serva, Heidelberg, Germany). Ultrathin sections of 30-60 nm
+were cut with an ultramicrotome (Reichert-Leica) with a diamond
+knife and placed on copper grids. Transmission electron microscopy
+was performed using an electron microscope 902A, Carl Zeiss (Zeiss,
+Jena, Germany).
+A.5. Voluntary running
+Voluntary running behavior was compared between adult Tnmd KO
+and WT male mice (six per genotype, n = 6). Study design was ap-
+proved by the central animal facility of the Medical faculty of the LMU.
+First week mice were acclimatized to the experimental cage containing
+a standard free-spinning mouse running wheel (∅ 12 cm) equipped
+with speedometer (bike computer 8000 Speedmaster, Sigma-Electro,
+Neustadt, Germany). The second and third week each mouse was
+placed in the experimental cage, left overnight to voluntarily use the
+wheel. This was repeated for 4 consecutive days each week. Running
+time and distance were measured, however the technical accuracy of
+the wheel/speedometer system was lower compared to the treadmill
+apparatuses.
+Supp. Table 1
+Semiquantitative PCR conditions.
+Forward primer
+Reverse primer
+Size
+(bp)
+Annealing
+Temp (°
+C)
+TNMD 5´-aagacccgtcacgccagacaag-3´ 5´-ttcacagacgcggcggcaatag-3´ 153
+GAPDH 5´-caactacatggtttacatgttc-3´ 5´-gccagtggactccacgac-3´
+181
+52
+50
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+10
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+Fig. S1. Tnmd expression in human patella, meniscus and enthesis ﬁbrocartilage. Immunoﬂuorescense with anti-collagen II (in red), Tnmd (in green) antibodies and nuclear DAPI (in blue)
+counterstain. (a) Central cartilage region of patella, (b) meniscus (low magniﬁcation), (c) enthesis (tendon to ﬁbrocartilage area) (low magniﬁcation), (d) transition zone to patella
+tendon, (e) meniscus double-labelled area, (f) ﬁbrocartilage double-labelled area, (g) patella tendon, (h) meniscus area positive only for Tnmd, and (i) tendon area positive only for Tnmd.
+Fig. S2. Stacked areas presenting the success rate of both genetypes in pre- and post-exhaustive tests. (a) Stacked area plot and (b) cumulative stacked area in percentage.
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+11
+Fig. S3. Representative H&E staining of musculoskeletal elements in Tnmd KO and WT sedentary and trained animals.
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+12
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+Fig. S4. Gastrocnemius muscle analyses in Tnmd KO and WT trained animals. (a) Perimeter and (b) area of myoﬁbers measured on toluidine blue-stained muscle sections. (c) Tubular
+aggregate (TA) count per total (expressed in percentage) myoﬁber area. (d) Light microscopy (arrows depict TA) and (e) electron microscopy (two different magniﬁcations) images of
+muscle ultrathin sections of trained Tnmd KO animals.
+Fig. S5. Tnmd KO and WT performance in voluntary running tests. (a) Experimental setup of the voluntary running experiment. (b) Timeline: a, 1 week of acclimatization followed by two
+weeks of voluntary running, as in each mouse performance was recorded for 4 consecutive nights. (c) Running time and (d) distance covered per night. Bars represent mean ± standard
+deviation. Six animal per genotype were tested (n= 6).
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+13
+References
+Alberton, P., Popov, C., Pragert, M., Kohler, J., Shukunami, C., Schieker, M., Docheva, D.,
+2012. Conversion of human bone marrow-derived mesenchymal stem cells into ten-
+don progenitor cells by ectopic expression of scleraxis. Stem Cells Dev. 21 (6),
+846–858.
+Alberton, P., Dex, S., Popov, C., Shukunami, C., Schieker, M., Docheva, D., 2015. Loss of
+tenomodulin results in reduced self-renewal and augmented senescence of tendon
+stem/progenitor cells. Stem Cells Dev. 24 (5), 597–609.
+Alexander, R.M., 1991. Elastic mechanisms in primate locomotion. Z. Morphol. Anthropol.
+78 (3), 315–320.
+Bayer, M.L., Schjerling, P., Herchenhan, A., Zeltz, C., Heinemeier, K.M., Christensen, L.,
+Krogsgaard, M., Gullberg, D., Kjaer, M., 2014. Release of tensile strain on engineered
+human tendon tissue disturbs cell adhesions, changes matrix architecture, and in-
+duces an inﬂammatory phenotype. PLoS One 9 (1), e86078.
+Benjamin, M., Ralphs, J.R., 1997. Tendons and ligaments—an overview. Histol. Histopathol.
+12 (4), 1135–1144.
+Bi, Y., Ehirchiou, D., Kilts, T.M., Inkson, C.A., Embree, M.C., Sonoyama, W., Li, L., Leet, A.I.,
+Seo, B.M., Zhang, L., Shi, S., Young, M.F., 2007. Identiﬁcation of tendon stem/progeni-
+tor cells and the role of the extracellular matrix in their niche. Nat. Med. 13 (10),
+1219–1227.
+Boncompagni, S., Protasi, F., Franzini-Armstrong, C., 2012. Sequential stages in the age-de-
+pendent gradual formation and accumulation of tubular aggregates in fast twitch
+muscle ﬁbers: SERCA and calsequestrin involvement. Age (Dordr.) 34 (1), 27–41.
+Brandau, O., Meindl, A., Fassler, R., Aszodi, A., 2001. A novel gene, tendin, is strongly
+expressed in tendons and ligaments and shows high homology with
+chondromodulin-I. Dev. Dyn. 221 (1), 72–80.
+Butt, H.J., Jaschke, M., 1995. Calculation of thermal noise in atomic force microscopy.
+Nanotechnology 6, 1–7.
+Candiani, G., Riboldi, S.A., Sadr, N., Lorenzoni, S., Neuenschwander, P., Montevecchi, F.M.,
+Mantero, S., 2010. Cyclic mechanical stimulation favors myosin heavy chain accumu-
+lation in engineered skeletal muscle constructs. J. Appl. Biomater. Biomech. 8 (2),
+68–75.
+Chakravarti, S., Magnuson, T., Lass, J.H., Jepsen, K.J., LaMantia, C., Carroll, H., 1998. Lumican
+regulates collagen ﬁbril assembly: skin fragility and corneal opacity in the absence of
+lumican. J. Cell Biol. 141 (5), 1277–1286.
+Fig. S6. Cartoon model explaining the physical paradigm of energy stored in stiff versus
+soft tendons (ext., extension). The softer the spring, more elastic potential energy can be
+stored in the tendon and less restoring force is needed, hence resulting in more
+economic running.
+Fig. S7. Comparison of protein expression of collagen I cross-linking genes between genotypes and in response to training. Immunoﬂuorescence with asporin, ﬁbromodulin, lumican and
+lysyl oxidase antibodies on Achilles tendon sections.
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+14
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+Couppe, C., Svensson, R.B., Kongsgaard, M., Kovanen, V., Grosset, J.F., Snorgaard, O.,
+Bencke, J., Larsen, J.O., Bandholm, T., Christensen, T.M., Boesen, A., Helmark, I.C.,
+Aagaard, P., Kjaer, M., Magnusson, S.P., 2016. Human Achilles tendon glycation and
+function in diabetes. J. Appl. Physiol. (1985) 120 (2), 130–137.
+Cs-Szabo, G., Melching, L.I., Roughley, P.J., Glant, T.T., 1997. Changes in messenger RNA
+and protein levels of proteoglycans and link protein in human osteoarthritic cartilage
+samples. Arthritis Rheum. 40 (6), 1037–1045.
+Dex , S . , L in , D . , Shukunam i , C . , Docheva , D . , 2016 . Tenogen ic modu la t ing ins ider
+factor: systematic assessment on the functions of tenomodulin gene. Gene 587
+(1), 1–17.
+Docheva, D., Hunziker, E.B., Fassler, R., Brandau, O., 2005. Tenomodulin is necessary for
+tenocyte proliferation and tendon maturation. Mol. Cell. Biol. 25 (2), 699–705.
+Elsalanty, M., Makarov, M., Cherkashin, A., Birch, J., Samchukov, M., 2007. Changes in pen-
+nate muscle architecture after gradual tibial lengthening in goats. Anat. Rec. 290 (5),
+461–467.
+Engel, W.K., Bishop, D.W., Cunningham, G.G., 1970. Tubular aggregates in type II muscle
+ﬁbers: ultrastructural and histochemical correlation. J. Ultrastruct. Res. 31 (5–6),
+507–525.
+Franchi, M., Fini, M., Quaranta, M., De Pasquale, V., Raspanti, M., Giavaresi, G., Ottani, V.,
+Ruggeri, A., 2007. Crimp morphology in relaxed and stretched rat Achilles tendon.
+J. Anat. 210 (1), 1–7.
+Galloway, M.T., Lalley, A.L., Shearn, J.T., 2013. The role of mechanical loading in tendon de-
+velopment, maintenance, injury, and repair. J. Bone Joint Surg. Am. 95 (17),
+1620–1628.
+Gronau, T., Kruger, K., Prein, C., Aszodi, A., Gronau, I., Iozzo, R.V., Mooren, F.C., Clausen-
+Schaumann, H., Bertrand, J., Pap, T., Bruckner, P., Dreier, R., 2017. Forced exercise-in-
+duced osteoarthritis is attenuated in mice lacking the small leucine-rich proteoglycan
+decorin. Ann. Rheum. Dis. 76 (2) 442–229.
+Hannukainen, J., Kalliokoski, K.K., Nuutila, P., Fujimoto, T., Kemppainen, J., Viljanen, T.,
+Laaksonen, M.S., Parkkola, R., Knuuti, J., Kjaer, M., 2005. In vivo measurements of glu-
+cose uptake in human Achilles tendon during different exercise intensities. Int.
+J. Sports Med. 26 (9), 727–731.
+Heinemeier, K.M., Kjaer, M., 2011. In vivo investigation of tendon responses to mechanical
+loading. J. Musculoskelet. Neuronal Interact. 11 (2), 115–123.
+Heinemeier, K.M., Olesen, J.L., Haddad, F., Langberg, H., Kjaer, M., Baldwin, K.M., Schjerling,
+P., 2007. Expression of collagen and related growth factors in rat tendon and skeletal
+muscle in response to speciﬁc contraction types. J. Physiol. 582 (Pt 3), 1303–1316.
+Itaya, T., Kagami, H., Okada, K., Yamawaki, A., Narita, Y., Inoue, M., Sumita, Y., Ueda, M.,
+2009. Characteristic changes of periodontal ligament-derived cells during passage.
+J. Periodontal Res. 44 (4), 425–433.
+Jelinsky, S.A., Archambault, J., Li, L., Seeherman, H., 2010. Tendon-selective genes identi-
+ﬁed from rat and human musculoskeletal tissues. J. Orthop. Res. 28 (3), 289–297.
+Kalamajski, S., Oldberg, A., 2010. The role of small leucine-rich proteoglycans in collagen
+ﬁbrillogenesis. Matrix Biol. 29 (4), 248–253.
+Kamper, M., Hamann, N., Prein, C., Clausen-Schaumann, H., Farkas, Z., Aszodi, A., Niehoff,
+A., Paulsson, M., Zaucke, F., 2016. Early changes in morphology, bone mineral density
+and matrix composition of vertebrae lead to disc degeneration in aged collagen IX−/
+− mice. Matrix Biol. 49, 132–143.
+Khoshgoftar, M., van Donkelaar, C.C., Ito, K., 2011. Mechanical stimulation to stimulate
+formation of a physiological collagen architecture in tissue-engineered cartilage: a
+numerical study. Comput. Methods Biomech. Biomed. Eng. 14 (2), 135–144.
+Kimura, N., Shukunami, C., Hakuno, D., Yoshioka, M., Miura, S., Docheva, D., Kimura, T.,
+Okada, Y., Matsumura, G., Shin'oka, T., Yozu, R., Kobayashi, J., Ishibashi-Ueda, H.,
+Hiraki, Y., Fukuda, K., 2008. Local tenomodulin absence, angiogenesis, and matrix me-
+talloproteinase activation are associated with the rupture of the chordae tendineae
+cordis. Circulation 118 (17), 1737–1747.
+Kohler, J., Popov, C., Klotz, B., Alberton, P., Prall, W.C., Haasters, F., Muller-Deubert, S.,
+Ebert, R., Klein-Hitpass, L., Jakob, F., Schieker, M., Docheva, D., 2013. Uncovering the
+cellular and molecular changes in tendon stem/progenitor cells attributed to tendon
+aging and degeneration. Aging Cell 12 (6), 988–999.
+Koskinen, S.O., Heinemeier, K.M., Olesen, J.L., Langberg, H., Kjaer, M., 2004. Physical exer-
+cise can inﬂuence local levels of matrix metalloproteinases and their inhibitors in ten-
+don-related connective tissue. J. Appl. Physiol. (1985) 96 (3), 861–864.
+Koteja, P., Swallow, J.G., Carter, P.A., Garland Jr., T., 1999. Energy cost of wheel running in
+house mice: implications for coadaptation of locomotion and energy budgets. Physiol.
+Biochem. Zool. 72 (2), 238–249.
+Kubo, K., Kanehisa, H., Ito , M., Fukunaga, T., 2001a. Effects of isometric training on
+the elasticity of human tendon structures in vivo. J. Appl. Physiol. (1985) 91 (1),
+26–32.
+Kubo, K., Kanehisa, H., Kawakami, Y., Fukanaga, T., 2001b. Growth changes in the elastic
+properties of human tendon structures. Int. J. Sports Med. 22 (2), 138–143.
+Kubo, K., Kanehisa, H., Kawakami , Y., Fukunaga, T. , 2001c. Effects of repeated muscle
+contractions on the tendon structures in humans. Eur. J. Appl. Physiol. 84 (1–2),
+162–166.
+Kubo, K., Miyazaki, D., Shimoju, S., Tsunoda, N., 2015. Relationship between elastic prop-
+erties of tendon structures and performance in long distance runners. Eur. J. Appl.
+Physiol. 115 (8), 1725–1733.
+Kwansa, A.L., De Vita, R., Freeman, J.W., 2014. Mechanical recruitment of N- and C-
+crosslinks in collagen type I. Matrix Biol. 34, 161–169.
+Kyriakides, T.R., Zhu, Y.H., Smith, L.T., Bain, S.D., Yang, Z., Lin, M.T., Danielson, K.G., Iozzo,
+R.V., LaMarca, M., McKinney, C.E., Ginns, E.I., Bornstein, P., 1998. Mice that lack
+thrombospondin 2 display connective tissue abnormalities that are associated with
+disordered collagen ﬁbrillogenesis, an increased vascular density, and a bleeding di-
+athesis. J. Cell Biol. 140 (2), 419–430.
+Langberg, H., Bulow, J., Kjaer, M., 1998. Blood ﬂow in the peritendinous space of the
+human Achilles tendon during exercise. Acta Physiol. Scand. 163 (2), 149–153.
+Langberg, H., Skovgaard, D., Asp, S., Kjaer, M., 2000. Time pattern of exercise-induced
+changes in type I collagen turnover after prolonged endurance exercise in humans.
+Calcif. Tissue Int. 67 (1), 41–44.
+Lerman, I., Harrison, B.C., Freeman, K., Hewett, T.E., Allen, D.L., Robbins, J., Leinwand, L.A.,
+2002. Genetic variability in forced and voluntary endurance exercise performance in
+seven inbred mouse strains. J. Appl. Physiol. 92 (6), 2245–2255.
+Lightfoot, J.T., 2011. Current understanding of the genetic basis for physical activity.
+J. Nutr. 141 (3), 526–530.
+Maeda , T . , Sakabe , T . , Sunaga , A . , Saka i , K . , R ivera , A .L . , Keene , D .R . , Sasak i , T . ,
+Stavnezer, E., Iannotti, J., Schweitzer, R., Ilic, D., Baskaran, H., Sakai, T., 2011. Con-
+version of mechanical force into TGF-beta-mediated biochemical signals . Curr.
+Biol . 21 (11), 933–941.
+Majima, T., Yasuda, K., Tsuchida, T., Tanaka, K., Miyakawa, K., Minami, A., Hayashi, K.,
+2003. Stress shielding of patellar tendon: effect on small-diameter collagen ﬁbrils in
+a rabbit model. J. Orthop. Sci. 8 (6), 836–841.
+Mazzocca, A.D., Chowaniec, D., McCarthy, M.B., Beitzel, K., Cote, M.P., McKinnon, W.,
+Arciero, R., 2011. In vitro changes in human tenocyte cultures obtained from proxi-
+mal biceps tendon: multiple passages result in changes in routine cell markers.
+Knee Surg. Sports Traumatol. Arthrosc.
+Michna, H., 1984. Morphometric analysis of loading-induced changes in collagen-ﬁbril
+populations in young tendons. Cell Tissue Res. 236 (2), 465–470.
+Michna, H., Hartmann, G., 1989. Adaptation of tendon collagen to exercise. Int. Orthop. 13
+(3), 161–165.
+Morgan-Hughes, J.A., 1998. Tubular aggregates in skeletal muscle: their functional signif-
+icance and mechanisms of pathogenesis. Curr. Opin. Neurol. 11 (5), 439–442.
+Morse, D.L., Gillies, R.J., 2010. Molecular imaging and targeted therapies. Biochem.
+Pharmacol. 80 (5), 731–738.
+Ooi, C.C., Schneider, M.E., Malliaras, P., Counsel, P., Connell, D.A., 2015. Prevalence of mor-
+phological and mechanical stiffness alterations of mid Achilles tendons in asymptom-
+atic marathon runners before and after a competition. Skelet. Radiol. 44 (8),
+1119–1127.
+Oshima, Y., Shukunami, C., Honda, J., Nishida, K., Tashiro, F., Miyazaki, J., Hiraki, Y., Tano, Y.,
+2003. Expression and localization of tenomodulin, a transmembrane type
+chondromodulin-I-related angiogenesis inhibitor, in mouse eyes. Invest. Ophthalmol.
+Vis. Sci. 44 (5), 1814–1823.
+Palomares, K.T., Gleason, R.E., Mason, Z.D., Cullinane, D.M., Einhorn, T.A., Gerstenfeld, L.C.,
+Morgan, E.F., 2009. Mechanical stimulation alters tissue differentiation and molecular
+expression during bone healing. J. Orthop. Res. 27 (9), 1123–1132.
+Pavlovicova, M., Novotova, M., Zahradnik, I., 2003. Structure and composition of tubular
+aggregates of skeletal muscle ﬁbres. Gen. Physiol. Biophys. 22 (4), 425–440.
+Pennisi, E., 2002. Tending tender tendons. Science 295 (5557), 1011.
+Popov, C., Burggraf, M., Kreja, L., Ignatius, A., Schieker, M., Docheva, D., 2015. Mechanical
+stimulation of human tendon stem/progenitor cells results in upregulation of matrix
+proteins, integrins and MMPs, and activation of p38 and ERK1/2 kinases. BMC Mol.
+Biol. 16, 6.
+Prein, C., Warmbold, N., Farkas, Z., Schieker, M., Aszodi, A., Clausen-Schaumann, H., 2016.
+Structural and mechanical properties of the proliferative zone of the developing mu-
+rine growth plate cartilage assessed by atomic force microscopy. Matrix Biol. 50,
+1–15.
+Puxkandl, R., Zizak, I., Paris, O., Keckes, J., Tesch, W., Bernstorff, S., Purslow, P., Fratzl,
+P., 2002. Viscoelastic properties of collagen: synchrotron radiation investigations
+and struc tura l mode l . Ph i los . Trans . R . Soc . Lond . Ser . B B io l . Sc i . 357 (1418) ,
+191–197.
+Reeves, N.D., 2006. Adaptation of the tendon to mechanical usage. J. Musculoskelet. Neu-
+ronal Interact. 6 (2), 174–180.
+Robinson, P.S., Lin, T.W., Reynolds, P.R., Derwin, K.A., Iozzo, R.V., Soslowsky, L.J., 2004.
+Strain-rate sensitive mechanical properties of tendon fascicles from mice with genet-
+ically engineered alterations in collagen and decorin. J. Biomech. Eng. 126 (2),
+252–257.
+Shadwick, R.E., 1990. Elastic energy storage in tendons: mechanical differences related to
+function and age. J. Appl. Physiol. (1985) 68 (3), 1033–1040.
+Shukunami, C., Oshima, Y., Hiraki, Y., 2001. Molecular cloning of tenomodulin, a novel
+chondromodulin-I related gene. Biochem. Biophys. Res. Commun. 280 (5),
+1323–1327.
+Stolz, M., Gottardi, R., Raiteri, R., Miot, S., Martin, I., Imer, R., Staufer, U., Raducanu, A.,
+Düggelin, M., Baschong, W., Daniels, A.U., Friederich, N.F., Aszodi, A., Aebi, U., 2009.
+Early detection of aging cartilage and osteoarthritis in mice and patient samples
+using atomic force microscopy. Nat. Nanotechnol. 4 (3), 186–192.
+Svensson, R.B., Heinemeier, K.M., Couppe, C., Kjaer, M., Magnusson, S.P., 2016. Effect of
+aging and exercise on the tendon. J. Appl. Physiol. (1985) 121 (6), 1353–1362.
+Takimoto, A., Kawatsu, M., Yoshimoto, Y., Kawamoto, T., Seiryu, M., Takano-Yamamoto, T.,
+Hiraki, Y., Shukunami, C., 2015. Scleraxis and osterix antagonistically regulate tensile
+force-responsive remodeling of the periodontal ligament and alveolar bone. Develop-
+ment 142 (4), 787–796.
+Vilarta, R., Vidal Bde, C., 1989. Anisotropic and biomechanical properties of tendons mod-
+iﬁed by exercise and denervation: aggregation and macromolecular order in collagen
+bundles. Matrix 9 (1), 55–61.
+Wang, H.V., Chang, L.W., Brixius, K., Wickstrom, S.A., Montanez, E., Thievessen, I.,
+Schwander, M., Muller, U., Bloch, W., Mayer, U., Fassler, R., 2008. Integrin-linked ki-
+nase stabilizes myotendinous junctions and protects muscle from stress-induced
+damage. J. Cell Biol. 180 (5), 1037–1049.
+Wood, L.K., Brooks, S.V., 2016. Ten weeks of treadmill running decreases stiffness and in-
+creases collagen turnover in tendons of old mice. J. Orthop. Res. 43 (2), 346–353.
+Yang, G., Im, H.J., Wang, J.H., 2005. Repetitive mechanical stretching modulates IL-1beta
+induced COX-2, MMP-1 expression, and PGE2 production in human patellar tendon
+ﬁbroblasts. Gene 363, 166–172.
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003
+S. Dex et al. / EBioMedicine xxx (2017) xxx–xxx
+15
+Yeowell, H.N., Walker, L.C., 2000. Mutations in the lysyl hydroxylase 1 gene that result in
+enzyme deﬁciency and the clinical phenotype of Ehlers-Danlos syndrome type VI.
+Mol. Genet. Metab. 71 (1–2), 212–224.
+Zhang, J., Wang, J.H., 2010. Mechanobiological response of tendon stem cells: implications
+of tendon homeostasis and pathogenesis of tendinopathy. J. Orthop. Res. 28 (5),
+639–643.
+Zhang, G., Ezura, Y., Chervoneva, I., Robinson, P.S., Beason, D.P., Carine, E.T., Soslowsky, L.J.,
+Iozzo, R.V., Birk, D.E., 2006. Decorin regulates assembly of collagen ﬁbrils and acqui-
+sition of biomechanical properties during tendon development. J. Cell Biochem. 98
+(6), 1436–1449.
+Please cite this article as: Dex, S., et al., Tenomodulin is Required for Tendon Endurance Running and Collagen I Fibril Adaptation to Mechanical
+Load, EBioMedicine (2017), http://dx.doi.org/10.1016/j.ebiom.2017.05.003

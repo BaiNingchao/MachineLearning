@@ -1,0 +1,1305 @@
+JOURNAL OF TISSUE ENGINEERING AND REGENERATIVE MEDICINE
+J Tissue Eng Regen Med 2016.
+Published online in Wiley Online Library (wileyonlinelibrary.com) DOI: 10.1002/term.2150
+R E S E A R C H A R T I C L E
+Enhanced tenogenic differentiation and tendon-like
+tissue formation by tenomodulin overexpression in
+murine mesenchymal stem cells
+Yongkang Jiang1†, Yuan Shi1†, Jing He3†, Zhiyong Zhang1,2, Guangdong Zhou1,2, Wenjie Zhang1,2,
+Yilin Cao1,2 and Wei Liu1,2*
+1Department of Plastic and Reconstructive Surgery shanghai 9th People’s Hospital, People’s Republic of China
+2National Tissue Engineering Centre of China, Shanghai, People’s Republic of China
+3Department of Anatomy and Neurobiology, Tongji University School of Medicine, Shanghai, People’s Republic of China
+Abstract
+As a highly speciﬁc marker of tenocytes, tenomodulin (Tnmd) functions remain largely unexplored. We
+investigated the effect of Tnmd overexpression on tenogenic differentiation of murine mesenchymal
+stem cells (mMSCs) via plasmid-mediated overexpression in the C3H10T1/2 cell line. The results
+showed that overexpressed Tnmd could signiﬁcantly enhance cell proliferation (p < 0.05) and the gene
+expressions of tenogenic-related molecules, including Tnmd, Scleraxis (Scx), collagens I, III and VI and
+decorin (p < 0.05), and signiﬁcantly inhibit mMSCs differentiation towards the adipogenic,
+chondrogenic and osteogenic lineages (p < 0.05). Upon in vivo implantation with rat tail collagen gel
+subcutaneously in nude mice, Tnmd-overexpressed C3H10T1/2 cells formed neotendon-like tissue,
+which revealed a histological feature of wave-like dense collagen ﬁbres and cells aligned in parallel.
+By contrast, a disorganized connective tissue structure with randomly distributed cells was observed
+in the control group. To further conﬁrm this ﬁnding, a conditional Tnmd-overexpressing mouse model
+was established and the derived primary mMSCs could be induced to overexpress Tnmd with > two-fold
+upregulated gene expression (p < 0.05) by the treatment of doxycycline (Dox). Similarly, conditional
+overexpression of Tnmd in primary mMSCs also led to faster proliferation (p < 0.05), enhanced gene
+expression of tenogenic markers (p < 0.05) and the inhibited expressions of adipogenic and osteogenic
+markers (p < 0.05). The results of enhanced tenogenic dif ferentiation and neotendon formation
+indicated that Tnmd may ser ve not only as a tenogenic marker but also as a positive regulator
+of MSCs tenogenic differentiation, which might be applied to MSCs-mediated tendon regeneration.
+Copyright © 2016 John Wiley & Sons, Ltd.
+Received 23 July 2015; Revised 12 November 2015; Accepted 22 December 2015
+Keywords
+tenomodulin; overexpression; MSCs; tenogenic differentiation; neotendon formation
+1. Introduction
+Tendon engineering offers a promising alternative therapy
+for tendon repair and regeneration, which remains a clin-
+ical challenge in plastic and hand surgery. Regarding ten-
+don engineering, different types of seed cells have been
+employed previously,
+such as
+tenocytes and skin
+*Correspondence to: W. Liu, Department of Plastic and Re-
+constructive Surgery, Shanghai Ninth People’s Hospital,
+Shanghai Jiao Tong University School of Medicine, 639 Zhi
+Zao Ju Road, Shanghai 200011, People’s Republic of China.
+E-mail: liuwei_2000@yahoo.com
+† These authors contributed equally to this study.
+Copyright © 2016 John Wiley & Sons, Ltd.
+ﬁbroblasts (Cao et al., 2002; Liu et al., 2006; Deng et al.,
+2009). Of particular interest is the use of mesenchymal
+stem cells (MSCs) for tendon engineering, because of
+their multi-differentiation potential (Pittenger et al.,
+1999), including tenogenic differentiation potential and
+the capability of regenerating functional tendons (Ouyang
+et al., 2003; Hankemeier et al., 2009). Although various
+molecules have been reported to be beneﬁcial
+for
+tenogenic differentiation (Hoffmann et al., 2006; Kuo
+and Tuan, 2008; Sahoo et al., 2010), the search for a spe-
+ciﬁc molecule that can not only serve as a marker of
+tenocytes but also play a role in tenogenic differentiation
+is obviously an area to be explored.
+Tenomodulin (Tnmd) has been deﬁned as a highly spe-
+ciﬁc marker
+for mature tenocytes in the literature
+(Brandau et al., 2001; Shukunami et al., 2001; Yamana
+et al., 2001; Jelinsky et al., 2010). It is a type II transmem-
+brane glycoprotein that is characteristically expressed in
+dense connective tissues, such as tendon and ligament
+(Brandau et al., 2001; Shukunami et al., 2001; Yamana
+et al., 2001). Tnmd is mainly composed of a highly con-
+served C-terminal domain with eight cysteine residues, a
+BRICHOS domain consisting of a conserved sequence of
+approximately 100 amino acids, and a putative protease
+recognition site, RXXR. Cleavage at this site by furin re-
+sults in the release of the C-terminal cysteine-rich domain
+from the cell membrane into the extracellular matrix
+(ECM) (Brandau et al., 2001).
+Regarding Tnmd function, this remains largely unex-
+plored. A study (Oshima et al., 2004) has shown that
+the C-terminal
+cysteine-rich domain has an anti-
+angiogenic role, as its overexpression in human umbilical
+vein endothelial cells (HUVECs) inhibited cell prolifera-
+tion and tube formation in an in vitro assay.
+Its
+overexpression in human melanoma cells resulted in sup-
+pressing tumour growth in vivo, with decreased vessel
+density (Oshima et al., 2004). Additionally, Tnmd-
+deﬁcient mice exhibited severely reduced proliferation of
+derived tenocytes and an altered collagen ﬁbril super-
+structure, indicating that Tnmd is a regulator of tenocyte
+proliferation and collagen ﬁbril maturation (Docheva
+et al., 2005).
+This evidence suggests that Tnmd may play a potential
+role in tendon development and functional maintenance.
+From a developmental biology point of view, MSC
+tenogenic differentiation may partially represent the ten-
+don development process (Bruder et al., 1994). Unfortu-
+nately, the role of Tnmd in this process has not yet been
+fully explored. Previously, gene transfection of MSCs was
+applied to tendon engineering, e.g. Smad8 (Hoffmann
+et al., 2006), Scleraxis (Alberton et al., 2012) and BMP12
+and BMP13 (Haddad-Weber et al., 2010). In the present
+study, we investigated the role of Tnmd in MSC tenogenic
+differentiation and other lineage differentiations, and
+neotendon formation primarily via its gene overexpres-
+sion in an immortalized cell line of murine tendon-derived
+progenitor TT-D6 cells and a murine MSC cell
+line,
+C3H10T1/2. In addition, the effect of Tnmd overexpres-
+sion on MSC tenogenic differentiation was also validated
+using murine bone marrow stromal cells (mBMSCs) de-
+rived from conditional Tnmd-overexpressing transgenic
+mice.
+2. Materials and methods
+2.1. Generation of conditional Tnmd
+overexpression mice
+This work was performed by Model Animal Research
+Centre, Nanjing University, as a commercial technical
+Copyright © 2016 John Wiley & Sons, Ltd.
+Y. Jiang et al.
+service. Brieﬂy, mouse Tnmd CDS (coding sequence)
+was excised from pCAGGS–Tnmd plasmid (kindly pro-
+vided by Dr Yuji Hiraki at Kyoto University, Japan), using
+EcoRI digestion, and then inserted into pTRE vector
+(pTRE-Tnmd) at the EcoRI site, using T4 ligase (New En-
+gland Biolabs, Ipswich, MA, USA). Linearized pTRE-Tnmd
+cDNA was microinjected into the pronucleus of fertilized
+zygotes of C57BL/6 mice, as described (Liu et al., 2013).
+The eggs were implanted into a pseudo-pregnant ICR fos-
+ter mother. Founder mice were identiﬁed by PCR as des-
+cribed below, using the DNA isolated from the tails and
+the primer (forward, 5′-GCTCGTTTAGTGAACCGTCAGA-
+3′; reverse, 5′-CCGTCCTCCTCAAAGTCCTGTA-3′). The
+pTRE-Tnmd transgenic mice were bred and mated with
+STOCK Tg(rtTAhCMV) 4Uh/J mice (purchased from the
+Model Animal Research Centre, Nanjing University,
+China), which carried the gene encoding the reverse
+tetracyline-controlled transactivator protein (rtTA) under
+the control of a human cytomegalovirus (hCMV) early
+promoter, and conditional overexpression of tenomodulin
+could be induced with the addition of doxycycline (Dox,
+Sigma, St. Louis, MO, USA) in the culture medium. The
+offspring were then bitransgenic and Tnmd overexpres-
+sion could be induced by treatment with Dox. The trans-
+genic mice were characterized by PCR using above-
+mentioned primer for pTRE-Tnmd and a new primer for
+rtTA (forward, 5′-CGCTGTGGGGCATTTTACTTTAG-3′;
+reverse, 5′-CGTGTCCAGATCGAAATCGTC-3′). All experi-
+mental protocols involving mouse experiments were ap-
+proved by the Animal Care and Experiment Committee
+of Shanghai Jiao Tong University School of Medicine.
+2.2. Cell culture
+Cells from the murine tendon-derived cell line TT-D6
+(Salingcarnboriboon et al.,2003) and the murine MSC cell
+line C3H10T1/2 (Hoffmann et al., 2006) were cultured in
+Dulbecco’s modiﬁed Eagle’s medium (DMEM) supple-
+mented with 10% fetal bovine serum (FBS; HyClone,
+Logan, UT, USA), 2 mM L-glutamine, 100 U/ml penicillin
+and 100 mg/ml streptomycin. TT-D6 cells needed to be
+cultured at 33 °C, as the cells harboured a temperature-
+sensitive mutant of SV40 large T antigen in order to main-
+tain their immortalized status (Salingcarnboriboon et al.,
+2003). The culture medium was changed every 2 days
+and the cultured cells were passaged when they reached
+80% conﬂuence.
+To obtain mur ine pr imar y BMSCs from the trans-
+genic mice, 10 conditional Tnmd overexpression mice
+were randomly selected and anaesthet ized with pen-
+tobarbital (50 mg/kg), and the bone marrow cells
+were har vested from the femurs by gr inding asepti-
+cally, as previously descr ibed (Zhu et al., 2015). In
+this study, three or four mouse-der ived BMSCs were
+combined into one cell sample;
+in total, three cell
+samples were generated from 10 mice. The der ived
+cells were cultured in DMEM supplemented with
+10% FBS, 100 U/ml penicillin and 100 mg/ml
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Tenomodulin overexpression and MSC tenogenic differentiation
+streptomycin. Af ter culture for 48 h, non-adherent
+cells were removed by changing the medium. The ad-
+herent cells were grown and sor ted by magnetic-
+activated cell sor ting (MACS; Miltenyi Biotec, Ger-
+many), using a mouse lineage cell depletion kit
+(Miltenyi Biotec) as previously descr ibed (Lamour y
+et al., 2006). The lineage-negative cells were consid-
+ered to be mBMSCs. To induce the overexpression of
+Tnmd, 5 μM Dox was added into the DMEM culture
+medium, which was changed every 2 days.
+To
+assess
+the multilineage
+differentiation
+of
+C3H10T1/2 cells and mBMSCs in vitro, the cells were
+plated at a density of 5 × 105 cells/well in six-well plates,
+followed by a change of differentiation medium every
+2 days. Differentiation media were prepared as previously
+described (Chen et al., 2007): for adipogenic induction,
+both cell types were cultured in adipogenic medium
+(0.5 mM isobutylmethylxanthine, 1 μM dexamethasone,
+10 μM insulin and 200 μM indomethacin) for 7 days; for
+osteogenic induction, both cell types were cultured in os-
+teogenic medium (0.01 μM 1,25-dihydroxyvitamin D3,
+50 μM ascorbate 2-phosphate and 10 mM β-glycerol phos-
+phate) for 21 days; and for chondrogenic induction, both
+cell
+types were cultured in chondrogenic medium
+[50 μM ascorbate 2-phosphate (all reagents above from
+Sigma, St Louis, MO, USA), 10 ng/ml
+transforming
+growth factor-β1(TGFβ1; R&D Systems, Minneapolis,
+MN, USA) and 50 ng/ml
+insulin-like growth factor-1
+(IGF-1; R&D Systems)] for 21 days.
+To induce chondrogenic differentiation in a pellet cul-
+ture fashion, C3H10T1/2 cells were resuspended at
+5 × 105 cells in 1 ml culture medium, then centrifuged
+at 240 × g for 5 min to form pellets, according to a previ-
+ously established protocol (Zhu et al., 2015). These pellets
+were cultured in the above-mentioned chondrogenic me-
+dium, which was changed every 2 days. After 3 weeks of
+in vitro culture, pellet samples were evaluated by qPCR
+and histochemical analyses.
+2.3. Plasmid transfection
+To achieve Tnmd overexpression, TT-D6 and C3H10T1/2
+cells were transfected with pCAGGS–Tnmd plasmid as
+the experimental group and an empty control vector,
+pCAGGS (Yoshimura et al., 2009), as a control, using
+Fugene HD (Roche, Indianapolis, IN, USA), according
+to the manufacturer ’s protocol. Brieﬂy, the cells were
+plated at a density of 5 × 105 cells/well in six-well plates
+until they reached >80% conﬂuence. Next day, transfec-
+tion complex containing 2 μg linearized DNA and 6 μl
+Fugene HD transfection reagent (1:3 ratio) was added
+directly into the culture medium. To assure stable expres-
+sion of Tnmd,
+the cells were subjected to G418
+(Calbiochem, Darmstadt, Germany) selection at a con-
+centration of 800 μg/ml immediately after the transfec-
+tion. Individual surviving cell clones were picked up by
+limiting dilution on 96-well plates. The clones were prop-
+agated and conﬁrmed for Tnmd gene expression by RT–
+Copyright © 2016 John Wiley & Sons, Ltd.
+PCR and quantitative PCR (qPCR). Cell clones that dem-
+onstrated the highest levels of Tnmd gene expression
+were further conﬁrmed by immunoﬂuorescent staining
+of Tnmd protein and propagated under the selected pres-
+sure of G418 (400 μg/ml), and three cell clones with the
+highest gene expression level were used for following
+experiments.
+2.4. RNA extraction and RT–PCR analysis
+Total RNAs were extracted from TT-D6 and C3H10T1/2
+cells transfected with pCAGGS–Tnmd or pCAGGS using
+Trizol reagent (Invitrogen, Carlsbad, CA, USA), and 1 μg
+RNA was reverse-transcribed into cDNA, using AMV re-
+verse transcriptase (Promega, Madison, WI, USA) in a
+20 μl reaction solution, including 4 μl 5× buffer, 4 μl
+MgCl2, 1 μl oligo-(dT), 2 μl dNTP, 0.5 μl RNase inhibitor
+and 0.5 μl AMV reverse transcriptase, using double-
+distilled water to make up to the ﬁnal volume. The mix-
+ture was then incubated at 30 °C for 10 min, 42 °C for
+60 min, 95 °C for 5 min and 5 °C for 5 min. The cDNA
+was then ampliﬁed using a RT–PCR kit (Takara, Shiga,
+Japan);
+the primer sequences for detecting tendon-
+related genes are listed in Table 1. PCR products were sep-
+arated by agarose gel electrophoresis in TAE buffer con-
+taining ethidium bromide and visualized under UV light.
+β-Actin was used as an internal control. Similarly, total
+RNAs were also extracted from C3H10T1/2 cells
+transfected with pCAGGS–Tnmd or pCAGGS and these
+cells,
+after multilineage
+differentiation
+induction
+(pCAGGS–Tnmd- or pCAGGS-induced), followed by re-
+verse transcription. RT–PCR was also performed using a
+RT–PCR kit (Takara); the primer sequences for detecting
+multilineage differentiation-related genes are listed in
+Table 2.
+Total RNAs were also extracted from mBMSCs derived
+from conditional Tnmd-overexpressing mice, cultured
+without (TNMD–OE) or with (TNMD–OE + Dox) 5 μM
+Dox, and from the induced Dox-treated (TNMD–
+OE + Dox induced) or induced non-treated (TNMD–OE
+induced) BMSCs after multilineage differentiation, and
+reverse-transcribed. The cDNA was subjected to qPCR
+analysis
+for multidifferentiated
+genes,
+including
+tenogenic genes; the primer sequences are also listed in
+Tables 1 and 2.
+2.5. qPCR
+The qPCR procedure was performed using a Power SYBR
+Green PCR Master Mix (2×; Applied Biosystems, Foster
+City, CA, USA) in a real-time thermal cycler (Stratagene
+Mx3000PTM QPCR System, La Jolla, CA, USA), as pre-
+viously described (Zhu et al., 2010). The mixture of cDNA,
+PCR master mix, primers and double-distilled water was
+incubated at 95 °C for 10 min, then with 35 cycles of
+95 °C for 30 s, at annealing temperature (see Tables 1,
+2) for 30 s, 72 °C for 45 s and 95 °C for 30 s. Analysis of
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Table 1. Primers of tendon-related genes used in RT–PCR and qPCR
+Y. Jiang et al.
+Gene name
+Scleraxis
+Tenomodulin
+Collagen I
+Collagen III
+Collagen VI
+Biglycan
+Decorin
+β-Actin
+Primer sequence
+Annealing temperature (°C)
+Size of PCR product (bp)
+F: CCTTCTGCCTCAGCAACCAG
+R: GGTCCAAAGTGGGGCTCTCCGTGACT
+F: TGTACTGGATCAATCCCACTCT
+R: GCTCATTCTGGTCAATCCCCT
+F: GGCGGCCAGGGCTCCGACCC
+R: AATTCCTGGTCTGGGGCACC
+F: CAACCAGTGCAAGTGACCAA
+R: GCACCATTGAGACATTTTGAAG
+F: AGAACATAGCCTGGACG
+R: ACAACCCGCCTTAGAG
+F: TGGACCTAGGTCATATTTCTC
+R: ATATTTGTTTGTGGAGGGACTGG
+F: TGTCCATGAGAATGAGATCACCA
+R: GCCTTCCAGGGACTGAAGAGTCT
+F: CCAAGGCCAACCGCGAGAAGATGAC
+R: AGGGTACATGGTGGTGCCGCCAGAC
+63
+57
+57
+57
+52
+57
+50
+60
+156
+115
+320
+174
+282
+234
+186
+592
+Table 2. Primers of multilineage differentiation-related genes used in RT–PCR and qPCR
+Gene name
+aP2
+Adiponectin
+C/EBPα
+PPARγ
+Aggrecan
+SOX9
+Collagen II
+AKP
+Osteocalcin
+Runx2
+β-Actin
+Primer sequence
+Annealing temperature (°C)
+Size of PCR product (bp)
+F: AAATCACCGCAGACGACA
+R: CACATTCCACCACCAGCT
+F: GCAGAGATGGCACTCCTGGA
+R: CCCTTCAGCTCCTGTCATTCC
+F: GTTAGCCATGTGGTAGGAGACA
+R: CCCAGCCGTTAGTGAAGAGT
+F: AGACCACTCGCATTCCTTT
+R: CCCACAGACTCGGCACTCA
+F: TAGAGGATGTGAGTGGTCTT
+R: TCCACTAAGGTACTGTCCAC
+F: GCTTGACGTGTGGCTTGTTC
+R: GAGCCGGATCTGAAGATGGA
+F: CACCAAATTCCTGTTCAGCC
+R: TGCACGAAACACACTGGTAAG
+F: CCAACTCTTTTGTGCCAGAGA
+R: GGCTACATTGGTGTTGAGCTTTT
+F: CCCAGCGGCCCTGAGTCTGA
+R: GCTCACACTGCTCCCGGGTG
+F: GCCGCTAGAATTCAAAACAGTTGG
+R: GAATGGCAGCACGCTATTAAATCC
+F: CCAAGGCCAACCGCGAGAAGATGAC
+R: AGGGTACATGGTGGTGCCGCCAGAC
+60
+60
+60
+58
+60
+60
+60
+60
+60
+60
+60
+138
+101
+353
+268
+490
+151
+124
+110
+136
+103
+592
+each gene expression was conducted in triplicate and re-
+peated in three samples and was normalized to β-actin ex-
+pression, using the 2–ΔΔCT method.
+(DAPI; 100 nM in PBS; Sigma) for 30 s and visualized un-
+der a ﬂuorescence microscope.
+2.6. Immunoﬂuorescent staining
+To conﬁrm Tnmd overexpression after transfection, TT-D6
+and C3H10T1/2 cells transfected with pCAGGS–Tnmd or
+pCAGGS were ﬁxed in 4% cold paraformaldehyde (PFA;
+Sigma) in phosphate-buffered saline (PBS) for 10 min
+and blocked with 5% bovine serum albumin (BSA;
+Invitrogen) in PBS for 60 min, followed by incubation
+with rabbit polyclonal anti-Tnmd antibody (1:200; kindly
+provided by Dr Yuji Hiraki and Dr Chisa Shukunami
+(Kyoto University, Japan) at 4 °C overnight. After three
+washes in PBS, PE-labelled anti-rabbit secondary antibody
+was added and incubated for 60 min at 37 °C. The nuclei
+were counterstained with 4,6-diamidino-2-phenylindole
+2.7. Cell proliferation assay
+To evaluate the effect of Tnmd overexpression on the prolif-
+eration of TT-D6 and C3H10T1/2 cells, the 3-(4,5-dimeth-
+ylthiazol)-2,5-diphenyltetrazolium bromide (MTT; Sigma)
+assay was performed. Both types of cells, transfected with
+pCAGGS–Tnmd or pCAGGS, were seeded on 96-well plates
+at a density of 2000 cells/well, cultured for 6 days and
+tested each day. In each well, 20 μl (5 mg/ml) MTT solution
+was added and the plates were incubated for 4 h at 37 °C.
+Then the MTT solution was removed and 150 μl dimethyl
+sulphoxide (DMSO; Sigma) was added, followed by incuba-
+tion for 10 min on a low-speed shaking table. The absor-
+bance was measured at 490 nm wavelength, using an
+enzyme-linked immunosorbent assay reader (Thermo
+Copyright © 2016 John Wiley & Sons, Ltd.
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Tenomodulin overexpression and MSC tenogenic differentiation
+Scientiﬁc, Waltham, MA, USA). The experiment was per-
+formed in quadruplicate.
+To evaluate the effect of Tnmd overexpression on
+mBMSC proliferation, cell counting kit-8 (CCK-8; Dojindo
+Laboratories, Japan) was employed, according to the
+user ’s manual. Brieﬂy, mBMSCs cultured with or without
+5 μM Dox were seeded in 96-well plates at a density of
+2000 cells/well. Each group was cultured for 11 days
+and tested every other day. At the testing time points,
+10 μl CCK-8 solution and 90 μl cell culture medium, with
+or without 5 μM Dox, were added and incubated for 2.5 h
+at 37 °C under 5% CO2. Then the absorbance at 450 nm
+wavelength was measured using the enzyme-linked im-
+munosorbent
+assay
+reader. The
+experiment was
+performed in quintuplicate and repeated twice.
+2.8. Histochemical and immunocytochemical
+analyses
+To detect the effect of Tnmd overexpression on the
+multilineage differentiation of C3H10T1/2 cells and
+mBMSCs, the related assays were performed including
+oil red O, alkaline phosphatase (AKP), alizarin red and
+collagen II staining.
+The oil red O staining procedure was performed follow-
+ing the manufacturer’s protocol (Genmed Scientiﬁc, Arling-
+ton, MA, USA). Brieﬂy, cells after adipogenic differentiation
+were ﬁxed with 4% cold paraformaldehyde for 10 min and
+then incubated in 2% oil red O reagent for 7 min, followed
+by washes with PBS, and then observed under a microscope.
+The examination of AKP activity was done following
+the manufacturer ’s protocol (Shanghai Rainbow Medical
+Reagent, Shanghai, China). Brieﬂy, cells after osteogenic
+differentiation were ﬁxed with 4% cold paraformaldehyde
+for 30 s and then incubated in prepared AKP solution for
+45 min. The procedure of alizarin red staining was done
+following the manufacturer ’s protocol (Genmed Scien-
+tiﬁc). Brieﬂy, cells after osteogenic differentiation were
+ﬁxed with 4% cold paraformaldehyde for 10 min and then
+incubated in alizarin red solution for 10 min.
+To detect the expression of type II collagen (COL2), cells
+after chondrogenic differentiation were ﬁxed with 4% para-
+formaldehyde and blocked with 5% BSA in PBS, followed by
+incubation with an anti-mouse type II collagen antibody
+(1:100 in PBS; Neomarkers, Fremont, CA, USA) at 4 °C over-
+night. After three washes in PBS, type II collagen was de-
+tected using the mouse EnVision+ system (Dako, Denmark).
+For semi-quantitative analyses, three ﬁelds were ran-
+domly selected for observation in each sample under a mi-
+croscope in all above described procedures and repeated
+in three samples.
+2.9. Ectopic implantation and histological
+examination
+Twelve nude mice, 6–8 weeks old, purchased from the
+Shanghai Laboratory Animal Centre (Shanghai, China)
+Copyright © 2016 John Wiley & Sons, Ltd.
+were involved in this study, and the animal study proto-
+col was approved by the Animal Care and Experiment
+Committee of Shanghai Jiao Tong University School of
+Medicine. Brieﬂy, 10 million C3H10T1/2 cells transfected
+with pCAGGS–Tnmd and pCAGGS were mixed with
+mouse tail type I collagen gel (1.5 mg/ml; Shengyou,
+Hangzhou, China) to prepare cell–collagen constructs
+with length 1 cm and diameter 0.5 cm in a syringe. After
+anaesthesia with an intraperitoneal injection of chloral
+hydrate (10%, 100 μl/mouse), an incision was made in
+the sacral area on each side of the dorsum and a subcu-
+taneous pocket was created. A cell–collagen construct
+was implanted into the subcutaneous pockets on each
+side and the incision was sutured with Ethicon 5–0
+(Johnson & Johnson, New Brunswick, NJ, USA). At
+30 days post-implantation, the mice were euthanized
+and the implants were harvested for histological exami-
+nation. Formed tissue samples of each group were ﬁxed
+in 4% paraformaldehyde at 4 °C overnight. After dehy-
+dration in a gradient of ethanols and embedding in paraf-
+ﬁn, the tissue samples were sectioned at 5 μm and
+haematoxylin and eosin (H&E) staining was performed,
+as described previously (Wang et al., 2008), to examine
+the tissue structure, especially the collagen ﬁbre forma-
+tion and alignment.
+2.10. Statistical analysis
+All quantitative data were presented as mean ± standard
+deviation (SD). The differences among different groups
+were analysed using one-way ANOVA and a post hoc test
+for the statistical signiﬁcance between two groups. Stu-
+dent’s t-test was also used for statistical analysis of paired
+groups. SPSS 11.0 software was applied to the analysis;
+p < 0.05 was considered statistically signiﬁcant.
+3. Results
+3.1. Tnmd overexpression in TT-D6 cells and
+C3H10T1/2 cells
+To conﬁrm the successful overexpression of Tnmd, RT–
+PCR and immunoﬂuorescent staining were conducted.
+As shown in Figure 1, RT–PCR demonstrated that Tnmd
+was not expressed in TT-D6 cells and expressed at a very
+low level
+in C3H10T1/2 cells when transfected with
+empty vector pCAGGS, with the current RT–PCR protocol.
+After transfection with pCAGGS–Tnmd, a high level of
+Tnmd gene expression was observed in both cells
+(Figure 1, top). Similar results were also shown in immu-
+noﬂuorescent staining, which demonstrated that Tnmd
+protein was strongly expressed in both TT-D6 and
+C3H10T1/2 cells
+transfected with pCAGGS–Tnmd
+(Figure 1C, D, G, H) when compared to pCAGGS vector-
+transfected cells (Figure 1A, B, E, F).
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Y. Jiang et al.
+Figure 1. Conﬁrmation of Tnmd overexpression. (Top) RT–PCR examination of overexpressed Tnmd-transfected gene in (left) TT-D6
+and (right) C3H10T1/2 cells. (Bottom) Immunoﬂuorescent staining of Tnmd protein production in (A–D) TT-D6 and (E-H) C3H10T1/
+2 cells. pCAGGS, cell transfected with empty pCAGGS vector; pCAGGS–Tnmd, cell transfected with pCAGGS–Tnmd; TNMD, Tnmd
+staining (red); DAPI, nuclear counterstaining (blue); bar =100 μm
+3.2. Effect of Tnmd overexpression on cell
+morphology and proliferation of the cell lines
+3.3. Effect of Tnmd overexpression on tendon
+related maker expressions in the cell lines
+TT-D6 and C3H10T1/2 cells transfected with pCAGGS or
+pCAGGS–Tnmd were observed under reverse phase-
+contrast microscopy. No obvious differences in cell mor-
+phology could be observed between two groups of cells,
+all exhibiting a spindle shape and ﬁbroblast-like morphol-
+ogy in both TT-D6 and C3H10T1/2 cells (see supporting
+information, Figure S1).
+To evaluate the effect of Tnmd on the proliferation of
+TT-D6 and C3H10T1/2 cells, a MTT assay was per-
+formed. As shown in Figure 2A, the proliferation was
+obviously faster in Tnmd-overexpressed TT-D6 cells than
+in control TT-D6 cells, with a signiﬁcant difference be-
+tween days 2 and 6 (p < 0.01). Similarly, Tnmd-
+overexpressed C3H10T1/2 cells also proliferated faster
+than vector-transfected C3H10T1/2 cells, with a signiﬁ-
+cant difference between days 2 and 6 (p < 0.01)
+(Figure 2B).
+qPCR analysis was performed to examine the gene expres-
+sion of tendon-related markers. As shown in Figure 3, col-
+lagens I (COL1), III (COL3) and decorin (DCN) were all
+signiﬁcantly upregulated in their gene expression levels
+in both Tnmd-overexpressed TT-D6 and C3H10T1/2 cells
+when compared to vector-transfected cells. It was also
+found that collagen VI (COL6) and biglycan (BGN) were
+signiﬁcantly enhanced for their gene expression in the
+overexpressed TT-D6 cells but not in the overexpressed
+C3H10T1/2 cells. By contrast, the gene expression of
+Scleraxis (Scx), a transcript regulator of Tnmd, was signif-
+icantly upregulated in the overexpressed C3H10T1/2 cells
+but not in the overexpressed TT-D6 cells (Figure 3). Collec-
+tively, these results indicated that Tnmd overexpression
+could promote the expression of tendon-related extracel-
+lular components and promote the tenogenic differentia-
+tion of C3H10T1/2 cells.
+Figure 2. Tnmd overexpression enhanced cell proliferation of both (A) TT-D6 and (B) C3H10T1/2 cells, as revealed by MTT assay.
+pCAGGS, cell transfected with empty pCAGGS vector; pCAGGS–Tnmd, cell transfected with pCAGGS–Tnmd; **p < 0.01
+Copyright © 2016 John Wiley & Sons, Ltd.
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Tenomodulin overexpression and MSC tenogenic differentiation
+Figure 3. Tnmd overexpression enhanced the gene expressions of tendon-related molecules, as revealed by qPCR analysis: SCX,
+scleraxis; COL1, type I collagen; COL3, type III collagen; COL6, type VI collagen; BGN, biglycan; DCN, decorin; pCAGGS, cell
+transfected with empty pCAGGS vector; pCAGGS–Tnmd, cell transfected with pCAGGS–Tnmd; *p < 0.05, **p < 0.01
+3.4. Effect of Tnmd overexpression on
+multilineage differentiation of C3H10T1/2 cells
+To investigate the effect of Tnmd overexpression on the
+multilineage differentiation of C3H10T1/2 cells, the cells
+were subjected to adipogenic, chondrogenic and osteo-
+genic differentiation, following by qPCR analysis and his-
+tochemical staining.
+As shown in Figure 4A, before induction, adipogenic-
+related genes,
+such as adipocyte protein 2 (aP2),
+adiponectin and CCAAT enhancer binding protein-α
+(C/EBPα), were minimally expressed (pCAGGS), but
+they were downregulated signiﬁcantly (p < 0.01) by
+overexpressed Tnmd (pCAGGS–Tnmd). Moreover, the
+above genes increased dramatically in the control cells
+(p < 0.01) after adipogenic induction (pCAGGS in-
+duced), but
+the expressions were inhibited by the
+overexpressed Tnmd in the induced cells (pCAGGS–
+Tnmd-induced), which were signiﬁcantly (p < 0.01)
+lower than those of control cells. Oil red O staining
+(Figure 4D, a–d) also showed that the adipogenesis in
+the pCAGGS–Tnmd-induced group was lower than that
+in the pCAGGS-induced group. The above results indi-
+cated that Tnmd overexpression could inhibit
+the
+adipogenic differentiation of C3H10T1/2 cells.
+As shown in Figure 4B, before induction, the expression
+of chondrogenic-related genes, such as aggrecan, SRY-
+related high-mobility group box gene 9 (SOX9) and type
+II collagen (COL2), were minimally expressed in vector-
+transfected cells (pCAGGS), but their expressions were
+signiﬁcantly downregulated in Tnmd-overexpressed cells
+(pCAGGS–Tnmd), with
+a
+signiﬁcant
+difference
+(p < 0.01). After chondrogenic induction, the expressions
+of aggrecan, SOX9 and COL2 increased dramatically
+(p < 0.01) in vector-transfected cells (pCAGGS–Tnmd).
+Nevertheless, the upregulation of aggrecan and COL2,
+but not SOX9, gene expressions were signiﬁcantly
+inhibited by overexpressed Tnmd (p < 0.01) (pCAGGS–
+Tnmd-induced).
+Immunohistochemical
+staining
+also
+showed that collagen II protein production was only
+Figure 4. Tnmd overexpression inhibited the differentiation of C3H10T1/2 cells towards adipogenic, chondrogenic and osteogenic
+lineages, as revealed by (A–C) qPCR and (D) histochemical staining: aP2, adipocyte protein 2; C/EBPα, CCAAT enhancer binding pro-
+tein-α; COL2, type II collagen; SOX9, SRY-related high-mobility group box gene 9; Runx2, Runt-related transcription factor 2; AKP, al-
+kaline phosphatase; pCAGGS, cell transfected with empty pCAGGS vector; pCAGGS–Tnmd, cell transfected with pCAGGS–Tnmd;
+pCAGGS-induced, cell transfected with empty pCAGGS vector and subject to differentiation induction; pCAGGS–Tnmd-induced, cell
+transfected with pCAGGS–Tnmd and subject to differentiation induction; bar =100 μm; *p < 0.05, **p < 0.01
+Copyright © 2016 John Wiley & Sons, Ltd.
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+enhanced in induced control cells (pCAGGS-induced) but
+not in the other three groups (Figure 4D, e–h). Collec-
+tively, these results suggested that Tnmd overexpression
+could inhibit
+the
+chondrogenic differentiation of
+C3H10T1/2 cells.
+To further conﬁrm the effect of Tnmd on chondrogenic
+differentiation, a pellet culture model was also applied. As
+shown in Figure S2 (see supporting information),
+overexpressed Tnmd formed a tissue mass that had a rel-
+atively loose structure, with apparently less matrix pro-
+duction, when examined with both H&E and toluidine
+blue staining. Furthermore, qPCR revealed that the gene
+expression levels of COL2, Sox9 and Aggrecan were all sig-
+niﬁcantly downregulated in Tnmd-overexpressed cell pel-
+lets than in control cell pellets.
+As shown in Figure 4C, before induction, expressions
+of the osteogenic markers AKP, osteocalcin and Runt-
+related transcription factor 2 (Runx2) were minimally
+detectable and no signiﬁcant difference could be ob-
+served between the groups, with or without Tnmd
+overexpression (p > 0.05). After osteogenic induction,
+the gene expressions of all these markers were signiﬁ-
+cantly upregulated compared to pre-induction levels
+(p < 0.05). In Tnmd-overexpressed C3H10T1/2 cells
+with osteogenic induction (pCAGGS–Tnmd-induced),
+upregulation of AKP gene expression was signiﬁcantly
+inhibited compared to vector-transfected cells (p < 0.01)
+and no signiﬁcant difference was observed for other two
+osteogenic markers, Osteocalcin and RUNX2 (p > 0.05).
+Histochemical staining also conﬁrmed that AKP activity
+was signiﬁcantly inhibited in Tnmd-overexpressed cells af-
+ter osteogenic induction (Figure 4D, i–l). However, Tnmd
+overexpression seemed to have no effect on calcium nod-
+ule formation, as revealed by alizarin red staining (Fig-
+ure 4D, m–p).
+3.5. Effect of Tnmd overexpression on ectopic
+neotendon formation
+To further examine the role of Tnmd in neotendon forma-
+tion,
+Tnmd-overexpressed
+and
+vector-controlled
+C3H10T1/2 cells were respectively mixed with rat tail col-
+lagen gel and implanted in vivo. The histology of the tis-
+sues 30 days after implantation showed that implants
+seeded with Tnmd-overexpressed cells (pCAGGS–Tnmd)
+exhibited a porcelain-like white colour and a relatively
+bigger tissue block, whereas the implants with control
+cells (pCAGGS) showed a semi-transparent white tissue
+with a smaller tissue volume (Figure 5A). Histologically,
+H&E staining revealed that a wave-like dense collagen
+structure was formed, with the cells aligned in parallel
+with the direction of the collagen ﬁbres in the experimen-
+tal implants, similar to tendon tissue structure (Figure 5D,
+E). By contrast, in the control implants, no dense collagen
+ﬁbres were observed. Instead, a disorganized connective
+tissue structure with randomly distributed cells was ob-
+served (Figure 5B, C).
+Copyright © 2016 John Wiley & Sons, Ltd.
+Y. Jiang et al.
+Figure 5. Tnmd overexpression enhanced neotendon tissue for-
+mation in vivo. C3H10T1/2 cells were transfected with either
+pCAGGS–Tnmd (overexpression) or pCAGGS vector (control)
+and mixed with rat tail collagen I gel for in vivo implantation.
+(A) Gross view of harvested tissue 30 days after implantation;
+(B, C) H&E staining of control tissue with different magniﬁca-
+tions; (D, E) H&E staining of overexpression tissue with different
+magniﬁcations: pCAGGS, cell transfected with empty pCAGGS
+vector; pCAGGS–Tnmd, cell transfected with pCAGGS–Tnmd;
+bar =100 μm
+3.6. Effect of Tnmd overexpression on cell
+morphology and proliferation of mBMSCs
+BMSCs derived from the conditional Tnmd-overexpres-
+sing mice were cultured either with or without Dox
+(TNMD–OE+ Dox or TNMD–OE, respectively) and were
+observed under reverse phase-contrast microscopy. As
+shown in Figure S3 (see supporting information), no obvi-
+ous difference in cell morphology was observed between
+the two groups in passage one cells cultured for 1 and
+5 days. However, a CCK-8 assay showed that the prolife-
+ration was obviously faster in mBMSCs cultured with
+Dox (Figure 6A) than in cells without Dox in their culture.
+3.7. Effect of Tnmd overexpression on
+tendon-related marker expression in mBMSCs
+As shown in Figure 6B, Dox-mediated conditional overex-
+pression of Tnmd could signiﬁcantly upregulate the gene
+expression of most tendon-related markers,
+including
+SCX, COL1, COL3, BGN and DCN, but not COL6. Particu-
+larly, DCN expression was enhanced about four-fold rela-
+tive to the control.
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Tenomodulin overexpression and MSC tenogenic differentiation
+Figure 6. Tnmd overexpression enhanced proliferation and tenogenic marker gene expression of primary murine BMSCs. (A) Cell
+proliferation; (B) qPCR analysis of tendon-related gene expression: TNMD, tenomodulin; SCX, scleraxis; COL1, type I collagen;
+COL3, type III collagen; COL6, type VI collagen; BGN, biglycan; DCN, decorin; *p < 0.05, **p < 0.01, between primary BMSCs derived
+from conditional Tnmd-overexpressing transgenic mice cultured with Dox (TNMD–OE + Dox) or without Dox (TNMD–OE)
+3.8. Effect of Tnmd overexpression on the
+multilineage differentiation of mBMSCs
+BMSCs derived from the conditional Tnmd-overexpress-
+ing mice were cultured either with or without Dox and
+were subjected to adipogenic and osteogenic differentia-
+tion. As shown in Figure 7A, after adipogenic induction,
+the induced gene expression levels of aP2, peroxisome
+proliferator-activated receptor-γ (PPARγ) and adiponectin
+were inhibited signiﬁcantly in mBMSCs cultured with
+Dox (with Tnmd overexpression) when compared to those
+of mBMSCs without Dox (control). Meanwhile, oil red O
+staining (Figure 7C, a, b) also showed that adipogenic po-
+tency in mBMSCs cultured with Dox was weaker than that
+of the non-Dox group, with a signiﬁcant difference in the
+staining area (p < 0.01; see supporting information,
+Figure S4 A). These results further provided evidence that
+Tnmd overexpression could inhibit the adipogenic diffe-
+rentiation of MSCs.
+As shown in Figure 7B, after osteogenic induction there
+was no signiﬁcant difference in the gene expression level
+of AKP between two groups, in agreement with AKP stain-
+ing, which also showed no difference (Figure 7C, c, d),
+with no signiﬁcant difference in the staining area
+(p > 0.05; see supporting information, Figure S4 B). Un-
+like C3H10T1/2 cells, the gene expression levels of Runx2
+and osteocalcin decreased signiﬁcantly in the mBMSCs
+cultured with Dox group (Figure 7B), which also agreed
+with the ﬁnding that alizarin red staining was relatively
+weaker in the mBMSCs cultured with Dox group than in
+the mBMSCs without Dox group (Figure 7C, e, f), with a
+signiﬁcant difference in the staining area (p < 0.05; see
+supporting information, Figure S4C). Overall, osteogenic
+potential was inhibited in Tnmd-overexpressed mBMSCs.
+4. Discussion
+Adult stem cells are an important cell source for tissue en-
+gineering and regenerative medicine, and BMSCs have al-
+ready been employed for
+tendon engineering and
+Figure 7. Tnmd overexpression inhibited the differentiation of primary murine BMSCs towards adipogenic and osteogenic lineages,
+as revealed by (A, B) qPCR and (C) histochemical staining: aP2, adipocyte protein 2; PPARγ, peroxisome proliferator-activated recep-
+tor-γ; Runx2, Runt-related transcription factor 2; AKP, alkaline phosphatase; TNMD–OE + Dox-induced, primary murine BMSCs de-
+rived from the conditional Tnmd-overexpressing transgenic mice cultured with Dox and subjected to differentiation; TNMD–OE-
+induced, the same BMSCs cultured without Dox and subjected to differentiation; bar =100 μm; *p < 0.05, **p < 0.01
+Copyright © 2016 John Wiley & Sons, Ltd.
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+regeneration (Ouyang et al., 2003; Juncosa-Melvin et al.,
+2006; Hankemeier et al., 2009). From a developmental bi-
+ology point of view, MSC differentiation towards a speciﬁc
+lineage partially represents the developmental process of
+this speciﬁc tissue type, such as tendon tissue (Bruder
+et al., 1994). Therefore, mimicking tendon development
+might be a good strategy for inducing tenogenic differen-
+tiation of MSCs.
+Scx and Tnmd are two key molecules that are involved
+in the process of tendon development. Scx, a basic helix–
+loop–helix (bHLH) transcription factor, is expressed in
+tendon progenitor cells and plays a vital role in tendon de-
+velopment (Schweitzer et al., 2001; Brent et al., 2003).
+SCX-null mutant mice exhibited severe disruption of
+force-transmitting tendons during the differentiation and
+condensation of tendon progenitors and during the orga-
+nization of tendon matrix (Murchison et al., 2007). As a
+transcription factor, its major downstream functional mol-
+ecules for tendon development remain to be deﬁned, al-
+though Tnmd is one of them (Shukunami et al., 2006).
+The latter authors discovered that Tnmd expression was
+closely associated with the appearance of tenocytes dur-
+ing chick tendon development and was positively regu-
+lated by SCX, and that retroviral overexpression of Scx
+resulted in signiﬁcantly upregulated gene expression of
+Tnmd in cultured tenocytes (Shukunami et al., 2006).
+Recent research demonstrated that SCX delivery via lenti-
+virus led to direct reprogramming of human MSCs into
+tendon progenitors and a remarkable upregulation of
+Tnmd expression (Alberton et al., 2012). Although Tnmd
+was suggested to be a tenogenic biomarker, its functional
+role in tendon development and formation remains to be
+explored.
+Studies have shown that Tnmd has an anti-angiogenic
+role, as its overexpression in HUVECs inhibited tube for-
+mation in an in vitro assay (Oshima et al., 2004), whereas
+tendon is also considered to be an avascular tissue. Addi-
+tionally, Tnmd-deﬁcient mice exhibited severely reduced
+tenocyte density and signiﬁcantly varied collagen ﬁbril di-
+ameters, indicating that Tnmd is a regulator of tenocyte
+proliferation and collagen ﬁbril maturation (Docheva
+et al., 2005). Tnmd, which is predominantly expressed
+in tendons and ligaments, is a member of a new family
+of type II transmembrane glycoproteins, whereas the
+other family member, chondromodulin I (ChM-I),
+is
+highly expressed in cartilage and also has the anti-
+angiogenic function (Shukunami et al., 2001; Oshima
+et al., 2004). It is likely that these two molecules may par-
+tially compensate for each other ’s function, and thus ten-
+don remains able to develop in Tnmd knockout mice. A
+similar example is mutual functional compensation be-
+tween decorin and biglycan; both are members of the
+small leucine-rich proteoglycans family (SLRP) and can
+compensate each other in knockout mice (Yoon and
+Halper, 2005).
+In this study, the overexpression method was applied to
+investigate the functions of Tnmd, especially its role in the
+tenogenic differentiation of adult stem cells. Two cell lines
+were employed in this study: one was TT-D6, the murine
+Copyright © 2016 John Wiley & Sons, Ltd.
+Y. Jiang et al.
+tendon-derived progenitor cell
+line;
+the other was
+C3H10T1/2, the murine MSC cell line. Interestingly, the
+expression levels of tendon-related markers were signiﬁ-
+cantly enhanced in Tnmd-overexpressed cell lines, includ-
+ing collagens I, III and VI, biglycan and decorin and, most
+importantly, scleraxis. Although there were some differ-
+ences in the marker expression between two types of cell
+line (possibly due to different developmental stages),
+decorin, an important tendon matrix molecule, was up-
+regulated signiﬁcantly in both TT-D6 and C3H10T1/2
+cells (Figure 3). Decorin (DCN), as a member of the SLRP
+family and also the most abundant tendon proteoglycan,
+plays a key role in regulating matrix assembly because it
+binds to almost all types of collagen (Yoon and Halper,
+2005). Decorin-deﬁcient mice demonstrated coarse and
+irregular collagen ﬁbril structure and reduced mechanical
+properties in mature skin and tail tendons (Danielson
+et al., 1997; Zhang et al., 2006). Biglycan (BGN) is also a
+member of the SLRP family and binds to ﬁbrillar colla-
+gens. BGN-null mice also developed abnormal collagen ﬁ-
+brils with smaller diameter and weaker tendons, which
+exhibited reduced stiffness (Ameye et al., 2002). Zhang
+et al. (2006) discovered that biglycan had a comparable
+spatial localization with decorin and that biglycan expres-
+sion increased substantially in DCN-null tendons, suggest-
+ing a potential functional compensation between the two.
+Differential expressions of SCX and COL6 were ob-
+served in two cell
+lines. SCX was upregulated in
+C3H10T1/2 cells, whereas COL6 increased in TT-D6 cells.
+This was because TT-D6 represents a more mature
+tenocyte-like cell, which usually has a high level of endog-
+enous SCX expression (Salingcarnboriboon et al., 2003).
+COL6, often expressed in mature tendon, is a non-ﬁbrillar
+collagen and regulates collagen ﬁbrillogenesis via interac-
+tion with other extracellular matrix molecules, such as
+COL1, BGN and DCN. COL6-knockout mice displayed a
+disruption in ﬁbre assembly and ﬁbril formation associ-
+ated with decreased mechanical strength of tendon tissue
+(Izu et al., 2011). Comparatively, C3H10T1/2 cells as a
+MSC cell line began to differentiate into cells with a
+tenogenic phenotype or immature tenocyte-like cells after
+Tnmd transfection, but they certainly were not mature
+tenocytes. Therefore,
+it is reasonable that collagen VI
+was
+not
+signiﬁcantly
+upregulated
+in
+transfected
+C3H10T1/2 cells. SCX is often considered as a marker
+for MSC tenogenic differentiation. The upregulated SCX
+expression induced by Tnmd overexpression is consistent
+with the prediction of
+tenogenic differentiation of
+C3H10T1/2 cells.
+The above results demonstrated that Tnmd overexpres-
+sion could promote MSC tenogenic differentiation by en-
+hanced expression of
+tenocyte markers.
+Interestingly,
+overexpressed Tnmd also inhibited other lineage differen-
+tiations of C3H10T1/2 cells,
+including adipogenic,
+chondrogenic and osteogenic lineages, as shown in
+Figure 4. The Finnish Diabetes Prevention Study Group re-
+ported that expression of Tnmd was strongly correlated
+with body mass index (BMI) and was downregulated with
+weight reduction (Tolppanen et al., 2007, 2010). Saiki
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Tenomodulin overexpression and MSC tenogenic differentiation
+et al. (2009) also discovered that Tnmd expression was
+signiﬁcantly higher in obese than in lean individuals, and
+was downregulated during diet-induced weight loss. Con-
+sidering that Tnmd is an anti-angiogenic factor (Oshima
+et al., 2004) and it is upregulated by myostatin, an anti-
+adipogenic factor (Mendias et al., 2008), the increased
+Tnmd in obesity may become a protective mechanism that
+restrains the growth of new blood vessels during adipose
+tissue expansion, as adipose tissue mass can be regulated
+through the vasculature (Rupnick et al., 2002). It may also
+inhibit adipogenesis, as shown in this study.
+In addition to the experiments performed with cell
+lines, we also further conﬁrmed the ﬁnding with primary
+mBMSCs derived from conditional Tnmd-overexpressing
+mice. As shown in Figure 6B, Tnmd expression was upreg-
+ulated > two-fold after Dox treatment; this led to signiﬁ-
+cantly enhanced gene expressions of SCX, COL1, COL3,
+BGN and DCN. Similar to the cell lines, overexpressed
+Tnmd could also signiﬁcantly inhibit adipogenic and oste-
+ogenic differentiations of primary mBMSCs (Figure 7).
+We also conﬁrmed that Tnmd overexpression promoted
+cell proliferation in all three different cell types, TT-D6
+and C3H10T1/2 cells (Figure 2) and primary mBMSCs
+of conditional Tnmd-overexpressing mice (Figure 6A),
+which was also consistent with the ﬁnding of reduced
+tenocyte density in Tnmd-knockout tendons (Docheva
+et al., 2005). The mechanism of Tnmd-mediated cell pro-
+liferation remains unknown. In the future, a further de-
+ﬁned signalling role of
+this molecule may help
+understanding.
+Hoffmann et al. (2006) reported that activation of
+Smad8 in C3H10T1/2 cells promoted tenogenic differen-
+tiation and regeneration in an ectopic tendon formation
+and Achilles tendon defect model. We also employed an
+in vivo ectopic model to investigate the role of Tnmd
+overexpression in neotendon formation in nude mice. As
+shown in Figure 5, Tnmd-overexpressed C3H10T1/2 cells
+were able to form neotendon-like tissue with a relatively
+well developed collagen ﬁbre structure 30 days after
+implantation, along with collagen gel matrix (Figure 5D,
+E), which was similar to the tissue structure of a previous
+report in which a neotendon-like tissue was formed
+ectopically by C3H10T1/2 cells that were genetically
+modiﬁed with GDF-8 and BMP-2 (Hoffmann et al.,
+2006). We also tried the same experiment with primary
+mBMSCs but failed, and this was likely due to the lack
+of an effective method to deliver Dox to mBMSCs
+in vivo.
+References
+In summary, by applying two cell lines and primary
+mBMSCs derived from conditional Tnmd-overexpressing
+mice, and in vitro and in vivo models, this study demon-
+strated that Tnmd could promote tenogenic differentia-
+tion of MSCs, and thus conﬁrmed that Tnmd is not
+only an important biomarker for tenocytes, but may also
+play an important role in tendon formation by enhancing
+MSC tenogenic differentiation, which to our best knowl-
+edge has not been reported previously. This ﬁnding
+may have practical importance for tendon regeneration
+and the translation of tendon engineering in the future.
+More importantly, the underlying mechanism of
+this
+ﬁnding needs further investigation. Tnmd is a transmem-
+brane protein and its ligands remain largely unknown,
+except for vascular endothelial growth factor (VEGF).
+Whether the intracellular segment of Tnmd has the func-
+tion of signal transduction is also unknown. The regula-
+tion of Tnmd by upstream genes, such as SCX and
+GDF8, has been well
+investigated (Shukunami et al.,
+2006; Mendias et al., 2008; Alberton et al., 2012). How-
+ever, how these upstream molecules regulate the gene
+expression of downstream molecules such as collagens
+and proteoglycans via tenomodulin remains to be ex-
+plored in future studies.
+5. Conclusions
+Tenomodulin is a well-known biomarker for mature
+tenocytes, but its functions remain unknown. This study
+demonstrated that Tnmd overexpression could promote
+tenogenic differentiation of MSCs and facilitate MSC-
+mediated neotendon-like tissue formation in vivo. The in-
+formation gained from this study will further enrich our
+knowledge in tendon development and promote tendon
+engineering and regeneration.
+Acknowledgements
+This study was supported by the National 863 (Grant No.
+2012AA020507) and 973 (Grant No. 2005CB522703) Project
+Foundations and the National Natural Science Foundation
+(Grant No 31470943 and 81401530). The authors thank Dr
+Jun-ichi Miyazaki (Kumamoto University, Japan) for kindly pro-
+viding the pCAGGS vector. We also thank Dr Yuji Hiraki and Dr
+Chisa Shukunami (Kyoto University, Japan) for kindly providing
+the pCAGGS–Tnmd plasmid and polyclonal Tnmd antibody.
+Alberton P, Popov C, Pragert M, et al. 2012;
+Conversion of human bone marrow-
+derived mesenchymal stem cells into ten-
+don progenitor cells by ectopic expression
+of scleraxis. Stem Cells Dev 21: 846–858.
+Ameye L, Aria D, Jepsen K, et al. 2002;
+Abnormal collagen ﬁbrils in tendons of
+biglycan/ﬁbromodulin-deﬁcient
+mice
+lead to gait impairment, ectopic ossiﬁca-
+tion, and osteoarthritis. FASEB J 16:
+673–680.
+Brandau O, Meindl A, Fassler R, et al. 2001;
+A novel gene, tendin, is strongly expressed
+in tendons and ligaments and shows high
+homology with chondromodulin-I. Dev
+Dyn 221: 72–80.
+Brent AE, Schweitzer R, Tabin CJ. 2003; A
+somitic compartment of tendon progeni-
+tors. Cell 113: 235–248.
+Bruder SP, Fink DJ, Caplan AI. 1994;
+Mesenchymal stem cells in bone deve-
+lopment, bone repair, and skeletal rege-
+neration therapy. J Cell Biochem 56:
+283–294.
+Copyright © 2016 John Wiley & Sons, Ltd.
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term
+Cao Y, Liu Y, Liu W, et al. 2002; Bridging ten-
+don defects using autologous tenocyte
+engineered tendon in a hen model. Plast
+Reconstr Surg 110: 1280–1289.
+Chen FG, Zhang WJ, Bi D, et al. 2007; Clonal
+ 
+analysis of nestin
+vimentin+ multipotent
+ﬁbroblasts isolated from human dermis. J
+Cell Sci 120: 2875–2883.
+Danielson KG, Baribault H, Holmes DF, et al.
+1997; Targeted disruption of decorin leads
+to abnormal collagen ﬁbril morphology
+and skin fragility. J Cell Biol 136: 729–743.
+Deng D, Liu W, Xu F, et al. 2009; Engineering
+human neo-tendon tissue in vitro with hu-
+man dermal ﬁbroblasts under static me-
+chanical
+strain.
+Biomaterials
+30:
+6724–6730.
+Docheva D, Hunziker EB, Fassler R, et al.
+2005; Tenomodulin is necessary
+for
+tenocyte proliferation and tendon matura-
+tion. Mol Cell Biol 25: 699–705.
+Haddad-Weber M, Prager P, Kunz M, et al.
+2010; BMP12 and BMP13 gene transfer in-
+duce ligamentogenic differentiation in
+mesenchymal progenitor and anterior cru-
+ciate ligament
+cells. Cytotherapy 12:
+505–513.
+Hankemeier S, Hurschler C, Zeichen J, et al.
+2009; Bone marrow stromal cells in a liq-
+uid ﬁbrin matrix improve the healing pro-
+cess of patellar tendon window defects.
+Tissue Eng A 15: 1019–1030.
+Hoffmann A, Pelled G, Turgeman G, et al.
+2006; Neotendon formation induced by
+manipulation of
+the Smad8 signalling
+pathway in mesenchymal stem cells. J Clin
+Invest 116: 940–952.
+Izu Y, Ansorge HL, Zhang G, et al. 2011; Dys-
+functional tendon collagen ﬁbrillogenesis
+in collagen VI-null mice. Matrix Biol 30:
+53–61.
+Jelinsky SA, Archambault J, Li L, et al. 2010;
+Tendon-selective genes identiﬁed from rat
+and human musculoskeletal
+tissues. J
+Orthop Res 28: 289–297.
+Juncosa-Melvin N, Boivin GP, Gooch C, et al.
+2006; The effect of autologous mesenchy-
+mal stem cells on the biomechanics and
+histology of gel–collagen sponge con-
+structs used for rabbit patellar tendon re-
+pair. Tissue Eng 12: 369–379.
+Kuo CK, Tuan RS. 2008; Mechanoactive
+tenogenic differentiation of human mesen-
+chymal
+stem cells, Tissue Eng A 14:
+1615–1627.
+Lamoury FM, Croitoru-Lamoury J, Brew J.
+2006; Undifferentiated mouse mesenchy-
+mal stem cells spontaneously express neu-
+ral and stem cell markers Oct-4 and Rex-1.
+Cytotherapy 8: 228–242.
+Liu C, Xie W, Gui C, et al. 2013; Pronuclear
+microinjection and oviduct transfer proce-
+dures for transgenic mouse production.
+Methods Mol Biol 1027: 217–232.
+Liu W, Chen B, Deng D, et al. 2006; Repair of
+tendon defect with dermal ﬁbroblast
+engineered tendon in a porcine model. Tis-
+sue Eng 12: 775–788.
+Mendias CL, Bakhurin KI, Faulkner JA. 2008;
+Tendons of myostatin-deﬁcient mice are
+small, brittle, and hypocellular. Proc Natl
+Acad Sci USA 105: 388–393.
+Murchison ND, Price BA, Conner DA, et al.
+2007; Regulation of tendon differentiation
+by
+scleraxis
+distinguishes
+force-
+transmitting
+tendons
+from muscle-
+anchoring tendons. Development 134:
+2697–2708.
+Oshima Y, Sato K, Tashiro F, et al. 2004; Anti-
+angiogenic action of the C-terminal do-
+main of tenomodulin that shares homol-
+ogy with chondromodulin-I. J Cell Sci
+117: 2731–2744.
+Ouyang HW, Goh JC, Thambyah A, et al.
+2003; Knitted poly-lactide-co-glycolide
+scaffold loaded with bone marrow stromal
+cells in repair and regeneration of rabbit
+Achilles tendon. Tissue Eng 9: 431–439.
+Pittenger MF, Mackay AM, Beck SC, et al.
+1999; Multilineage potential of adult hu-
+man mesenchymal
+stem cells. Science
+284: 143–147.
+Rupnick MA, Panigrahy D, Zhang CY, et al.
+2002; Adipose tissue mass can be regu-
+lated through the vasculature. Proc Natl
+Acad Sci USA 99: 10730–10735.
+Sahoo S, Toh SL, Goh JC. 2010; A bFGF-
+releasing silk/PLGA-based biohybrid scaf-
+fold for ligament/tendon tissue engineer-
+ing using mesenchymal progenitor cells.
+Biomaterials 31: 2990–2998.
+Saiki A, Olsson M, Jernas M, et al. 2009;
+Tenomodulin is highly expressed in adi-
+pose tissue,
+increased in obesity, and
+down-regulated
+during
+diet-induced
+weight loss. J Clin Endocrinol Metab 94:
+3987–3994.
+Salingcarnboriboon R, Yoshitake H, Tsuji K,
+et al. 2003; Establishment of
+tendon-
+derived cell
+lines exhibiting pluripotent
+mesenchymal stem cell-like property. Exp
+Cell Res 287: 289–300.
+Schweitzer R, Chyung JH, Murtaugh LC,
+et al. 2001; Analysis of the tendon cell fate
+Y. Jiang et al.
+using Scleraxis, a speciﬁc marker for ten-
+dons and ligaments. Development 128:
+3855–3866.
+Shukunami C, Oshima Y, Hiraki Y. 2001; Mo-
+lecular cloning of tenomodulin, a novel
+chondromodulin-I related gene. Biochem
+Biophys Res Commun 280: 1323–1327.
+Shukunami C, Takimoto A, Oro M, et al.
+2006; Scleraxis positively regulates the ex-
+pression of tenomodulin, a differentiation
+marker of
+tenocytes. Dev Biol 298:
+234–247.
+Tolppanen AM, Kolehmainen M, Pulkkinen L,
+et al. 2010; Tenomodulin gene and obesity-
+related
+phenotypes.
+Ann Med
+42:
+265–275.
+Tolppanen AM, Pulkkinen L, Kolehmainen M,
+et al. 2007; Tenomodulin is associated
+with obesity and diabetes risk: the Finnish
+diabetes prevention study. Obesity (Silver
+Spring) 15: 1082–1088.
+Wang B, Liu W, Zhang Y, et al. 2008; Engi-
+neering of extensor tendon complex by
+an ex vivo approach. Biomaterials 29:
+2954–2961.
+Yamana K, Wada H, Takahashi Y, et al. 2001;
+Molecular cloning and characterization of
+ChM1L, a novel membrane molecule simi-
+lar to chondromodulin-I. Biochem Biophys
+Res Commun 280: 1101–1106.
+Yoon JH, Halper J. 2005; Tendon proteogly-
+cans:
+biochemistry
+and
+function.
+J
+Musculoskelet Neuronal Interact 5: 22–34.
+Yoshimura
+T,
+Toyoda
+S,
+Kuramochi-
+Miyagawa S, et al. 2009; Gtsf1/Cue110, a
+gene encoding a protein with two copies
+of a CHHC Zn-ﬁnger motif, is involved in
+spermatogenesis and retrotransposon sup-
+pression in murine testes. Dev Biol 335:
+216–227.
+Zhang G, Ezura Y, Chervoneva I, et al. 2006;
+Decorin regulates assembly of collagen ﬁ-
+brils and acquisition of biomechanical
+properties during tendon development. J
+Cell Biochem 98: 1436–1449.
+Zhu J, Li J, Wang B, et al. 2010; The regula-
+tion of phenotype of cultured tenocytes
+by microgrooved surface structure. Bioma-
+terials 31: 6952–6958.
+Zhu Y, Zhang Y, Liu Y, et al. 2015; The inﬂu-
+ence of Chm-I knockout on ectopic carti-
+lage
+regeneration
+and
+homeostasis
+maintenance. Tissue Eng A 21: 782–792.
+Supporting information on the internet
+Additional supporting information may be found in the
+online version of this article at the publisher ’s web-site.
+Figure S1. Cell morphology comparison among the
+cells of non-transfected (normal) cells transfected with
+empty vector (pCAGGS) and Tnmd (pCAGGS–TNMD)
+for both TTD6 cells and C3H10T1/2 cells
+Figure S2. Tnmd overexpression inhibited the
+chondrogenic differentiation of C3H10T1/2 cells in pellet
+culture
+Figure S3. Cell morphology comparison in primary
+murine BMSCs derived from conditional Tnmd-overex-
+pressing mice between induced (TNMD–OE + Dox) and
+non-induced (TNMD–OE) cells at days 1 and 5 of culture
+Figure S4. Semi-quantitative analysis of staining area
+for oil red O, alkaline phosphatase (AKP) and alizarin
+red staining of primary murine BMSCs derived from con-
+ditional Tnmd transgenic mice cultured with Dox
+(TNMD–OE + Dox) or without Dox (TNMD–OE) after in-
+duced adipogenic and osteogenic differentiations
+Copyright © 2016 John Wiley & Sons, Ltd.
+J Tissue Eng Regen Med 2016.
+DOI: 10.1002/term

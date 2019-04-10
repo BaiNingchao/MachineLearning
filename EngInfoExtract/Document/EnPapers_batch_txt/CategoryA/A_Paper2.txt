@@ -1,0 +1,624 @@
+Biomaterials 31 (2010) 6952e6958
+Contents lists available at ScienceDirect
+Biomaterials
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / b i o m a t e r i a l s
+The regulation of phenotype of cultured tenocytes by microgrooved
+surface structure
+Ji Zhu a,1, Jie Li a,1, Bin Wang a, Wen Jie Zhang a, b, Guangdong Zhou a, b, Yilin Cao a, b, Wei Liu a, b, *
+a Department of Plastic and Reconstructive Surgery, Shanghai 9th People’s Hospital, Shanghai Tissue Engineering Key Laboratory, Shanghai Jiao Tong University School of Medicine,
+639 Zhi Zao Ju Rd, Shanghai, 200011, China
+b National Tissue Engineering Center of China, Shanghai, China
+a r t i c l e i n f o
+a b s t r a c t
+Article history:
+Received 4 May 2010
+Accepted 23 May 2010
+Available online 19 June 2010
+Keywords:
+Tenocytes
+Elongated morphology
+RhoA/ROCK
+Tenomodulin
+Y27632
+LPA
+To maintain or enhance cell function by controlling its shape is an important consideration in scaffold
+design. Tenocyte is characterized by its unique elongated cell shape and the role remains unexplored. In
+this study, primary porcine tenocytes of newborn pigs were cultured respectively on culture dish (Group
+A), smooth (Group B) or microgroove silicone membrane (Group C, enforcing an elongated morphology)
+to observe the effect of cell shape on tenocyte phenotype. The results showed that elongated morphology
+(Group C) could help in vitro passaged tenocytes to retain their phenotype and function by maintaining
+the expression of tenomodulin (tenocyte marker) and collagen I (functional molecule). By contrast, the
+spread tenocytes (Groups A and B) lost or signiﬁcantly reduced the expression of tenomodulin or
+collagen I respectively. Interestingly, the lost tenomodulin expression of Group B cells could be regained
+after being switched to microgroove culture condition of Group C. In addition, signiﬁcantly increased
+RhoA-ATP level and reduced ROCK activity were found associated with elongated morphology and
+artiﬁcially activating RhoA or inhibiting ROCK could lead to increased tenomodulin expression in spread
+cells. Collectively, these results conﬁrm that elongated morphology is essential for tenocytes to keep
+their phenotype and function and can redifferentiate the dedifferentiated tenocytes by the participation
+of RhoA/ROCK signaling, and these ﬁndings may provide insight into the design of advanced scaffold for
+tendon engineering.
+Ó 2010 Elsevier Ltd. All rights reserved.
+1. Introduction
+As the key component of
+tissue engineering, scaffold is
+conventionally thought to simply provide an environment allowing
+cells to grow, produce extracellular matrices and form tissue, in
+which scaffold does not play a decisive role unless chemical
+molecules are integrated into the scaffold to guide biological
+behavior of seeded cells. However, recent studies demonstrated
+that physical characters of a material such as matrix elasticity can
+actually signiﬁcantly affect the biological behavior of seeded cells
+[1]. It was also observed that geometric cue mediated cell control is
+able to direct mesenchymal stem cell (MSC) differentiation [2].
+The interrelationship between cell shape and its function is one
+of the important subjects of cell biology study [3]. In musculoskel-
+etal and connective tissues, there are different types of cells which
+exhibit different cell morphologies and serve different functions. For
+example, osteoblasts and chondrocytes have cuboidal cell shape,
+* Corresponding author.
+E-mail address: liuwei_2000@yahoo.com (W. Liu).
+1 These authors contributed equally.
+0142-9612/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.biomaterials.2010.05.058
+while fat cells have a round cell shape. Importantly, the special cell
+shapes allow cells to perform special functions. It has been observed
+that adipogenic differentiation of MSC required spread morphology,
+whereas narrow cell shape is needed for MSC osteogenic differen-
+tiation [2]. Furthermore, cell function change also comes with cell
+morphology change. For example, bone marrow stromal cells with
+ﬁbroblast-like shapes began to exhibit polygon shape after chon-
+drogenic induction [4]. Also, endothelial progenitor cells with
+spindle morphology can be switched to cobblestone cell shape after
+endothelial differentiation [5].
+In vivo niche might be an important factor that determines
+special cell morphology inside a speciﬁc tissue type. As an example,
+tendon is one type of special connective tissue that carries out the
+function of transmitting mechanical force form muscle to bone. To
+meet this functional requirement, collagen ﬁbers are aligned
+longitudinally along with the axis of mechanical forces, and thus
+the tenocytes constrained within the narrow space between the
+ﬁbers exhibit elongated morphology [6]. However,
+it remains
+unclear whether the elongated cell morphology is essential for
+tenocyte function and phenotype maintenance when tenocytes are
+deprived of their in vivo niche.
+J. Zhu et al. / Biomaterials 31 (2010) 6952e6958
+6953
+Tenocytes or tendon ﬁbroblasts are one type of ﬁbroblasts,
+a common term for describing mesenchymal cells that mainly
+perform tissue supporting function in different musculoskeletal
+and connective tissues. It has been difﬁcult for a long time to
+characterize this cell type because of no speciﬁc marker available.
+Fortunately, recent researches demonstrated that tenomodulin
+(Tnmd), a member of a new family of type II transmembrane
+glycoproteins, is predominantly expressed in dense connective
+tissue like tendon and ligament, and can serve as a differentiation
+marker for mature tenocytes [7,8]. In addition, deletion of teno-
+modulin gene could to a certain extent affect tendon development
+[9]. Thus, these results make a speciﬁc tenocyte marker molecule
+available, which can serve as a tool to investigate the interrela-
+tionship between the elongated cell morphology of tenocytes and
+their phenotype and function. Additionally, RhoA/ROCK signaling
+pathway has been shown a major signaling pathway for cell shape
+mediated regulation of cell function [10e12].
+Based on these phenomena, we would like to hypothesize that
+tenocyte phenotype and function can be better maintained during
+in vitro cultured by mimicking their original in vivo morphology, i.e.
+an elongated form; and RhoA/ROCK (Rho-associated kinase)
+pathway is likely to play a role in regulating this process. In this
+study, dedifferentiation with phenotype and functional loss were
+observed in cultured and spread tenocytes with a worsening trend
+along with prolonged culture time. By contrast, forcing tenocytes in
+an elongated form can prevent phenotype and functional loss of
+cultured tenocytes or even restored the lost phenotype by
+switching spread to elongated morphology, and reduced ROCK
+activity plays an important role.
+2. Materials and methods
+2.1. Cell culture
+Newborn pigs were purchased from Shanghai Agricultural Institute. An Insti-
+tutional Review Committee of Shanghai Jiao Tong University School of Medicine
+approved all animal study protocols. Porcine primary tenocytes were isolated from
+toe ﬂexor tendons. Brieﬂy, ﬂexor tendons were harvested from newborn pigs and
+adjacent tissues were stripped. After thorough wash in phosphate-buffered saline
+(PBS) and soaking in 2.5% chloramphenicol solution for 10 min, the tendons were
+washed again in PBS and then were minced aseptically followed by enzyme diges-
+tion with 0.2% collagenase II (Worthington, Freehold, NJ) in Dulbecco’s Modiﬁed
+Eagle Medium (DMEM) at 37  C on a rotator as previously described [13,14]. The
+resulting cell suspension harvested at 4 h post-digestion was ﬁltered through
+a sterile nylon mesh (Tetko, Elmsford, N.J.) to remove tissue residues. The ﬁltrate was
+further centrifuged and cell pellets were washed with PBS and then resuspended in
+DMEM culture medium containing 10% fetal bovine serum (FBS), L-glutamine
+(292 mg/ml), penicillin (100 U/ml), streptomycin (100 mg/ml), and ascorbic acid
+(50 mg/ml). The cell suspension was transferred to a culture dish (5  105/cm2) and
+cultured at 37  C in a humidiﬁed 5% CO2 atmosphere. When cultured cells reached
+80% conﬂuence,
+they were detached with 0.25% trypsin and 0.05% ethyl-
+enediaminetetraacetic acid and subcultured at the same density (5  105/cm2) until
+second passages.
+University of Pittsburgh [15], was employed for the study. As reported [15], the
+membrane surfaces were micro-fabricated to create parallel microgrooves with
+10 mm ridge and groove width and 3 mm groove depth. Meanwhile, smooth silicone
+membranes were used as a control and both types of membranes were coated with
+10 ng/ml ﬁbronectin (Roche, Indianapolis, IN) to promote cell attachment.
+2.3. Experimental design
+To determine the effect of cell shape on tenomodulin and collagen I expression
+and its potential mechanism, regularly cultured tenocytes of the second passages
+were further divided into four different groups for culturing under different
+conditions. Group A: on regular 100-mm culture dishes for another 4 or 5 passages;
+Group B: on smooth silicone membrane for another 4 or 5 passages; Group C: on
+microgroove silicone membrane for another 4 or 5 passages; Group D: on smooth
+silicone membrane for 3 passages and then part of cells were transferred to
+microgroove membrane for another 2 passages and part of cells were cultured
+continuously for another 2 passages on the smooth membrane. All cells were
+examined for their cell shapes and structures 48 h after cell attachment with H&E
+staining and F-actin staining. After 4 or 5 passages of cell culture, all cells grown on
+different substrata were collected for RT-PCR and quantitative PCR analyses of
+various gene expression, and assessment of RhoA activation and ROCK activity.
+2.4. RT-PCR analysis
+The designed primers for PCR analysis were listed in Table 1. The cDNA was
+ampliﬁed by RT-PCR (Taq-polymerase, TaKaRa, Japan). PCR was performed with
+incubation at 95  C for 5 min followed by 29 cycles (30 s at 95  C, 30 s at annealing
+temperatures listed in Table 1 and 45 s at 72  C) and terminated by 10 min extension
+at 72  C and stored at 4  C until analysis. PCR products were separated using a 1.5%
+agarose gel in TAE buffer containing ethidium bromide and subsequently photo-
+graphed under UV light. b-actin or GAPDH gene was used as an internal control.
+Experiment was repeated in three tissue samples.
+2.5. Quantitative PCR analysis
+For quantitative PCR, cDNA was ampliﬁed using a Power SYBR Green PCR master
+mix (2) (Applied Biosystems, Foster City, CA) in a real-time thermal cycler (Stra-
+tagene Mx3000PTM QPCR System, La Jolla, CA). Quantitative PCRs (qPCRs) were
+conducted in triplicate for each sample. Gene expression was normalized to GAPDH
+ ΔΔC(t) method [16]. Experiment was repeated in three
+expression by using the 2
+tissue samples.
+2.6. H&E staining
+Porcine tenocytes were cultured on coverslips, smooth silicone membrane,
+microgroove silicone membrane for 48 h. The cells were ﬁxed with 4% para-
+formaldehyde in PBS for 15 min and stained with H&E.
+2.7. F-actin staining
+To observe the effect of cell shape or drug treatment on actin organization, 48 h
+after incubation on three different stratum, or 24 h after treatment with lysophos-
+phatidic acid (LPA) or Y27632, cells were ﬁxed with 4% paraformaldehyde in phos-
+phate buffer for 10 min, and permeabilized with 0.5% Triton X-100 in phosphate
+buffer for 5 min. The cells were then incubated in rhodamine phalloidin (100 nM,
+cytoskeleton, Denver, CO) for 30 min, and nuclei were counterstained with 40 6-
+diamidino-2-phenylindole (DAPI) (100 nM, Sigma, St. Louis, MO) for 30 s.
+2.8. RhoA activation assay and ROCK activity
+2.2. Microgroove membrane as a cell culture substrate
+To enforce an elongated morphology of cultured tenocytes, previously reported
+microgroove silicone membrane, a gift kindly provided by Dr. James Wang from
+Levels of GTP-bound RhoA were determined in tenocytes cultured under three
+different conditions for 4 passages with the G-LISAÔ activation kit (Cytoskeleton,
+Denver, CO) according to the manufacturer’s instructions as previously reported
+[17,18]. The signal was read by measuring absorbance at 490 nm using a microplate
+Table 1
+Primers used in RT-PCR and quantitative PCR analysis.
+Primer sequence (50 e30 )
+Gene
+Tenomodulin
+Collagen I
+b-actin
+GAPDH
+Sense: CCAGAGGAAGAAATAGATGAGAATG
+Antisense: CACTGGTAGGAAAGTGAAGATCTTC
+Sense: GATCCTGCTGACGTGGCCAT
+Antisense: ACTCGTGCAGCCGTCGTAGA
+Sense: CCAAGGCCAACCGTGAGAAGATGAC
+Antisense: AGGGTACATGGTGGTCCCGCCAGAC
+Sense: GGTCACCAGGGCTGCTTT
+Antisense: CTTGACTGTGCCGTGGAAT
+Annealing temperature
+( C)
+58
+55
+58
+58
+Product size
+(bp)
+228
+222
+592
+133
+6954
+J. Zhu et al. / Biomaterials 31 (2010) 6952e6958
+reader (Beckman Coulter, Fullerton, CA). Accordingly, to measure ROCK activity of
+porcine tenocytes cultured under the three different conditions for 4 passages, the
+Rho-kinase Assay Kit (MBL International, Woburn, MA) was used according to the
+manufacturer’s instructions as previously reported [19,20]. Tetramethylbenzidine
+was used as a substrate, and the signal was read by measuring absorbance at
+450 nm. Experiment was repeated in three tissue samples.
+2.9. The effect of ROCK inhibition or RhoA activation on tenomodulin expression
+For ROCK inhibition assay, cells were ﬁrst grown on regular dishes, serum-
+starved for 24 h, then treated with ROCK inhibitor Y27632 (10 mm, sigma) [21] in
+serum-free condition for different times, or treated with different doses of Y27632
+for 24 h followed by Real-time PCR analysis and F-actin staining. Then the cells were
+grown on three different substrata for 2 days and serum-starved for 24 h, treated
+with 10 mm Y27632 for 24 h followed by Real-time PCR assay. Similarly, for activation
+assay, cells were grown on three different substrata for 2 days and serum-starved for
+24 h, and then treated with LPA (1 mg/ml, Sigma) [22,23] in serum-free medium for
+24 h followed by Real-time PCR assay and actin staining of group A cells. Experiment
+was repeated in three tissue samples.
+2.10. Statistical analysis
+Results are presented as means  standard deviation. The differences among
+different groups were analyzed using one-way ANOVA test. When the analysis of
+variance indicated signiﬁcance in the difference among data, multiple comparisons
+were performed with NewmaneKeuls post hoc tests. A p-value of less than 0.05 was
+considered statistically signiﬁcant.
+3. Results
+decreased with cell passage (Fig. 1b and d), suggesting a close
+relationship between cell morphology and cell function.
+3.2. Cell morphology and tenomodulin gene expression
+To further conﬁrm whether cell morphology could regulate
+tenomodulin expression, cells were incubated on three different
+substrata for total 4 passages. As shown in Fig. 2a, Group C cells
+(cultured on microgroove membrane) could maintain an elongated
+morphology even after 4 passages as revealed by light microscopy
+and H&E staining (Fig. 2a). By contrast, cells of Groups A and B
+(Fig. 2a) remained spread after 4 passages. It was noted that
+enforced elongation also reorganized the actin stress ﬁbers longi-
+tudinally along with the cell axis (Fig. 2a). Importantly, both RT-PCR
+and quantitative PCR analyses revealed that the tenomodulin
+expression was continuously decreased in spread cells (Groups A
+and B) along with cell passage; however, the expression could be
+well maintained in the cells with enforced elongation (Group C),
+which was signiﬁcantly higher than that of the other two groups
+(Fig. 2b and c). Moreover, elongated cell morphology could also
+maintain a higher expression level of collagen I in the cells of Group
+C than in the cells of Groups A and B (Fig. 2d and e) when examined
+at passage 4. These results indicate that elongated cell shape may
+play a dominant role in determining the phenotype and function of
+in vitro cultured tenocytes.
+3.1. Tenocyte cultrue and the gene expression of tenomodulin and
+collagen I
+3.3. Redifferentiation of dedifferentiated tenocytes by elongated
+morphology
+During in vitro cell culture, tenocytes lost their characteristic
+elongated cell morphology with cell passages and became spread in
+their shape (Fig. 1a). Interestingly, the mRNA expression of tenocyte
+marker molecule tenomodulin was markedly reduced and lost after
+6 and 10 passages during in vitro culture as revealed by RT-PCR and
+Real-time PCR analyses (Fig. 1b and c). Importantly, the expression
+of the major functional molecule type I collagen also sharply
+In this part of study, cells were ﬁrst passaged three times on
+different substrata to allow for dedifferentiation of the cells in
+groups A and B, and then the possibility of redifferentiation was
+investigated by switching from Group B to Group D. As shown in
+Fig. 3, one passage after switching the culture condition (P3 þ P1),
+the tenomodulin expression level of switched cells (Group D cells)
+remained low and equivalent to that of non-switched cells (Group B
+Fig. 1. In vitro cultured porcine tenocytes lost their native morphology and phenotype. Cells grown on culture dish became spread in their morphology from passage 2 to passage 10
+(a) and exhibited decreased gene expression level of tenomodulin (Tnmd, b, c) and collagen I (Col-I, b, d) revealed by RT-PCR (b) and quantitative PCR (c, d). The symbol “*” indicates
+p < 0.05 and “P” represents cell passage.
+J. Zhu et al. / Biomaterials 31 (2010) 6952e6958
+6955
+Fig. 2. Passaged tenocytes with enforced elongated morphology retained high expression level of tenomodulin (Tnmd) and collagen I (Col-1). Cells were passaged respectively on
+culture dish (Group A), smooth silicone membrane (Group B) and microgroove silicone membrane (Group C) to observe the morphology (a, passage 4 cell, 100) and to examine the
+gene expression levels of Tnmd (b, c) and Col-1 (d, e) by RT-PCR (b, d) and quantitative PCR (c, e). P and A, B, C respectively represent cell passage and Groups A, B and C. The symbol
+“*” indicates p < 0.05.
+cells) with no signiﬁcant difference (Fig. 3, left). After one more
+passage of cell culture (P3 þ P2), tenomodulin expression level
+continued to drop in Group B cells, whereas the expression level of
+Group D cells signiﬁcantly increased and reached a level similar to
+that of Group C cells that were forced to be elongated all the time
+Fig. 3. Redifferentiation of dedifferentiated cultured tenocytes by morphological
+switch from spread to elongated shape. Group B cells were passaged on smooth sili-
+cone membrane 3 times and part of cells was then switched to microgroove membrane
+for another two passage (Group D). Quantitative PCR revealed the re-expression of
+Tnmd in Group D cells after two passages in enforced elongated morphology. P and A,
+B, C and D respectively represent cell passage and Groups A, B, C and D. The symbol “*”
+indicates p < 0.05.
+with no signiﬁcant difference (Fig. 3, right). This phenomenon
+indicates that dedifferentiated tenocytes during in vitro culture
+could restore their phenotype after regaining their native cell
+morphology.
+3.4. Effect of cell morphology on RhoA/ROCK activity
+To understand the potential role of RhoA/ROCK signaling in cell
+shape mediated tenomodulin expression, both RhoA and ROCK
+activities were examined for the cells that were continually grown
+on different substrata. As shown in Fig. 4, the level of GTP-bound
+RhoA was signiﬁcantly increased in the cells with elongated shape
+(Group C) than the cells with spread morphology (Groups A and B)
+(Fig. 4a). By contrast, the ROCK activity was signiﬁcantly decreased
+in the cells with elongated shape (Group C) than the cells with
+spread morphology (Groups A and B) (Fig. 4b), indicating that
+elongated cell morphology leads to enhanced RhoA activation and
+decreased ROCK activity.
+3.5. Effects of ROCK inhibitor Y27632 on tenomodulin expression
+To investigate whether manipulation of ROCK activity will affect
+tenomodulin expression, cells were ﬁrst treated with ROCK inhib-
+itor Y27632 to observe the effect on cell morphology. As shown in
+Fig. 5, cells cultured on regular culture dishes remained largely
+spread in their morphology after 24 h of treatment with 10 mM
+Y27632, although attenuated stress ﬁber structure was observed in
+treated group than in non-treated group (Fig. 5a). Interestingly,
+inhibition of ROCK activity could enhance tenomodulin expression
+6956
+J. Zhu et al. / Biomaterials 31 (2010) 6952e6958
+expression was slightly increased in Group C cells with elongated
+morphology (p < 0.05), suggesting that the artiﬁcial inhibition with
+Y27632 will probably have limited effect on the elongated cells that
+already had a very low level of ROCK activity and thus was not able
+to further majorly enhance tenomodulin expression.
+3.6. Effects of RhoA activator LPA on tenomodulin expression
+To investigate the effect of artiﬁcial RhoA activation on teno-
+modulin expression, cells grown on different substrata were
+treated with LPA to observe the effect. As shown in Fig. 6, activation
+of RhoA could signiﬁcantly down regulate tenomodulin expression
+levels of the cells (Groups A and B) with spread cell morphology,
+whereas no signiﬁcant decrease of tenomodulin expression level
+was found in Group C cells grown on microgroove membrane
+(Fig. 6b), indicating that LPA treatment will have limited effect on
+the elongated cells that already had a high level of GTP-bound RhoA
+and thus was not able to further decrease tenomodulin expression.
+In addition, after LPA treatment of the cells grown on regular
+culture dishes, enhanced actin stress ﬁber formation was observed
+(Fig. 6a), suggesting that RhoA activity may affect tenomodulin
+expression that is not entirely dependent on cell morphology.
+4. Discussion
+Cell dedifferentiation is a common biological process when cells
+were deprived of their in vivo niche longer enough. For example,
+bovine articular chondrocytes became dedifferentiated after being
+cultured in monolayer for three weeks and lost the expression of
+marker molecule collagen II [24]. It has been proposed that multiple
+factors constitute an in vivo niche that maintains the phenotype of
+chondrocytes, such as cartilage matrices,
+low oxygen, growth
+Fig. 4. Effect of cell morphology on RhoA and ROCK activity. The level of GTP-bound
+RhoA was signiﬁcantly higher in the cells with elongated morphology than in the cells
+with spread morphology (a), whereas the ROCK activity was signiﬁcantly lower in
+elongated cells than in spread cells (b). A signiﬁcant difference in RhoA-GPT level and
+Rock activity was found as well between Groups A and B cells (both spread). A, B and C
+represent respectively Groups A, B and C, and the symbol “*” indicates p < 0.05.
+with a dose-dependent and a time-dependent manner (Fig. 5b and
+c), indicating that ROCK activity could exert an active effect on
+regulating tenomodulin expression. Next, the effect was also
+investigated on the cells cultured on different substrata. As shown
+in Fig. 5d, inhibiting ROCK activity with 10 mM Y27632 treatment
+could signiﬁcantly enhanced the tenomodulin expression in the
+cells of both Groups A and B (p < 0.05), which were in spread cell
+morphology. Particularly, there was a dramatic increase of the
+expression level in Group B cells after the treatment, leading to
+a level similar to that of Group C cells without signiﬁcant difference
+(p > 0.05). However, after Y27632 treatment,
+tenomodulin
+Fig. 5. Effect of ROCK inhibitor on tenomodulin (Tnmd) expression in tenocytes cultured on different substrata. Treatment of cells grown on culture dish with Y27632 led to
+attenuated stress ﬁber structure without obvious morphological change (a, 100) and reduced Tnmd expression in dose (b) and time (c) dependent manners. Dramatic upregulation
+of Tnmd was observed in Group B cells comparing to control group (Ctrl) after Y27632 treatment with a level similar to that of Group C. Minor upregulation was also observed in
+Group C cells. A, B and C represent respectively Groups A, B and C, and the symbol “*” indicates p < 0.05.
+J. Zhu et al. / Biomaterials 31 (2010) 6952e6958
+6957
+Fig. 6. Effect of RhoA activator on tenomodulin (Tnmd) expression in tenocytes cultured on different substrata. Treatment of the cells grown on culture dish with LPA did not
+obviously change the morphology (a, 100), but signiﬁcantly reduced Tnmd expression (b). The treatment also signiﬁcantly reduced tenomodulin expression in the cells grown on
+smooth silicone membrane but not in the cells on microgroove membrane comparing to control groups (Ctrl) (b). A, B and C represent respectively Groups A, B and C. The symbol “*”
+indicates p < 0.05.
+factors and three dimensional structure and thus are the potential
+factors to be used to redifferentiate the dedifferentiated con-
+drocytes during in vitro culture [24e27].
+Among these factors, the role of cell morphology in cell dedif-
+ferentiation might be an important subject to investigate because
+cell morphology change often accompanies with dedifferentiation
+[24] and induced differentiation of stem cell [4]. Tenocyte is one type
+of ﬁbroblasts, which can be an interesting target to study the
+interrelationship between cell morphology and phenotype, because
+tenocyte exhibits a unique elongated form in vivo. As shown in this
+study, loss of this particular cell morphology during in vitro culture is
+associated with the loss of cell phenotype and function as the
+expression level of marker molecule (tenomodulin) and functional
+molecule (collagen I) signiﬁcantly decreased (Fig. 1). However, the
+results demonstrated that simply forcing cells into an elongated
+morphology without other environmental alterations could prevent
+in vitro cultured kenocytes from dedifferentiation even after 4 cell
+passages (Fig. 2). Interestingly, simply switching the morphology
+from spread shape to elongated form could reverse dedifferentiation
+status and redifferentiate cultured tenocytes by restoring tenomo-
+dulin and collagen I expression (Fig. 3). This ﬁnding suggests that cell
+morphology change may not just be a passive response to cell
+dedifferentiation [24] or stem cell differentiation [4], rather envi-
+ronmentally induced cell morphology change may actually play an
+active role in directing the fate of cell dedifferentiation or rediffer-
+entiation for in vitro cultured cells.
+Cytoskeleton structure is important for cell shape maintenance.
+As demonstrated in this study by F-actin staining, enforced elon-
+gated cell morphology could reorganize actin stress ﬁbers from
+random distribution (spread cells) to longitudinally alignment
+along with elongated cell axis (Fig. 2a), which may lead to reduced
+cytoskeleton tension in narrow shaped tenocytes [28]. Further-
+more, the altered cytoskeleton pattern also altered the RhoA acti-
+vation level and ROCK activity. As shown in Fig. 4, elongated cell
+morphology led to increased level of GTP-bound RhoA and
+decreased ROCK activity. Although the observed decoupling of
+RhoA activation and the activity of its effector ROCK in elongated
+tenocytes was not expected, it is not unprecedented. Previous
+researches suggest the presence of a negative-feedback loop that
+occurs following Rho-dependent formation of focal adhesions
+[22,29]. As reported previously [28], cytoskeletal
+tension is
+required to couple RhoA to ROCK. As examples, the decoupling of
+RhoA and ROCK is evident in suspended, spreading-restricted or
+cytoskeletal tension disrupted cells, which all exhibited high levels
+of Rho-GTP but low ROCK activity [28,30e32]. In this case, reduced
+cytoskeletal tension by enforced narrow cell shape (spreading-
+restricted morphology) is likely to cause the decoupling.
+More importantly, the decoupled RhoA/ROCK activity could
+actively regulated tenomodulin expression. As shown in this study,
+artiﬁcial inhibition of ROCK activity with Y27632 treatment could
+enhance tenomodulin expression even treated cells remained
+largely in spread morphology despite actin stress ﬁbers were dis-
+rupted to a certain level. Reversely, artiﬁcial activation of RhoA by
+LPA treatment could lead to reduced tenomodulin expression with
+enhanced actin stress ﬁber structure. In contrast, for elongated cells
+that already exhibited highly activated RhoA or low level ROCK
+activity, treatment with either LPA or Y27632 could not majorly
+change the expression level of tenomodulin. These ﬁndings indi-
+cate that RhoA/ROCK signaling participates and play an active role
+in cell shape mediated tenocyte dedifferentiation and rediffer-
+entiation processes.
+In this study, difference in tenomodulin expression and RhoA/
+ROCK activity remained observable between Group A and Group B
+cells, although both group cells exhibit spread cell morphology. The
+difference is likely to be caused by different substrata because the
+culture dishes may allow for better cell attachment and spreading
+compared to silicone membrane. In addition, Scleraxis is known
+important for regulating tenomodulin expression during tendon
+development [8,33]. However, change of cell morphology during in
+vitro culture and cell passage did not seem to affect scleraxis
+expression despite signiﬁcantly reduced tenomodulin expression
+in mouse tenocytes during in vitro culture (data not shown), sug-
+gesting that cell shape regulated tenomodulin expression in teno-
+cytes may not depend on scleraxis based regulation, which may
+play its primary role in tendon development.
+Although this study dealt with basic cell biology issue, the
+ﬁnding of this study may provide a guide for practical application.
+As an example, our previous studies shown elongated tenocyte
+morphology in tissue engineered tendon [34,35], the design of
+a linear structure may help to fabricate a scaffold material that may
+allow seeded tenocytes to keep an elongated morphology during
+in vitro and in vivo tendon formation, and thus to optimize the
+tissue quality and function of tissue engineered tendon by well
+preserved phenotype and function of seeded tenocytes. Addition-
+ally, speciﬁc morphological requirement for tenocyte phenotype
+and function revealed by this study may provide insight into
+tenogenic differentiation of stem cells [2].
+5. Conclusion
+This study demonstrated that tenocytes underwent dediffer-
+entiation during in vitro culture along with morphology change
+from elongated to spread and simply maintaining the cultured
+tenocytes in an elongated form could retain their phenotype or
+6958
+J. Zhu et al. / Biomaterials 31 (2010) 6952e6958
+even reverse dedifferentiated status towards redifferentiated status
+and reduced ROCK activity contribute to this unique phenomenon.
+In the future, deﬁning the detailed process of RhoA/ROCK mediated
+tenomodulin expression such as transcriptional regulation may
+help to reveal the mechanism. Moreover, these ﬁndings may
+provide insight into the design of an advanced scaffold for tendon
+engineering, which is able to maintain or strengthen the function of
+seeded tenocytes or able to efﬁciently induce tenogenic differen-
+tiation of seeded mesenchymal stem cells.
+Acknowledgments
+This study was supported by National “973” Project Foundation
+2005CB522703. The authors thank Dr. James H-C. Wang for the
+supply of silicone membrane.
+Appendix
+Figures with essential colour discrimination. Figs. 1,2,5 and 6 are
+difﬁcult to interpret in black and white. The full colour images can
+be found in the on-line version, at doi:10.1016/j.biomaterials.2010.
+05.058.
+References
+[1] Engler AJ, Sen S, Sweeney HL, Discher DE. Matrix elasticity directs stem cell
+lineage speciﬁcation. Cell 2006;126:677e89.
+[2] Kilian Kristopher A. Geometric cues for directing the differentiation of
+mesenchymal stem cells. PNAS 2010;107:4872e7.
+[3] McBeath R, Pirone DM, Nelson CM, Bhadriraju K, Chen CS. Cell shape, cyto-
+skeletal tension, and RhoA regulate stem cell lineage commitment. Dev Cell
+2004;6:483e95.
+[4] Zhou G, Liu W, Cui L, Wang X, Liu T, Cao Y. Repair of porcine articular
+osteochondral defects in non-weightbearing areas with autologous bone
+marrow stromal cells. Tissue Eng 2006;12:3209e21.
+[5] Asahara T, Murohara T, Sullivan A, Silver M, van der Zee R, Li T, et al. Isolation of
+putative progenitor endothelial cells for angiogenesis. Science 1997;275:964e7.
+[6] McNeilly CM, Banes AJ, Benjamin M, Ralphs JR. Tendon cells in vivo form
+a three dimensional network of cell processes linked by gap junctions. J Anat
+1996;189(Pt 3):593e600.
+[7] Shukunami C, Oshima Y, Hiraki Y. Molecular cloning of tenomodulin, a novel
+chondromodulin-I
+related
+gene.
+Biochem Biophys
+Res
+Commun
+2001;280:1323e7.
+[8] Shukunami C, Takimoto A, Oro M, Hiraki Y. Scleraxis positively regulates the
+expression of tenomodulin, a differentiation marker of tenocytes. Dev Biol
+2006;298:234e47.
+[9] Docheva D, Hunziker EB, Fässler R, Brandau O. Tenomodulin is necessary for
+tenocyte
+proliferation
+and
+tendon maturation. Mol
+Cell
+Biol
+2005;25:699e705.
+[10] Takai Y, Sasaki T, Tanaka K, Nakanishi H. Rho as a regulator of the cytoskel-
+eton. Trends Biochem Sci 1995;20:227e31.
+[11] Leung T, Chen XQ, Manser E, Lim L. The p160 RhoA-binding kinase ROK alpha
+is a member of a kinase family and is involved in the reorganization of the
+cytoskeleton. Mol Cell Biol 1996;16:5313e27.
+[12] Maekawa M, Ishizaki T, Boku S, Watanabe N, Fujita A, Iwamatsu A, et al.
+Signaling from Rho to the actin cytoskeleton through protein kinases ROCK
+and LIM-kinase. Science 1999;285:895e8.
+[13] Liu W, Chen B, Deng D, Xu F, Cui L, Cao Y. Repair of tendon defect with
+dermal ﬁbroblast engineered tendon in a porcine model. Tissue Eng
+2006;12:775e88.
+[14] Wang B, Liu W, Zhang Y, Jiang Y, Zhang WJ, Zhou G, et al. Engineering of
+extensor
+tendon complex by
+an ex
+vivo approach. Biomaterials
+2008;29:2954e61.
+[15] Thampatty BP, Wang JH. A new approach to study ﬁbroblast migration. Cell
+Motil Cytoskeleton 2007;64:1e5.
+[16] Livak KJ, Schmittgen TD. Analysis of relative gene expression data using
+ ΔΔCT method. Methods 2001;25:
+real-time quantitative PCR and the 2
+402e8.
+[17] Woods A, Beier F. RhoA/ROCK signaling regulates chondrogenesis in
+a context-dependent manner. J Biol Chem 2006;281:13134e40.
+[18] Rieken S, Herroeder S, Sassmann A, Wallenwein B, Moers A, Offermanns S,
+et al. Lysophospholipids control integrin-dependent adhesion in splenic B
+cells through G(i) and G(12)/G(13) family G-proteins but not through G(q)/G
+(11). J Biol Chem 2006;281:36985e92.
+[19] Madonna R, Di Napoli P, Massaro M, Grilli A, Felaco M, De Caterina A, et al.
+Simvastatin attenuates expression of cytokine-inducible nitric-oxide synthase
+in embryonic cardiac myoblasts. J Biol Chem 2005;280:13503e11.
+[20] Sapet C, Simoncini S, Loriod B, Puthier D, Sampol J, Nguyen C, et al. Throm-
+bin-induced endothelial microparticle generation: identiﬁcation of a novel
+pathway involving ROCK-II activation by caspase-2. Blood 2006;108:
+1868e76.
+[21] Kaunas R, Nguyen P, Usami S, Chien S. Cooperative effects of Rho and
+mechanical stretch on stress ﬁber organization. Proc Natl Acad Sci
+2005;102:15895e900.
+[22] Ren XD, Kiosses WB, Schwartz MA. Regulation of the small GTP-binding
+protein Rho by cell adhesion and the cytoskeleton. EMBO J 1999;18:578e85.
+[23] Li Y, Gonzalez MI, Meinkoth JL, Field J, Kazanietz MG, Tennekoon GI. Lyso-
+phosphatidic acid promotes survival and differentiation of rat Schwann cells. J
+Biol Chem 2003;278:9585e91.
+[24] Domm C, Schünke M, Christesen K, Kurz B. Redifferentiation of dediffer-
+entiated bovine articular chondrocytes in alginate culture under low oxygen
+tension. Osteoarthr Cartil 2002;10:13e22.
+[25] Malda J, van Blitterswijk CA, van Geffen M, Martens DE, Tramper J, Riesle J.
+Low oxygen tension stimulates the redifferentiation of dedifferentiated adult
+human nasal chondrocytes. Osteoarthr Cartil 2004;12:306e13.
+[26] Bonaventure J, Kadhom N, Cohen-Solal L, Ng KH, Bourguignon J, Lasselin C,
+et al. Reexpression of cartilage-speciﬁc genes by dedifferentiated human
+articular chondrocytes cultured in alginate beads. Exp Cell Res 1994;212:
+97e104.
+[27] Lemare F, Steimberg N, Le Griel C, Demignot S, Adolphe M. Dedifferentiated
+chondrocytes cultured in alginate beads: restoration of the differentiated
+phenotype and of the metabolic responses to interleukin-1beta. J Cell Physiol
+1998;176:303e13.
+[28] Bhadriraju K, Yang M, Alom Ruiz S, Pirone D, Tan J, Chen CS. Activation of
+ROCK by RhoA is regulated by cell adhesion, shape, and cytoskeletal tension.
+Exp Cell Res 2007;313:3616e23.
+[29] Wozniak MA, Desai R, Solski PA, Der CJ, Keely PJ. ROCK-generated contractility
+regulates breast epithelial cell differentiation in response to the physical
+properties of a three-dimensional collagen matrix.
+J Cell Biol 2003;163:
+583e95.
+[30] Huang S, Chen CS, Ingber DE. Control of cyclin D1, p27(Kip1), and cell cycle
+progression in human capillary endothelial cells by cell shape and cytoskeletal
+tension. Mol Biol Cell 1998;9:3179e93.
+[31] Ren XD, Wang R, Li Q, Kahek LA, Kaibuchi K, Clark RA. Disruption of Rho signal
+transduction upon cell detachment. J Cell Sci 2004;117:3511e8.
+[32] Kreisberg JI, Venkatachalam MA, Radnik RA, Patel PY. Role of myosin light-
+chain phosphorylation and microtubules in stress ﬁber morphology in
+cultured mesangial cells. Am J Physiol 1985;249:F227e35.
+[33] Schweitzer R, Chyung JH, Murtaugh LC, Brent AE, Rosen V, Olson EN, et al.
+Analysis of the tendon cell fate using Scleraxis, a speciﬁc marker for tendons
+and ligaments. Development 2001;128:3855e66.
+[34] Cao Y, Liu Y, Liu W, Shan Q, Buonocore SD, Cui L. Bridging tendon defects using
+autologous tenocyte engineered tendon in a hen model. Plast Reconstr Surg
+2002;110:1280e9.
+[35] Cao D, Liu W, Wei X, Xu F, Cui L, Cao Y. In vitro tendon engineering with avain
+tenocytes and polyglycolic acids: a preliminary report. Tissue Eng
+2006;12:1369e77.

@@ -1,0 +1,929 @@
+02-425B-D.qxd  5/19/03  5:50 PM  Page 287
+Calciothermic Reduction of Titanium Oxide and in-situ
+Electrolysis in Molten CaCl2
+RYOSUKE O. SUZUKI, KOH TERANUMA, and KATSUTOSHI ONO 
+A concept for calciothermic direct reduction of titanium dioxide in molten CaCl2 is proposed and
+experimentally tested. This production process consists of a single cell, where both the thermochemi-
+cal reaction of the calciothermic reduction and the electrochemical reaction for recovery of the reduc-
+ing agent, Ca, coexist in the same molten CaCl2 bath. A few molar percentages of Ca dissolve in the
+melt, which gives the media a strong reducing power. Using a carbon anode and a Ti basket-type cath-
+ode in which anatase-type TiO2 powder was ﬁlled, a metallic titanium sponge containing 2000 ppm
+oxygen was produced after 10.8 ks at 1173 K in the CaCl2 bath. The optimum concentration of CaO
+in the molten CaCl2 was 0.5 to 1 mol pct, to shorten the operating time and to achieve a lower oxygen
+content in Ti.
+I.
+INTRODUCTION 
+THE Kroll process produces metallic titanium industri-
+ally. It consists of a three-step operation: the conversion from
+TiO2 to TiCl4, the subsequent reduction of TiCl4 to sponge Ti
+by liquid Mg, and the electrochemical recycling of MgCl2
+into metallic Mg.[1] It takes 2 to 5 days in this reduction route
+via TiCl4, and the batch operation makes it difﬁcult to save
+thermal energy. A simpler, more rapid, and compact process
+in a single step directly from TiO2 has been desired to
+achieve higher productivity and energy savings.[2–8]
+Recently, we proposed brieﬂy the possible routes to go
+from TiO2 directly to metallic Ti, using calcium as a reduc-
+tant and CaCl2 as the supporting media.[4–8] The purpose of
+this article is to report our concept in detail and to show
+some experimental veriﬁcation. 
+II. CONCEPT
+A. Thermodynamic Requirements 
+[1] 
+The possible elements that are candidates as reductants (R)
+of TiO2 should meet several requirements. First, the oxides
+of the reductants (RO) should be thermodynamically more
+stable than the lowest oxide of titanium, TiO.
+TiO + R = Ti + RO
+where R is selected judging from the standard free-energy
+change of Reaction [1] (G
+[1]) from a thermodynamic
+database.[9]
+Second, a reductant with a wide solubility in Ti or with a
+strong compound formability with Ti is not suitable. For ex-
+ample, α -Ti dissolves 44.8 mol pct Al, and the residual
+amount of reductant Al forms a Ti-Al alloy. Carbon is one of
+the common reductants, but is not applicable because of TiC
+formation. Table I lists elements which can reduce TiO,
+whose solubility in Ti does not exceed 5 mol pct[10] and
+which do not make any compounds with Ti.
+◦
+RYOSUKE O. SUZUKI, Associate Professor, and KATSUTOSHI ONO,
+Professor Emeritus, are with the Department of Energy Science and
+Technology, Kyoto University, Kyoto, Japan. Contact e-mail: Suzuki@
+energy.kyoto-u.ac.jp KOH TERANUMA, formerly Graduate Student,
+Master Course of Graduate School of Energy Science, Kyoto University, is
+Research Staff Member with Toho Gas Company, Nagoya, Japan.
+Manuscript submitted August 23, 2002.
+The third criterion is the deoxidation capacity. For exam-
+ple, Mg equilibrates thermodynamically with Ti containing
+about 2 to 3 mass pct oxygen,[11,12] and a subsequent deoxi-
+dation procedure is needed after reduction with Mg. In addi-
+tion, the acid leaching of MgO was too slow for practical
+mass production.[13] Rare-earth elements are not suitable as
+reductants if they cannot be recycled inside the operating
+system. Radioactive or noxious elements are excluded as
+TiO2 reductants.
+Ca was selected as being applicable both for direct reduc-
+tion of TiO2 and for deoxidation of Ti. The residual oxygen in
+Ti has been measured as 300 to 730 mass ppm, when Ca and
+CaO coexisted in equilibrium at 1173 to 1373 K.[11,12,14–18]
+This oxygen level is suitable for industrial purposes. The
+solubility of Ca in β -Ti is also as low as 50 to 200 ppm
+at 1155 to 1600 K.[19]
+Alexander ﬁrst patented the reduction of TiO2 using Ca in
+1936.[20] However, ductile titanium could not be produced,[13]
+because a few thousand parts per million oxygen remained in
+the formed Ti.[12,14–16] The slow mass transfer through the
+byproduct CaO, attached to the surface of Ti particles,
+hindered further deoxidation.[12,14–16] The formed Ti particles
+easily sintered tightly, because reaction [1] is exothermic.[9]
+CaO was easily captured in the Ti grain boundaries during
+sintering and was barely removed by acid leaching.[12,14 –16]
+B. Calciothermic Reduction in Molten CaCl2
+Calcium chloride (CaCl2) is an abundant and inexpensive
+salt which melts at 1048 K and is thermodynamically stable
+with Ca. CaO solubility in molten CaCl2 is about 20 mol pct
+CaO at 1173 K.[21–24] When we applied the calciothermic
+reduction in the molten CaCl2, the byproduct CaO was
+removed in situ from the reaction place and dissolved into
+the salt, which enhanced the reduction,[2–8] as illustrated in
+Figure 1.
+TiO2 + 2 Ca = Ti + 2 CaO
+where CaO represents the dissolved CaO in the salt. Note
+that the solidiﬁed CaCl2 is more easily separated from Ti
+powder with water than is CaO with acid leaching. CaCl2
+could supply Ca toward the oxides homogeneously,[25] and
+the molten salt released the exothermic heat from the reac-
+tion.[25,26] The simultaneous usage of Ca and CaCl2 in oxide
+[2] 
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 34B, JUNE 2003—287
+02-425B-D.qxd  5/19/03  5:50 PM  Page 288
+Table I. Possible Reductants to Produce Ti Metal from
+its Oxide, Considering the Thermodynamic Reaction,
+Equation [1], and Formation of Alloy or Compounds
+Group
+Ia
+IIa
+IIIa
+Possible Reductants 
+Li
+Be, Mg, Ca, Sr, Ba
+Sc, Y, La, Ce, Pr, Nd, (Pm),* Sm, Eu,
+Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu, Ac, Th
+*No thermochemical data are available. 
+Fig. 1—Mechanism of calciothermic reduction.
+Fig. 2—Electrochemical potentials for the decomposition of CaCl2 and that
+of CaO in CaCl2.
+reduction was reported only at the production of Pu,[26] Nd,
+an Fe-Nd alloy,[27,28,29] or Nb-Ti alloys.[25]
+The densities of liquid Ca and CaCl2 at 1173 K are 1.357 ×
+103 and 2.01×103 kg/m3, respectively,[30] which separates
+into two layers. As illustrated in Figure 1, TiO2 does not come
+TiO2 and β-Ti at 1173 K are evaluated as 4.40 × 103 and
+into contact with Ca, because the densities of rutile-type
+4.15 × 103 kg/m3, respectively.[30,31] Ca dissolved in molten
+CaCl2 (the solubility of Ca is 2 to 4 mol pct[32–38]) could
+reduce TiO2 powder experimentally.[4–8]
+TiO2 + 2 Ca = Ti + 2 CaO
+where Ca represents dissolved calcium. Pure Ca is not nec-
+essary to reduce TiO2 into the metallic Ti, and Ca formed
+electrochemically can be used for TiO2 reduction, as shown
+in this work. 
+[3]
+C. Electrolysis of CaO in Molten CaCl2
+In order both to enhance CaO dissolution and to recycle
+the byproduct CaO, the dissolved CaO is removed from the
+salt and decomposed to metallic Ca, using the electrochemi-
+cal reaction in the molten salt.[3,8,39–41] CaO is decomposed
+into ions as 
+CaO = Ca2+ + O2−
+The electrochemical potential necessary for CaO decom-
+position is evaluated in Figure 2 from a thermochemical
+database.[9] Because the theoretical decomposition voltage of
+CaO into O2 gas and Ca (2.71 V at 1173 K) is lower than that
+[4]
+, C+ O2−
+−
+−
+− = Ca
+of CaCl2 (3.213 V), Ca can be produced by the molten-salt
+electrolysis of CaO. This oxygen-gas evolution, however, re-
+quires an oxidation-resistive material such as a nonconsum-
+able anode material. The decomposition voltage of CaO is
+close to that of CaCl2, and the overpotential makes it difﬁcult
+to exclude Cl2 gas evolution. Instead of using a nonconsum-
+able anode for O2 gas evolution, a consumable carbon anode
+can lower the potential by 1.03 V.[4–6,8,39–41]
+At the anode: C + 2 O2− = CO2 (gas) + 4e
+= CO (gas) + 2e
+At the cathode: Ca2+ + 2e
+Even in case of a low activity of CaO (aCaO), the decomposi-
+tion voltage of CaO remains much lower than that of CaCl2
+decomposition, as shown in Figure 2.
+Many previous attempts of CaCl2 or CaO electrolysis
+were reported.[22,24,28,39–44] However, it was not easy to de-
+posit either pure liquid Ca or a liquid Ca alloy with a good
+yield and a good current efﬁciency, because the precipitated
+Ca dissolved immediately back into the salt and parasitic re-
+actions occurred. During electrolysis at temperatures above
+the melting point of Ca, the formation of a so-called “metal
+fog” of Ca has been often observed in the vicinity of the
+cathode.[22,43,44] This metal fog holds the reducing potential
+to cause the parasitic reactions. Some earlier reports sug-
+(Ca2+ + e).[33,46]
+gested “Ca2
+,”[34,45] while the later studies showed Ca
+or
+At the cathode: Ca2+ + e
+− = Ca
++
+2+
+[5]
+[6]
++
+[7]
+288—VOLUME 34B, JUNE 2003
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+02-425B-D.qxd  5/19/03  5:50 PM  Page 289
+Fig. 3—Illustration of single cell model. 
++
+−
+−
+[8]
+The Ca
+ions leave the cathode and migrate to the bulk. Be-
+cause of their reducing power, they are ﬁnally neutralized by
+parasitic reactions such as 
++ + CO2 (gas) + 2e
+In the bath: 2Ca
+= 2Ca2+ + 2O2− + C and,
++ + CO (gas) + e
+In the bath: Ca
+= Ca2+ + O2− + C
+In this article, we will call Ca2
+or Ca
+ions as Ca dis-
+solved in the salt “Ca,” to express the reducing ability or po-
+tential near the cathode, no matter which is the so-called
+metal fog after deposition—the ionic state such as Ca2
+or,
+simply, dissolved metallic calcium. This reducing atmos-
+phere of Ca is thermochemically equivalent to Ca in Eq. [2]
+and served here for the reduction of TiO2 instead of the par-
+asitic Reactions [8] and [9]. We will put TiO2 powder at the
+vicinity of the cathode (Figure 3) to consume Ca in
+the molten salt, as written in Eq. [3].
+[9]
+2+
++
+2+
+D. Combination of Reduction and Electrolysis 
+The electrolysis and reduction can be combined together,
+as illustrated in Figure 4. The conceptual image of the two
+reaction vessels (Figure 4) was proposed in calciothermic re-
+duction of TiO2, Nd2O3, and radioactive elements.[2,3,39–42]
+Ca or Ca formed at the cathode is passed with a part of the
+molten salt toward the reduction vessel and is used for the
+reduction of the oxide powder. The byproduct, CaO, and
+the solvent CaCl2 are returned to the upper vessel. However,
+no experimental proof has been reported, probably because
+of the difﬁculties of depositing pure Ca by electrolysis. TiO2
+powder could be successfully reduced by Ca as well as by
+pure Ca.[7] It was not directly proven whether Ca produced
+by electrolysis could be used for the reduction.
+The single-unit operation (Figure 3) is ideal; it omits the
+connection paths between two vessels, and the Ca is served
+instantly for TiO2 reduction. The reduction is operated in the
+Fig. 4—Illustration of separate model.
+temperature range of 1120 to 1350 K, considering the melt-
+ing point and evaporation of Ca. The electrolysis is also con-
+ducted in the similar temperature range. Because the calcio-
+thermic reduction and the electrolysis are exothermic and
+endothermic, respectively, thermal energy can be saved by
+setting two reactions in a close spatial arrangement such as
+in Figure 3.[4,5,6]
+E. Deoxidation by Ca
+Metallic Ca can effectively extract the residual oxygen in
+Ti into CaCl2.[47–51]
+[O]Ti + Ca = Ca2+ + O2−
+[10]
+where [O]Ti is oxygen in the Ti particles (maximum of
+14 mass pct). When we could reduce TiO2 to Ti powder in
+Eq. [3], the obtained Ti powder would be simultaneously de-
+oxidized by Eq. [10]. This deoxidation proceeds effectively
+when the CaO concentration is low. Our previous report
+showed that the oxygen content in Ti powder just reduced
+from TiO2 decreased to <1000 ppm in 1 hour and to 420 ppm
+in 1 day.[7,8] However, the amount of CaO in the melt after
+the reduction would be much larger than that suitable for de-
+oxidation. When the CaO concentration becomes higher
+than 5 mol pct, the dissolution rate of Ca and CaO becomes
+slower.[24,34,38]
+The electrolysis of CaO can decrease the CaO concentra-
+tion in the melt, and the oxygen content in Ti cathode wires
+of [O]Ti > 1000 ppm O was reported to be decreased to a
+<30 ppm O level.[52,53] Although the oxygen diffusion be-
+came the rate-determining step in the case of the thick wires,
+we can expect the more-efﬁcient deoxidation in the case of
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 34B, JUNE 2003—289
+02-425B-D.qxd  5/19/03  5:50 PM  Page 290
+the ﬁne Ti powder just precipitated from TiO2. In the single-
+cell operation (Figure 3), the reduced Ti particles can be also
+deoxidized by the electrochemical mechanism.[52,53]
+F. Overall Reaction 
+Our proposed process starting from TiO2 is summarized
+from all the working reactions ([2] through [6] and [10]) that
+TiO2 is reduced by carbon as 
+TiO2 + C = Ti + CO2 and TiO2 + 2C = Ti + 2CO [11]
+This overall reaction is the same as that in the Kroll process,
+where the reductant Mg and the byproducts, TiCl4 and
+MgCl2, are circulated in a close system.[1]
+III. EXPERIMENTAL PROCEDURES
+Figure 5 shows the experimental arrangement for the si-
+multaneous reactions, i.e., reduction and in-situ electrolysis.
+A graphite crucible (99.9 pct in metallic purity, 55 mm o.d.,
+40 mm i.d., and 150 mm in depth) was used as the anode. It
+was connected to a stainless steel rod (4 mm in diameter)
+and a lead to a direct-current power supply. About 300 g of a
+mixture of anhydrate CaCl2 (>99 pct) and CaO (99 pct, cal-
+cined at 1473 K in air) was ﬁlled in the crucible and heated
+in vacuum at 623 to 773 K overnight. It was then melted in a
+puriﬁed Ar gas atmosphere and held for 3.6 ks with frequent
+stirring. The preelectrolysis with a stainless steel or Ti cath-
+ode rod at 1.0 to 1.3 V was conducted at 1173 K to eliminate
+metallic impurities and water.
+A pure Ti net (No. 100 mesh) or a SUS304 stainless steel net
+(No. 250 mesh) was used for the cathode material. It was dou-
+bly wound like cylinder (6 to 8 mm i.d. and about 150 mm in
+length) and tightened by thin Ti wires. The bottom was sealed
+by a Ti block. About 0.5 to 3 g granular TiO2 (>99 pct, anatase,
+Fig. 5—Experimental setup for TiO2 reduction.
+primary particle size <1 µm) was ﬁlled in this basket-type
+cathode. The size of the aggregates was about 200 to 800 µm,
+so that 91.9 pct of them were larger than the No. 100 mesh. The
+basket-type cathode was connected to a stainless steel pipe
+(6 or 8 mm o.d.) and a lead to the power supply.
+After pre-electrolysis, the basket-type cathode was im-
+mersed in the salt (about 30 to 50 mm in depth) and held at
+30 mm above the bottom at 1173 ± 5 K in Ar gas. A direct
+current was supplied under a constant voltage. The applied
+voltage between the two electrodes was measured just out-
+side the vessel. Ar gas was blown to the melt surface through
+the pipe for the cathodic lead. The evolving gas was trapped
+in an aqueous solution containing Ca(OH)2 or AgNO3 to de-
+tect CO2 or Cl2 gas, respectively. 
+After electrolysis, the cathode was taken out of the melt
+and cooled in Ar gas at the upper part of the furnace. The so-
+lidiﬁed salt in the basket-type cathode was leached in the
+ﬂow of drinking water, with cooling below 283 K.[7] The
+black Ti powder was subsequently rinsed with dilute HCl (or
+acetic acid), distilled water, and alcohol, in that order, and
+then dried in vacuum for analysis. The obtained powder
+was identiﬁed by X-ray diffraction (XRD) measurement.
+The oxygen concentration was analyzed by an inert gas
+fusion–infrared absorption method. The morphology was ob-
+served using scanning electron microscopy (SEM) equipped
+with an energy-dispersive X-ray (EDX) analyzer.
+IV. RESULTS AND DISCUSSIONS 
+A. Electrolysis and Reduction above 3.3 V
+During electrolysis above 3.3 V at 1173 K (the decompo-
+sition voltage of CaCl2 is 3.213 V[9]), a faint amount of CO2
+gas evolution was detected in addition to a large amount of
+Cl2 gas, as listed in Table II. The O2 and CO gases were not
+analyzed.
+Figure 6 shows the current change during electrolysis. In
+the early stage (<2 ks), the current dropped rapidly to half of
+the initial value and then increased gradually. Because of the
+drop of the bath resistance, the voltage between the elec-
+trodes increased slightly during electrolysis, as listed in
+Table II. The current density was 0.4 to 0.8 × 104 A /m2 for
+the cathode net area. A small amount of hydrogen gas bub-
+bles were released at all the parts of solidiﬁed salt when the
+salt dissolved in water. It may prove the precipitation of Ca
+during cooling. The bulk Ca was never found in the basket-
+type cathode. It is believed that calcium formed by electrol-
+ysis dissolved as Ca into the salt. 
+The sample obtained in the Ti cathode was black and
+slightly sintered, when it contained α-Ti phase. Figure 7
+shows SEM images of the obtained powders, which con-
+sisted of α-Ti single phase. The formation of twin structures
+due to the high oxygen concentration was observed on the
+particle surface. A lower Ti oxide, TiO0.325, was also de-
+tected by XRD in the case of short-term electrolysis, al-
+though this suboxide is not stable at the operating tempera-
+ture.[10] We judged that the stable phase at 1173 K (α-Ti)
+transformed to TiO0.325 during cooling, because the oxygen
+solubility in α-Ti is about 31.9 mol pct. 
+The analyzed oxygen concentration was relatively high,
+even when the samples were α-Ti single phase (runs c-1 and
+c-2). Considering that the reduction by a sufﬁcient amount of
+Ca could produce α-Ti with 1000 mass ppm O in only 3.6 ks
+290—VOLUME 34B, JUNE 2003
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+02-425B-D.qxd  5/19/03  5:51 PM  Page 291
+Table II. Experimental Conditions and Results Using Ti Basket-Type Cathode
+Molten Salt
+Run
+(mol pct)
+c-1
+CaCl2
+c-2
+CaCl2
+c-3
+CaCl2
+d-1
+15 pct CaO
+d-2
+15 pct CaO
+d-3
+15 pct CaO
+d-4
+15 pct CaO
+d-5
+15 pct CaO
+e-1
+1 pct CaO
+e-2
+1 pct CaO
+f-1
+0.5 pct CaO
+f-2
+0.5 pct CaO
+g-1
+CaCl2
+g-2
+CaCl2
+—not measured. 
+Voltage
+(V)
+3.5 to 3.8
+3.4 to 3.7
+3.5 to 3.7
+2.6 to 2.8
+2.3 to 2.9
+2.6 to 2.9
+2.6 to 2.8
+2.6 to 2.8
+2.5 to 2.8
+2.6 to 2.8
+2.6 to 2.9
+2.7 to 2.9
+2.6 to 2.8
+2.6 to 2.9
+Detected
+Gas
+Cl2, (CO2)
+Cl2, (CO2)
+—
+CO2
+—
+—
+CO2
+CO2
+CO2
+CO2
+CO2
+CO2
+CO2
+CO2
+Time
+(ks) 
+10.8
+3.6
+1.8
+10.8
+10.8
+10.8
+3.6
+1.8
+10.8
+3.6
+10.8
+3.6
+10.8
+3.6 
+Total
+Charge
+(C)
+53 598
+17 688
+10 443
+54 126
+54 000
+69 396
+23 055
+10 800
+40 194
+14 931
+36 978
+10 704
+25 374
+5 439
+Phases
+Identiﬁed by
+XRD
+α-Ti
+α-Ti
+α-Ti, TiO0.325
+α-Ti, TiO0.325
+α-Ti, TiO?
+TiO0.325
+TiO0.325
+TiO0.325
+Ti6O, TiO
+TiO0.325, TiO
+α-Ti
+α-Ti, TiO0.325
+α-Ti
+α-Ti, TiO0.325
+Oxygen
+Concentration
+(Mass ppm)
+6 860
+38 000
+—
+—
+—
+—
+—
+—
+6 190
+—
+2 000
+—
+—
+—
+Current
+Efﬁciency
+(pct)
+8.8
+25.5
+—
+—
+—
+—
+—
+—
+11.8
+—
+12.9
+—
+—
+—
+Fig. 6—Change of current during electrolysis under a constant voltage
+above 3.3 V. Pure CaCl2 was used as listed in Table II.
+Fig. 7—SEM images of α-Ti: (a) run c-1 and (b) run c-2.
+at the same temperature,[7] the reduction rate of TiO2 in this
+experimental cell, i.e., the effective forming rate of Ca, was
+not so fast as the Ca reduction rate. When we deﬁne the cur-
+rent efﬁciency as the ratio of (the necessary charge to attain
+the analyzed oxygen level)/(the applied charge during elec-
+trolysis), it is evaluated to be 8.8 and 25.5 pct for the samples
+for 10.6 and for 3.6 ks, respectively (Table II). Parts of the
+applied charge were consumed for the ohmic heat in the elec-
+tric leads and bath and for the formation of inefﬁcient Ca.
+The excess Ca was recombined with Cl2 gas,
+In the bath: Ca + Cl2 (gas) = CaCl2
+or reacted with carbon oxides. The details of the parasitic re-
+actions and current efﬁciency are discussed in Section IV–D. 
+[12] 
+B. Electrolysis and Reduction Below 3.0 V
+During electrolysis below 3.0 V (lower than the decompo-
+sition voltage of CaCl2) and above 2.0 V, only CO2 gas evo-
+lution was observed, as listed in Table II. Figure 8 shows the
+current change during electrolysis at 1173 K. The current
+generally dropped at the beginning of electrolysis, then in-
+creased gradually. The higher the concentration of CaO that
+was used, the larger the current was, under the same experi-
+mental geometry and the same applied voltage (refer to the
+“total charge” in Table II). A larger amount of Ca was ex-
+pected to reduce TiO2 more effectively. However, α-Ti sin-
+gle phases could be obtained after 10.8 ks, only with the salts
+with a lower concentration of CaO. When 15 mol pct CaO
+was used, lower oxides such as TiO0.325 or Ti6O were mixed
+with α-Ti even after 10.8 ks. 
+Figure 9 shows the morphology of α-Ti single phases.
+Grain sizes were similar to the case of CaCl2 electrolysis (Fig-
+ure 7). A twin structure was never observed in sample f-1,
+which achieved the minimum oxygen concentration, 2000
+ppm O. In the case of short-term electrolysis, lower Ti oxides
+existed independently from α-Ti particles. A part of the ob-
+tained powder was α-Ti single phase (Figure 10(a)), but an-
+other part in the same specimen was TiO0.325 single phase
+(Figure 10(b)). The former was characterized by its coarser
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 34B, JUNE 2003—291
+02-425B-D.qxd  5/19/03  5:51 PM  Page 292
+Fig. 8—Change of current during electrolysis under a constant voltage
+below 3.0 V.
+Fig. 9—SEM images of α-Ti: (a) run e-1 and (b) run f-1.
+grains than the latter and by the sintered form. When the pow-
+der was identiﬁed as TiO0.325 or Ti6O, all the particles were
+well isolated and smaller in size. The inhomogeneous reduc-
+tion in the same sample reﬂects the inhomogeneous distribu-
+tion of Ca and CaO contents inside the basket-type cathode.
+Axler and DePoorter[38] reported that Ca solubility in
+CaCl2 decreased with the addition of CaO, and that the Ca
+supply into the CaCl2-CaO melt became slow at >5 mol pct
+CaO. The slow dissolution of Ca and CaO leads to a higher
+oxygen concentration in Ti and the local inhomogeneity of
+oxygen, when the CaO content in the salt is higher.
+In the case of pure CaCl2, TiO2 was reduced to the lower
+oxide, TiO0.325, but α-Ti was not obtained after 10.8 ks of
+electrolysis. This is because the charge was limited in the
+electrolysis under a constant voltage. Once a small amount
+of CaO by the reduction of TiO2 was served in the CaCl2
+melt, Ca would be produced by Eqs. [4] through [7], and it
+could reduce TiO2 subsequently. However, the total supplied
+charge was much smaller than that in the system containing
+CaO initially.
+A quick reduction by Ca produces a region of high CaO con-
+centration, while it hinders the successive dissolution of CaO
+from the reduced Ti particles and results in the inhomogeneous
+Fig. 10—SEM images of sample e-2, which was obtained in 1 mol pct
+CaO-CaCl2 by appling 2.7 V for 3.6 ks at 1173 K: (a) α-Ti and (b) TiO0.325.
+deoxidation. A lesser amount of CaO does not form enough
+Ca for reduction. Therefore, it is essential for this process in a
+single bath to keep a good rate balance among three steps; the
+thermochemical reduction of TiO2, the dissolution of CaO,
+and the electrochemical decomposition of CaO.
+C. Electrolysis using Stainless Steel 
+Table III shows the results when a stainless steel basket-
+type cathode was used as an alternative to the Ti net. The
+current behaviors were similar to those shown in Figure 8.
+The obtained black powders were commonly identiﬁed as a
+mixture of α-Ti, TiC, and a small amount of α-Fe. TiO, TiN,
+or TiC were identiﬁed by XRD, because they have the same
+crystal structure and similar lattice parameters. Because
+EDX analysis could not ﬁnd any trace of oxygen or nitrogen,
+TiC formation was accepted. The origin of carbon is dis-
+cussed in Section IV–D.
+The EDX analysis showed that some α-Ti particles were
+heavily contaminated by Fe and Ni. This is due to physical
+contact between the formed Ti and the surrounding stainless
+steel net. It was conﬁrmed by the fact that some pieces of
+pure Ti wire were also contaminated when they were im-
+mersed in the stainless steel basket for 10.8 ks. Particles of
+α-Fe were sometimes found. They might come from the cor-
+rosion product formed before immersing the steel net, by the
+fume of CaCl2, or from residual amounts of HCl.
+D. Carbon Precipitation 
+The problem encountered mainly in CaO electrolysis was
+carbon precipitation. Carbon dust was observed in the upper
+part of the bath and froze as a crust layer about 5 mm thick, in
+the worst case. The black layer consisted mainly of amor-
+phous carbon and the salt components. Ca(OH)2 and CaCO3
+were often found by XRD. They might be formed with the re-
+action with CaO, moisture, and CO2 gas in air before the XRD
+measurement. CaC2 was never found by XRD. The amount of
+carbon precipitates during CaO electrolysis was much more
+than that of CaCl2 electrolysis and was related to neither elec-
+trolysis time nor total charge. The cell arrangement, such as
+the distance between electrodes, affected more strongly the
+carbon precipitation. The gradual increase of current in Fig-
+ures 6 and 8 may reﬂect this reaction related with carbon.
+292—VOLUME 34B, JUNE 2003
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+02-425B-D.qxd  5/19/03  5:51 PM  Page 293
+Table III. Experimental Conditions and Results at 1173 K Using the Basket-Type Cathode
+Consisting of Stainless Steel SUS304
+Run
+a-1
+b-1
+b-2
+b-3
+Molten Salt
+(mol pct)
+CaCl2
+15 pct CaO
+15 pct CaO
+15 pct CaO
+Voltage (V)
+3.5 to 3.8
+2.6 to 2.7
+2.3 to 2.4
+2.7 to 2.8
+Detected Gas
+CO2, Cl2
+CO2
+CO2
+CO2
+Time (ks)
+10.8
+10.8
+10.8
+10.8
+Phases Identiﬁed
+by XRD
+α-Ti, TiC, α-Fe
+α-Ti, TiC, α-Fe
+α-Ti, TiC, α-Fe
+α-Ti, TiC
+The carbon precipitates penetrated into the basket-type
+cathode and contaminated the Ti powder. The surface of
+the Ti basket reacted partially with carbon, not with the
+stainless steel basket. This TiC formation from the Ti basket
+protected the Ti powder inside the cathode from carbon
+contamination. 
+Carbon can be formed by the mechanism shown in
+Eqs. [8] and [9], mentioned in Section II–C. Another mech-
+anism is the following: 
+Near the anode: O2− + CO2 (gas) = CO3
+[13]
+In the bath: 3 Ca + CO3
+2− = C + 3Ca2+ + 3O2− + 2e
+[14] 
+2−
+−
+The amount of carbon precipitation by Eq. [14] may be more
+signiﬁcant at a high CaO concentration or at a high forming
+rate of CaO in reduction, because the solubility of CO2 gas
+becomes higher.[54] Because the dependency of C precipita-
+tion on CaO content was not clear in this study, the latter
+mechanism was still uncertain. However, the occurrence of
+these parasitic reactions consumes a large amount of Ca, and
+it signiﬁcantly decreases the current efﬁciency. 
+Ferro et al. proposed the use of a porous MgO diaphragm
+in order to separate CO/CO2 gas from Ca.[39,40,41] By analyz-
+ing the cell behavior and gas bubbling, we believe that the
+cell design is a key to solving the matter. In Figure 3, the
+cathode itself plays a kind of wall to separate the anodic re-
+gion and cathodic region. The ﬂow of the gas bubbles along
+the anode should be controlled more precisely to avoid the
+parasitic reactions.[4,5,6] Another solution is the control of
+CaO concentration, as given in section IV–E.
+E. Comparison between Electrolysis above and below 3.2 V
+CaCl2 electrolysis requires about a two-times-higher volt-
+age (E) than CaO electrolysis, and the total charge for Cl2
+evolution was larger than that for CO/CO2 evolution, as
+listed in Table II. The reduction was completed within 3.6 ks
+in CaCl2 electrolysis. However, the oxygen concentration in
+Ti and the current efﬁciency were better in the case of CaO
+electrolysis. In our experimental conditions, the amount of
+O2−
+coming from TiO2 was not so large: the increment of
+CaO concentration was evaluated to be only 1.0 to 1.5 mol
+pct CaO, even if we assume that the formed CaO was not
+electrolyzed. This small increase, therefore, does not change
+the deoxidation rate from α-Ti.
+The low current efﬁciency shows that a large amount of
+Ca was consumed for the back-reaction [12] (>3.2 V) and
+for reactions [8], [9], and [14] (<3.2 V). The higher quantity
+of CaO can produce the larger amount of Ca; however, the
+excess of Ca is consumed by these back- and parasitic reac-
+tions. At a lower concentration of CaO, a lesser amount of
+Ca is formed per unit time. It reacts more effectively with
+TiO2 powder located near the cathode. A low CaO concen-
+tration is suitable for deoxidation, as shown in Eq. [10], and
+decreases the possible formation of CO3
+.
+2−
+F. Comparison with Previous Works 
+[16] 
+[15]
+Some other trials were reported to produce Ti electro-
+chemically from TiO2 in CaCl2. Because TiO2 is insoluble in
+the molten salt, the dissolution of TiO or CaTiO3 into CaCl2
+was used.[55,56] Oki and Inoue connected a cathode wire di-
+rectly to TiO2 in CaCl2 and reported the formation of Ti.[57]
+Recently, Chen et al. explained it as a simple mechanism of
+a direct electrolysis of cathodic TiO2.[58,59,60]
+At the cathode: TiO2 + 2e = Ti + O2−
+At the anode: 2O2− = O2 (gas) + 2e
+where the role of anions was not considered. The compari-
+son between this FFC (Fray-Farthing-Chen) process and our
+proposal is illustrated in Figure 11. Although its operating
+mechanisms are different, the bath, carbon anode, and ap-
+plied voltage are apparently similar. The FFC process uses
+the sintered pellets of TiO2 as the cathode, and the oxygen
+diffusion in cathodic Ti plate is required. 
+We believe that Ca ions play a certain role in reactions,
+ﬁrst, because CaTiO3 was sometimes formed. Second, at the
+applied voltage in the FFC process, Ca from CaO can pre-
+cipitate on the surface of the TiO2−x cathode. If the evolved
+oxygen gas in Eq. [13] reacts with the anodic carbon to form
+CO/CO2 gas, the total reactions in the FFC process and our
+proposal become the same reaction, shown in Eq. [11].
+Our process does not need a direct electrical contact be-
+tween TiO2 and the cathodic lead, and TiO2 can be fed in
+powder form, which is suitable for oxygen removal because
+there is no requirement of oxygen diffusion in a long dis-
+tance. A short-term reduction and deoxidation can be possi-
+ble using our principle. 
+G. Veriﬁcation of Calciothermic Reduction 
+A preliminary experiment showed that Ca worked in our
+cell: TiO2 was ﬁlled in a small Y2O3 crucible and placed in-
+side the Ti basket-type cathode. Because Y2O3 is an elec-
+tronic insulator and thermodynamically more stable than
+CaO, the TiO2 powder was electronically isolated from the
+cathodic lead. After holding for 10.8 ks at 1173 K, the pow-
+der at the upper part of the Y2O3 crucible changed to α-Ti,
+TiO, Ti2O3, and CaTiO3, although TiO2 at the bottom of
+the crucible remained unchanged. This fact could not be
+explained by the FFC mechanism. Simultaneously, the inho-
+mogeneity in this Y2O3 crucible proved that a uniform
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 34B, JUNE 2003—293
+02-425B-D.qxd  5/19/03  5:51 PM  Page 294
+Fig. 11—Comparison of the mechanism in (a) FFC process[58,59,60] and (b) our proposal.
+(a)
+(b)
+dispersion of TiO2 powder in CaCl2 or the exposure of TiO2
+to CaCl2 is a technical key to obtain good homogeneity.
+V. CONCLUSIONS 
+A concept was proposed that Ti granular sponge could be
+produced directly from TiO2 powder, by combining both the
+calciothermic reduction and the in-situ electrolysis of CaO
+in the CaO-CaCl2 bath, as shown in Figure 3. Theoretical
+and technical requirements for this concept were described
+in detail, and the potential to obtain a Ti powder suitable for
+an industrial oxygen level was analyzed, based on the previ-
+ous studies.
+Experimentally, the concept was tested using the basket-
+type cathode, in which TiO2 was ﬁlled. The reduction of
+TiO2 per unit time was superior in the electrolysis of Cl2 gas
+evolution (E > 3.2 V at 1173 K), while the residual oxygen
+level in Ti was better in the electrolysis of CO/CO2 gas evo-
+lution (E < 3.2 V). A level of 2000 ppm oxygen in α-Ti was
+achieved within 10.8 ks using the 0.5 to 1 mol pct CaO-
+CaCl2 melt. 
+Parasitic reactions such as carbon precipitation and the
+back-reaction lowered the current efﬁciency to 8 to 25 pct.
+These reactions will be minimized by the modiﬁcation of
+cell design and by a good rate balance among three steps: the
+calciothermic reduction of TiO2, the dissolution of CaO, and
+the electrochemical decomposition of CaO. 
+ACKNOWLEDGMENTS 
+The authors thank Mr. T. Unesaki for SEM-EDX analysis,
+Mr. S. Fukui for experimental assistance, and Mr. P.Y. Gear
+for statements on the manuscript. This work was ﬁnancially
+supported in part by the Japan Titanium Society, Sumitomo
+Titanium Co. Ltd., Toho Titanium Co. Ltd., Nippon Light
+Metals Ltd., and Grants-in-Aid for Scientiﬁc Research under
+Contract No. 14205109. 
+REFERENCES
+1. W. Kroll: Trans. Electrochem. Soc., 1940, vol. 78, pp. 35–47. 
+2. K. Ono: Titanium Jpn., 2000, vol. 48 (1), pp. 13–15. 
+3. K. Ono and R.O. Suzuki: Proc. Symp. on Emerging Technologies for
+Metals Extraction, EPD Congr. 2001, 2001 TMS Annual Meeting, New
+Orleans, LA, P.R. Taylor, ed., TMS, Warrendale, PA, 2001, pp. 79–88.
+4. K. Ono and R.O. Suzuki: Mater. Jpn., 2002, vol. 41 (1), pp. 28–31. 
+5. K. Ono and R.O. Suzuki: JOM Mem. J. Min. Met. Mater. Soc., 2002,
+vol. 54 (2), pp. 59–61. 
+6. K. Ono and R.O. Suzuki: Titanium Jpn., 2002, vol. 50 (2), pp. 105–08. 
+7. R.O. Suzuki and S. Inoue: Metall. Mater. Trans. B, 2003, vol. 34B,
+pp. 277–85. 
+8. R.O. Suzuki and K. Ono: Proc. 13th Int. Symp. on Molten Salt, H.C.
+Delong, R.W. Bradshaw, M. Matsunaga, G.R. Stafford, and P.C.
+Trulove, eds., The Electrochemical Society, Penningston, NJ, 2002,
+pp. 810–21.
+9. A. Roine: HSC Chemistry for Windows, ver. 4.1, Outokump Research
+Oy, Pori, Finland, 2000.
+10. H. Okamoto: Desk Handbook Phase Diagrams for Binary Alloys, ASM
+INTERNATIONAL, Materials Park, OH, 2000.
+294—VOLUME 34B, JUNE 2003
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+02-425B-D.qxd  5/19/03  5:51 PM  Page 295
+11. O. Kubaschewski and W.A. Dench: J. Inst. Met., 1953, vol. 82,
+pp. 87–91.
+12. K. Ono, T.H. Okabe, M. Ogawa, and R.O. Suzuki: Tetsu-to-Hagané,
+1990, vol. 76 (4), pp. 568–75.
+13. W. Kroll: Z. Anorg. Allgem. Chem., 1937, vol. 234, pp. 42–50.
+14. S. Miyazaki, T. Oishi, and K. Ono: Proc. 5th. World Conf. on Titanium,
+Munich, Germany, Sept. 10–14, 1984, G. Lütjering, U. Zwicker,
+and W. Bunk, eds., Deutsche Geselschaft für Metallk., Oberursel,
+Germany, 1985, pp. 2657–63.
+15. K. Ono and S. Miyazaki: J. Jpn. Inst. Met., 1985, vol. 49 (10),
+pp. 871–75.
+16. R.O. Suzuki, M. Ogawa, T. Oishi, and K. Ono: Proc. 6th World Conf.
+on Titanium 1988, Cannes, France, 1988, Soc. Franc. Metall., Paris,
+1989, vol. II, pp. 701–06.
+17. T.H. Okabe, R.O. Suzuki, T. Oishi, and K. Ono: Mater: Trans. JIM,
+1991, vol. 32 (5), pp. 485–88.
+18. H. Niiyama, Y. Tajima, F. Tsukihashi, and N. Sano: J. Less-Common
+Met., 1991, vol. 169, pp. 209–16.
+19. I. Obinata, Y. Takeuchi, and S. Saikawa: Trans. ASM, 1960, vol. 52,
+pp. 1072–83.
+20. P.P. Alexander: U.S. Patent 2.038.402, 1936; U.S. Patent 2.043.363,
+1936; and U.S. Patent 2.082.134, 1937. 
+21. B. Neumann, C. Kröger, and H. Jüttner: Z. Elektrochem., 1935,
+vol. 41 (10), pp. 725–36. 
+22. W.D. Threadgill: J. Electrochem. Soc., 1965, vol. 112 (6), pp. 632–33. 
+23. D.A. Wenz, I. Johnson, and R.D. Wolson: J. Chem. Eng. Data, 1969,
+vol. 14 (2), pp. 250–52. 
+24. G.S. Perry and L.G. MacDonald: J. Nucl. Mater., 1985, vol. 130,
+pp. 234–41.
+25. T. Ohshima, R.O. Suzuki, T. Yagura, and K. Ono: Proc. 2000 Powder
+Metallurgy World Congr., Kyoto, Japan, Nov. 13–18, 2000, K. Kosuge
+and H. Nagai, eds., Japan Society Powder and Powder Metallurgy,
+Tokyo, 2001, pp. 532–35. 
+26. W.Z. Wade and T. Wolf: J. Nucl. Sci. Technol., 1969, vol. 6, pp. 402–07.
+27. R.A. Sharma: J. Met., 1987, vol. 2, pp. 33–37.
+28. R.A. Sharma and R.N. Seefruth: J. Electrochem. Soc., 1988, vol. 135
+(1), pp. 66–71.
+29. R.A. Sharma and R.N. Seefruth: Metall. Trans. B, 1989, vol. 20B (6),
+pp. 805–13. 
+30. Metals Databook, Japan Institute of Metals ed., 2nd ed., Maruzen,
+Tokyo, 1984, pp. 9, 15, 34, and 68. 
+31. Y.S. Touloukian, R.K. Kirby, R.E. Taylor, and T.Y.R. Lee: Thermal
+Expansion, Nonmetallic Solid, IFI/Plenum, New York, NY, 1977,
+pp. 49 and 392–97.
+32. D.T. Peterson and J.A. Hinkebein: J. Phys. Chem., 1959, vol. 63,
+pp. 1360–63.
+33. R.A. Sharma: J. Phys. Chem., 1970, vol. 74 (22), pp. 3896–900. 
+34. V. Dosaj, C. Aksaranan, and D.R. Morris: J. Chem. Soc. Faraday
+Trans., 1975, vol. 71, pp. 1083–98.
+35. H. Fischbach: Steel Res., 1985, vol. 56 (7), pp. 365–68. 
+36. L.-I. Staffansson and D. Sichen: Scand. J. Metall., 1992, vol. 21,
+pp. 165–71.
+37. A.I. Zaitsev and B.M. Mogutnov: Metall. Mater. Trans., B, 2001,
+vol. 32B, pp. 305–11. 
+38. K.M. Axler and G.L. DePoorter: Mater. Sci. Forum, 1991, vol. 73–75,
+pp. 19–24. 
+39. P.D. Ferro, B. Mishra, D.L. Olson, and W.A. Averill: Waste Manage-
+ment, 1997, vol. 17, pp. 451–61. 
+40. P.D. Ferro, B. Mishra, D.L. Olson, and W.A. Averill: Trans. Ind. Inst.
+Met., 1998, vol. 51, pp. 69–77. 
+41. P.D. Ferro, B. Mishra, and W.A. Averill: in Light Metals 1991, E.L.
+Rooy, ed., TMS, Warrendale, PA, 1990, pp. 1197–1203. 
+42. G.J. Kipouros and R.A. Sharma: J. Electrochem. Soc., 1990, vol. 137,
+pp. 3333–38. 
+43. M. Kunitomi: J. Chem. Soc. Jpn., Pure Chem. Sec., 1950, vol. 71,
+pp. 40–43. 
+44. R. Lorenz: Trans. Am. Electrochem. Soc., 1904, vol. 6, pp. 160–61. 
+45. H.-H. Emons and D. Richter: Z. Anorg. Allg. Chem., 1965, vol. 339,
+pp. 91–98.
+46. A.S. Dworkin, H.R. Bronstein, and M.A. Bredig: J. Phys. Chem.,
+1966, vol. 70 (7), pp. 2384–88. 
+47. T.H. Okabe, R.O. Suzuki, T. Oishi, and K. Ono: Tetsu-to-Hagané,
+1991, vol. 77 (1), pp. 93–99.
+48. T.H. Okabe, T. Oishi, and K. Ono: J. Alloys Compounds, 1992,
+vol. 184, pp. 43–56. 
+49. T.H. Okabe, M. Nakamura, T. Ueki, T. Oishi, and K. Ono: Bull. Jpn.
+Inst. Met., 1992, vol. 31 (4), pp. 315–17.
+50. T.H. Okabe, T.N. Deura, T. Oishi, K. Ono, and D.R. Sadoway: J. Alloys
+Compounds, 1996, vol. 237, pp. 150–54.
+51. R.O. Suzuki, M. Aizawa, and K. Ono: J. Alloys Compounds, 1999,
+vol. 288, pp. 173–82. 
+52. T.H. Okabe, M. Nakamura, T. Oishi, and K. Ono: Metall. Trans. B,
+1993, vol. 24B, pp. 449–56. 
+53. K. Hirota, T.H. Okabe, F. Saito, Y. Waseda, and K.T. Jacob: J. Alloys
+Compounds, 1999, vol. 282, pp. 101–08. 
+54. M. Maeda and A. McLean: ISS Trans., 1987, vol. 8, pp. 23–27. 
+55. M.E. Sibert, Q.H. McKenna, M.A. Steinberg, and E. Wainer: J. Elec-
+trochem. Soc., 1955, vol. 102 (5), pp. 252–62. 
+56. S. Takeuchi and O. Watanabe: J. Jpn. Inst. Met., 1964, vol. 28 (9),
+pp. 549–54. 
+57. T. Oki and H. Inoue: Mem. Fac. Eng., Nagoya Univ., 1967, vol. 19 (1),
+pp. 164–66. 
+58. G.Z. Chen, D.J. Fray, and T.W. Farthing: Nature, 2000, vol. 407,
+pp. 361–64. 
+59. G.Z. Chen, D.J. Fray, and T.W. Farthing: Metall. Mater. Trans. B, 2001,
+vol. 32B (6), pp. 1041–52. 
+60. D.J. Fray: JOM Mem. J. Min. Met. Mater. Soc., 2001, vol. 53 (10),
+pp. 26–31. 
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 34B, JUNE 2003—295

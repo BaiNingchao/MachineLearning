@@ -1,0 +1,848 @@
+(cid:84)(cid:105)(cid:116)(cid:97)(cid:110)(cid:105)(cid:117)(cid:109) (cid:80)(cid:111)(cid:119)(cid:100)(cid:101)(cid:114) (cid:80)(cid:114)(cid:101)(cid:112)(cid:97)(cid:114)(cid:101)(cid:100) (cid:98)(cid:121) (cid:77)(cid:97)(cid:103)(cid:110)(cid:101)(cid:115)(cid:105)(cid:111)(cid:116)(cid:104)(cid:101)(cid:114)(cid:109)(cid:105)(cid:99) (cid:82)(cid:101)(cid:100)(cid:117)(cid:99)(cid:116)(cid:105)(cid:111)(cid:110)
+(cid:111)(cid:102) (cid:84)(cid:105)(cid:50)⫹ (cid:105)(cid:110) (cid:77)(cid:111)(cid:108)(cid:116)(cid:101)(cid:110) (cid:83)(cid:97)(cid:108)(cid:116)
+RYOSUKE O. SUZUKI, TAKUYA N. HARADA, TOMOYA MATSUNAGA,
+TETSUSHI N. DEURA, and KATSUTOSHI ONO
+A process to produce titanium powder from Ti2⫹ in the molten salt was confirmed experimentally.
+It consists of two steps. In the first step, titanium (IV) chloride gas dissolves in the molten salt as
+the titanium (II) chloride by reacting chemically with the metallic titanium or magnesium. In the
+second step, this molten salt is exposed to the metallic reductant Mg for the final reduction to the
+metallic Ti powder. Experimentally, the feed of TiCl4 gas and the subsequent reaction with Ti prepared
+the molten salt containing 5 to 10 mass pct Ti2⫹. By Mg reduction of this salt, the well-isolated
+fine Ti particles were recovered. The powder morphology and particle size depended on the Ti2⫹
+concentration, reduction temperature, time, and concentration of the by-product MgCl2. The stirring
+by argon gas bubbling effectively grew the fine and round particles to a few tens of microns in size.
+I.
+INTRODUCTION
+SOME new production processes such as hydride-
+dehydride (HDH), gas atomizing, and plasma rotating elec-
+trode process (PREP) are applied for the preparation of
+titanium powder suitable to powder metallurgy.[1] However,
+these processes do not satisfy the reasonable price, funda-
+mentally because they need the precast Ti ingot or compact
+as the starting material. To exclude the extra cost for ingot
+making, a specialized powder produced directly from its
+chloride looks promising.[2]
+TiCl4 is an indispensable intermediate compound for tita-
+nium metal production, and it has been used as common
+base material in the established titanium industries. In a
+modification of the conventional Hunter process (sodium
+reduction of TiCl4), a method has been industrially applied,
+where TiCl4 was dissolved as TiCl2 in the molten salt (main
+constitution is NaCl) after the weak sodium reduction.[3,4]
+When subsequent reduction by sodium is applied to the
+molten salt, the slightly sintered titanium called “sponge
+fine” powder is produced after the mechanical crashing.
+This powder is commercially supplied to powder metallurgy.
+When sodium is used as the reductant, however, there are
+some technical and economical problems in the handling of
+metallic sodium, NaCl removal, and sodium recycling by
+electrolysis of NaCl.[3] In the magnesium reduction (Kroll
+process), the electrolysis of its by-product, MgCl2, has been
+developed more efficiently and becomes economical by the
+improved operating techniques and modernized facilities.
+Considering the industrial backgrounds surrounding the
+Kroll process, we expect that the electrolysis of MgCl2 will
+RYOSUKE O. SUZUKI, Associate Professor, TOMOYA MATSUNAGA,
+Graduate Student, and KATSUTOSHI ONO, Professor, are with the Depart-
+ment of Energy Science and Technology, Graduate School of Energy Sci-
+ence, Kyoto University, Kyoto 606-8501, Japan. TAKUYA N. HARADA,
+formerly Undergraduate Student, Faculty of Engineering, Kyoto University,
+Kyoto, is Graduate Student, Department of Fundamental Energy Science,
+Graduate School of Energy Science, Kyoto University, Uji 611-0011, Japan.
+TETSUSHI N. DEURA, formerly Postdoctoral Fellow, Department of
+Energy Science and Technology, Graduate School of Energy Science, Kyoto
+University, Kyoto, is Scienific Staff with KOBE Steel, Ltd., Kobe 651-
+2271, Japan.
+Manuscript submitted August 6, 1998.
+be available, when we can reduce Ti2⫹ in the molten salt
+using not Na but Mg.
+In the Kroll process, TiCl4 is fed to the top surface of the
+molten Mg, as illustrated in Figure 1(a). However, it could
+not produce the Ti powder. Its product was heavily sintered
+as “sponge” titanium.
+Recently, the authors proposed an alternative titanium
+production process, as shown in Figure 1(b), where the Mg
+melt floated on the heavier molten MgCl2.[2] When the gas-
+eous TiCl4 was fed from the bottom of the molten Mg,
+metallic Ti powder could be successfully produced from
+TiCl4 in the Mg layer. The particles settled through the
+molten MgCl2 did not sinter as firmly as the Kroll sponge
+and were easily pulverized.[2] The obtained powder was well
+isolated and about 1 to 10 ␮m in size. Because the solubilities
+of TiCl4 in the chloride salts are only a few mass pct, as
+listed in Table I, a large amount of the supplied TiCl4 could
+not dissolve in the salt, and should be reduced in the molten
+Mg layer.
+Table I shows that the solubilities of Ti3⫹ and Ti2⫹ are
+generally larger than that of Ti4⫹. Using the lower chlorides
+such as TiCl3 and TiCl2, we can expect the higher total
+concentration of Ti ions in the salt.
+The purpose of this article is to develop the method spe-
+cialized for the isolated particle production of Ti using Mg,
+Ti2⫹, and the molten salt as the solvent. Here, some basic
+experimental evidence in laboratory scale is shown under
+this concept to consider the technical aspects for indus-
+trial application.
+II. CONCEPT OF TWO-STEP PRODUCTION
+Our concept for Ti powder preparation using magnesium
+as the reductant is illustrated in Figure 1(c). It consists of
+the two steps.
+In the first step, TiCl4 is fed and dissolved into the molten
+salt. Both TiCl4 molecules and Ti4⫹ react with Mg, where
+a half amount of Mg required for the complete reduction of
+Ti4⫹ to Ti is consumed for Ti2⫹ formation as follows.
+TiCl4 ⫹ Mg ⫽ TiCl2 ⫹ MgCl2
+[1]
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 30B, JUNE 1999— 403
+instead of the industrial reactions [1] and [2]. The Ti2⫹ is
+in a more stable oxidation state than Ti3⫹ when they coexist
+with metallic Ti in the molten chlorides.[16,17,18]
+Figure 2 shows the conceptual view of Ti production using
+Eq. [3]. By feeding TiCl4 gas into the prepared molten salt
+containing Ti powder, the titanium (IV) chloride dissolves
+as the lower oxidation state of Ti such as Ti2⫹. Thus, obtained
+molten salt will be served for the next step.
+The subsequent Mg reduction shown in Eq. [4] causes
+the nucleation in the salt:
+TiCl2 (in salt) ⫹ Mg (liquid)
+⫽ Ti ⫹ MgCl2 (in salt)
+Because of density difference, the reductant Mg floats on
+the molten salt, as shown in Figure 1(c), and the precipitated
+Ti will settle on the bottom of the reaction vessel. In Figure
+2, the Ti product will be extracted and the molten salt con-
+taining Ti can be partially returned as the salt for Reaction
+[3]. The other half of the Ti product will be separated from
+the molten salt as the final product. The distillation and
+electrolysis of MgCl2 will be used for the close circulation
+of Mg when the process is industrially applied.
+This work experimentally studies the feasibility of the
+second step in the laboratory bench to find the applicability
+of magnesiothermic reduction to the lower chlorides and to
+clarify the morphology of Ti precipitates. In spite of the
+concept of continuous production by connecting two steps
+(Figure 2), the individual steps are studied here in the sepa-
+rated experiments.
+[4]
+III. EXPERIMENTAL PROCEDURES
+A. Preparation of Molten Salt
+The molten salts dissolving Ti2⫹ were prepared using the
+experimental apparatus shown in Figure 3. Dehydrated LiCl
+(99.0 pct in purity), KCl (99.5 pct), NaCl (99.5 pct), and
+dehydrated MgCl2 (98.8 pct, ⬍3.0 pct water) were mixed
+in 150 to 200 g. About 8 g “sponge titanium” (99.5 pct)
+was set with the mixed chlorides in the Al2O3 (95.3 pct)
+crucible (40-mm i.d. and 150-mm high). The crucible was
+mounted in the reaction vessel, evacuated at 473 K for 7.2
+ks to dry the molten salt, and heated to 1173 K in Ar gas
+flow. After melting the salt, 99 pct MgO lance (6 mm in
+(a)
+(b)
+(c)
+Fig. 1—Concepts of Ti production by Mg reduction: (a) TiCl4 gas feed
+into molten Mg (Kroll process), (b) TiCl4 gas feed to bottom of Mg layer
+through the molten salt,[2] and (c) combined process with TiCl4 gas feed
+for Ti2⫹ formation and metallic Ti formation from its molten salt (this study).
+The formed TiCl2 and MgCl2 cannot completely mix in a
+homogenous liquid written as MgCl2-50 mol pct TiCl2, because
+the solubility of TiCl2 in MgCl2 is 35 mol pct at 1173 K.[6]
+In the Hunter method, the formed TiCl2 produces the salt
+mixture of NaCl-33 mol pct TiCl2 by the following reaction:
+TiCl4 ⫹ 2Na ⫽ a salt (TiCl2 ⫹ 2NaCl)
+[2]
+because the solubility of TiCl2 in NaCl is 44 mol pct at 1123
+K and 52 mol pct at 1173 K.[10]
+In our case, the additional amount of molten salt is needed
+as the solvent of Ti2⫹. This means that TiCl4 is fed into the
+mixture consisting of the molten salt and the reductant Mg.
+This salt needs some requirements: a thermodynamic stabil-
+ity against both Mg and Ti, a large solubility of Mg and Ti
+ions, and a fast dissolution of TiCl4.[2] The alkaline and
+alkaline-earth chlorides are studied here.
+Because of the difference of specific gravity between Mg
+and the molten salt, the lighter Mg floats above the heavier
+salt.[2] When TiCl4 is fed to the upper surface of the molten
+Mg layer, the spatial arrangement for the reduction becomes
+similar to the Kroll process (Figure 1(a)), and we cannot
+expect the continuos and homogenous reaction in Eq. [1].
+Therefore TiCl4 will be fed from the bottom of the molten
+Mg layer as in the arrangement shown in Figure 1(b).
+The best method suitable to dissolve TiCl2 into the molten
+salt is still not fixed when Mg is used. As another method,
+we can take the reaction as
+TiCl4 ⫹ Ti ⫽ TiCl2 (in the molten salt)
+[3]
+Table I. Solubility of Titanium Chlorides in the Molten Salts
+Molten Salt
+MgCl2
+NaCl
+NaCl-50 mol pct KCl (eutectic composition)
+LiCl-41 mol pct KCl (eutectic composition)
+MgCl2-34.7 mol pct LiCl-24.1 mol pct KCl
+*Extrapolated to 0.1 MPa TiCl4 from reported data.
+**At 1073 K under 88 kPa TiCl4.[8]
+†At 903 K.[12]
+‡At 765 K.[13]
+§At 763 K under 97 kPa TiCl4.[14]
+Melting Point (K)
+987
+1073
+930
+625
+⬍943 [15]
+Solubility at 1173 K (Mass Pct)
+TiCl3
+—
+TiCl4
+1.5 [5]*
+1.2 [7]*
+4.1 [8]**
+5.8 [7]*
+4.8 [13]‡
+3.4 [14]§
+—
+⬎60 [9]
+⬎37 [11]
+—
+—
+TiCl2
+40 [6]
+69 [10]
+35 [12]†
+—
+—
+404—VOLUME 30B, JUNE 1999
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+Fig. 2—Concept of continuous Ti powder production using the recycled
+Ti to produce the molten salt containing Ti2⫹.
+Fig. 3—Schematic illustration of experimental apparatus to prepare the
+molten salt containing Ti2⫹.
+i.d.) was immersed to contact titanium sponge and 25 or 50
+g of TiCl4 liquid (⬎99 pct) was fed at the constant rate of
+3.3 mg/s from the TiCl4 container by the tube pomp. After
+the feed at 1173 K, the reactor was once cooled in the
+furnace under Ar gas atmosphere. The solidified salt was
+taken off from the crucible and its bottom part was mechani-
+cally separated, because the residual Ti sponge was mixed.
+A part of the solidified salt was dissolved in the dilute
+hydrochloric acid aqueous solution, and the titanium concen-
+tration in the salt was analyzed using the inductively coupled
+plasma– atomic emission spectrophotometer (ICP–AES).
+B. Mg Reduction of Molten Salt
+The molten salt thus produced was filled in the Al2O3
+(⬎99.5 pct) crucible (34-mm i.d. and 150-mm high). In the
+same procedure as the salt preparation, the salt mixture
+was again melted under Ar gas flow using the experimental
+Fig. 4—Schematic illustration of experimental apparatus to reduce Ti2⫹ in
+the molten salt.
+apparatus shown in Figure 4. In some experiments, the salts
+were diluted to be 1.43 mass pct Ti with the pure salt con-
+taining no titanium.
+About 20 g Mg (99.9 pct) blocks were quietly charged
+using the Ti rod and melted on the molten salt. The Ar gas
+was bubbled in the salt at the rate of 8.3 ⫻ 10⫺6 m3/s through
+the MgO lance when stirring was needed. After cooling
+in the furnace, the crucible was crashed into pieces for
+macroscopic observation, and the solidified salt was leached
+by water and the dilute acetic acid solution. The powder
+that piled up on the crucible bottom and that which adhered
+to the crucible wall were separately recovered. The magne-
+sium and salt residual in these powders were completely
+removed using ultrasonic cleaning equipment with the dilute
+hydrochloric acid solution. The powder was rinsed in water,
+alcohol, and acetone, in that order.
+After drying, the powder was weighed and observed using
+a scanning electron microscope (SEM) equipped with an
+energy dispersive X-ray (EDX) analyzer. The phases were
+identified by X-ray diffraction (XRD) measurement. The
+impurity aluminum in the reduced powder was analyzed by
+ICP –AES, and the oxygen and nitrogen concentrations were
+analyzed by the inert gas fusion-infrared absorption method.
+IV. RESULTS
+A. Molten Salt Containing Ti2⫹
+The vibration of MgO lance indicated that the supplied
+liquid TiCl4 was evaporated inside the lance (the boiling
+point of TiCl4 is 409 K) and that its bubbles were fed into
+the molten salt. A fairly large amount of TiCl4 gas was
+exhausted out of the vessel during the feed, although its
+quantity could not be measured because of strong reaction
+with the materials for exhaust circuit.
+After solidification, the salts were usually dark green, as
+listed in Table II. A deep red salt was obtained when the
+feeding lance did not arrive at the Ti sponge. Because the
+TiCl3 crystal is reddish violet,[16] such charge was excluded.
+After the experiments, a large amount of Ti sponge was
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 30B, JUNE 1999— 405
+Table II. Titanium Concentration in the Molten Salts after Feeding 25 Grams of TiCl4
+Molten Salt
+(Before Feed)
+MgCl2
+MgCl2
+NaCl
+NaCl-50 mol pct KCl (eutectic composition)
+LiCl-41 mol pct KCl (eutectic composition)
+LiCl-41 mol pct KCl (eutectic composition)
+MgCl2-34.7 mol pct LiCl-24.1 mol pct KCl
+*50 g of TiCl4 were supplied.
+Color
+black green
+dark green
+dark green
+emerald green
+dark green
+dark green
+black green
+Titanium Content,CTi
+(Mass Pct)
+3.48
+10.5*
+4.00
+3.00
+5.70
+10.4*
+2.79
+Yield
+RTiCl2
+0.405
+0.912
+0.738
+0.543
+0.572
+0.827
+0.413
+RTiCl3
+0.627
+1.528
+1.144
+0.836
+0.903
+1.384
+0.634
+consumed. The residual Ti sponge was brittle and easily
+broken into small pieces. Its fine particles dispersed in the
+salt. Considering the wider reaction interface between the
+gaseous TiCl4 and the solid Ti, the fine powder as Ti source
+seems better to ensure a good reactivity. However, this exper-
+imental result implies that the bulky Ti can be applied as
+the starting material.
+The analyzed titanium concentrations, CTi, are listed in
+Table II. No systematic relation between the color of the
+salt and the titanium concentration was found. The CTi
+exceeded the equilibrium solubility of TiCl4 at 1173 K,
+compared with the reported data listed in Table I.
+Because the valancy analysis of titanium in the salt using
+H2 gas evolution[18] did not show the reproducible values,
+the yields were deduced using the analytical values. Assum-
+ing that the dissolved TiCl4 could be perfectly converted
+into TiCl2, the amount of Ti2⫹ supplied from TiCl4 in the
+salt, WTi, is equal to the amount of Ti2⫹ supplied from sponge
+Ti, and it can be calculated in Eq. [5].
+CTi [mass pct] ⫽ 100
+[5]
+⫻
+2 ⭈ WTi
+Msalt ⫹ WTi ⭈ 冢2 ⫹ 4
+冣
+MCl
+MTi
+where Msalt, MTi, and MCl are the mass of the initial salt and
+the atomic weight of Ti and Cl, respectively. The yield
+RTiCl2 is defined as the molar ratio of the thus deduced WTi
+and the amount of the supplied TiCl4, WTiCl4.
+[6]
+⫽ 冢WTi
+MTi
+RTiCl2
+冣冒 冢WTiCl4
+MTiCl4
+冣
+where MTiCl4 is the molecular weight of TiCl4. Similarly, the
+yield RTiCl3 was defined.
+Although a large amount of TiCl4 gas was exhausted out,
+the calculated yield RTiCl3 exceeded unity. Therefore, the
+chemical species dissolved in the salt was judged to be
+mostly at the oxidation state II, namely, Ti2⫹. The exact ratio
+Ti3⫹/Ti2⫹ under the coexistence with TiCl4 and Ti should
+be determined in the further study, for example, from the
+electrochemical analysis.[19] Based on the previous stud-
+ies,[17,18,19] we assume that Ti(II) is the main oxidation state
+when the metallic Ti coexists with its chlorides.[17,18]
+The highest yield RTiCl2 was recorded in the LiCl-KCl
+eutectic salt and the lowest in the MgCl2 single salt. The yield
+might be improved by the technical methods, for example, by
+securing the wider reaction area with TiCl4 bubbles. For this
+work, the amount of charged Ti was limited so that CTi did
+not approach the saturation value, in order that the contami-
+nation of metallic Ti pulverized at the first step should be
+avoided for the morphology observation at the successive
+stage.
+B. Mg Reduction of Molten Salt
+After the Mg reduction of molten salts containing Ti2⫹,
+a fine metallic powder was recovered and identified as ␣-
+Ti single phase by XRD. All salts after solidification were
+white. This indicates that there remained no Ti ions in the
+salt. The fine Ti particles dispersed in the salt disturbed the
+chemical analysis of Ti ions in the solidified salt.
+Although the quantities of Ti powder were only 5 to 20
+g, the yields were calculated to be roughly 85 to 90 pct,
+based on the amount of the used salt and CTi. Note that they
+contained an underestimation because of imperfect powder
+recovery from the crucible.
+Table III summarizes the experimental conditions and the
+powder morphology. No difference was found between the
+powder at the bottom of the alumina crucible and that at
+the crucible wall, although some morphological change was
+reported when an Fe crucible was used.[2,20 – 22]
+1. Effects of stirring and reduction temperature
+Using LiCl-KCl eutectic salt containing 5.7 mass pct Ti,
+the effects of stirring and reduction temperature on morphol-
+ogy were shown in Figure 5. When Ar gas was not bubbled,
+the narrow rods were obtained at 1173 K for 21.6 ks in
+addition to the granular Ti. At 973 K, only the thin rods
+were found, and the round grains were rare. In removing
+the salt, some flakes floated in the acid solution. Their mor-
+phology was dendritic but their volume fraction was very
+small.
+When Ar gas was bubbled, neither rods nor dendrites
+were found, and only the round particles with smooth surface
+were recovered. The diameter of these particles was larger
+at 1173 K. At 973 K, the finer particles of 1 to 5 ␮m
+were aggregated.
+2. Effect of titanium concentration
+Figures 5(c) and 6 show the powder morphology precipi-
+tated from the salts at 1173 K with stirring. The round
+particles were commonly found in the molten salts with
+different Ti concentrations. The particles precipitated from
+the salt containing 1.43 mass pct Ti were smaller than the
+others.
+Even when the titanium content in the salt was diluted,
+406—VOLUME 30B, JUNE 1999
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+Table III.
+Impurity Concentration and Morphology of Titanium Powder
+Experimental Conditions
+Temper-
+Titanium
+ature
+Concentration
+(K)
+(mass pct)
+Number
+1-(1)
+UsedSalt
+LiCl-KCl
+1-(2)
+1-(3)
+1-(4)
+2-(1)
+2-(2)
+2-(3)
+3-(1)
+3-(2)
+4-(1)
+4-(2)
+4-(3)
+4-(31)
+4-(4)
+LiCl-KCl
+LiCl-KCl
+LiCl-KCl
+LiCl-KCl
+LiCl-KCl
+LiCl-KCl
+LiCl-KCl
+LiCl-KCl
+NaCl-KCl
+NaCl
+MgCl2
+MgCl2
+MgCl2-LiCl-KCl
+1173
+973
+1173
+973
+1173
+1173
+1173
+1173
+1173
+1173
+1173
+1173
+1173
+1173
+Time
+(ks)
+21.6
+21.6
+21.6
+21.6
+21.6
+21.6
+21.6
+0.30
+86.4
+21.6
+21.6
+21.6
+21.6
+21.6
+5.70
+5.70
+5.70
+5.70
+1.43
+1.43
+10.4
+5.70
+5.70
+3.00
+4.00
+3.48
+10.5
+2.79
+1.60
+1.94
+1.86
+2.17
+0.39
+0.68
+0.61
+0.32
+none
+bubbling
+bubbling
+none
+Impurity in the Ti Powder
+Ar Gas
+Oxygen
+Nitrogen Aluminum Morphology of the Ti
+Bubbling (Mass Pct) (Mass Pct) (Mass Pct)
+Powder
+none
+2.47
+—
+0.92
+granular (10 to 30 ␮m) and
+rod (20- to 60-␮m long, 5
+to 10 ␮m␾)
+rod (5- to 10-␮m long, 3 to 5
+␮␾) and dendrites
+granular (10 to 30 ␮m)
+granular (1 to 5 ␮m)
+rod (20- to 40-␮m␾long, 5 to
+10 ␮m)
+5.11
+granular (1 to 5 ␮m)
+— granular (5 to 30 ␮m)
+1.46
+granular(⬍1 ␮m)
+2.86
+granular (50 to 100 ␮m)
+1.34
+granular (5 to 30 ␮m)
+1.55
+granular (5 to 30␮m)
+5.87
+granular (1 to 5 ␮m)
+— granular (5 to 30 ␮m)
+granular (5 to 20 ␮m)
+1.02
+bubbling
+bubbling
+bubbling
+bubbling
+bubbling
+bubbling
+bubbling
+bubbling
+bubbling
+3.16
+1.83
+3.40
+3.35
+2.21
+2.23
+—
+2.06
+—
+0.79
+0.41
+—
+—
+0.49
+0.43
+—
+0.36
+—
+0.27
+2.40
+0.55
+3.75
+Fig. 6—SEM images of Ti powder obtained from the LiCl-KCl eutectic
+salts at 1173 K for 21.6 ks. The Ti concentration in the salt was (a) 1.43
+mass pct and (b) 10.4 mass pct Ti.
+stirring, as shown in Figures 5(c) and 7. Under these condi-
+tions, the rodlike powder was not formed. The white color
+of the solidified salt indicated that, surprisingly, the Mg
+reduction had been over for 0.3 ks after Mg melting. Note
+that it took a relatively longer time to cool in the furnace.
+The round particles were finer than 1 ␮m when they formed
+for 0.3 ks. In the prolonged holding time, they were aggre-
+gated and sintered to the larger single particles of 10 to 30
+␮m after 21.6 ks and of ⬎50 ␮m after 86.4 ks.
+4. Effect of salts
+Another four molten salts were studied, as listed in Table
+III, and the morphology of Ti particles is shown in Figure
+8. Powder morphology obtained in the NaCl-KCl eutectic
+salt (Figure 8(c)) was similar to that in LiCl-KCl (Figure
+5(c)), although Ti2⫹ in the Li-containing salt was more stable
+than that in NaCl-KCl.[9] Those in the salts containing MgCl2
+were mixtures of two types: one was the large round particle
+of tens of microns with a smooth surface similar to that in
+Fig. 5—SEM images of Ti powder obtained from the LiCl-KCl eutectic
+salts containing 5 mass pct Ti after treating for 21.6 ks. The Ar gas was
+not introduced (a) at 1173 K and (b) at 973 K, and it was bubbled (c) at
+1173 K and (d ) at 973 K.
+the effect of stirring on powder shape was similar. The
+narrow rods were found when there was no stirring.
+3. Effect of time
+Using the salt containing 5.7 mass pct Ti, the effect of
+holding time on morphology was studied at 1173 K with
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 30B, JUNE 1999— 407
+powder contained 1 to 4 mass pct oxygen, 0.3 to 0.8 mass
+pct nitrogen, and 0.2 to 6 mass pct aluminum. The higher
+aluminum and oxygen contents were recorded in the powder
+when it was treated at higher temperatures or when the
+amounts of produced titanium were smaller. The nitrogen
+concentration did not depend on the reaction conditions.
+Therefore, the sources must be the atmospheric nitrogen and
+impurity nitrogen in Mg.
+In the same charge of the reduction, the same Al concen-
+trations were analyzed by EDX over all the particles with
+different morphologies. The impurity source of Al is there-
+fore judged to be the Al2O3 crucible, because the strong
+reductant Mg can reduce alumina thermodynamically.
+Water in the salt and the atmospheric oxygen may be the
+oxygen sources in addition to Al2O3. This oxygen can react
+with Mg to form MgO. MgO was also used as the lance.
+Under the coexistence of Mg (reductant) and MgO, the
+oxygen concentration in Ti can rise thermodynamically to
+2.0 to 3.0 mass pct at 1173 K.[23,24] The analytical values
+of oxygen may reflect such a thermodynamic saturation
+value. For the commercial application as pure Ti, oxygen
+should be kept at a thousand mass parts per million level.
+The effect of hydrogen and oxygen may be suppressed, by
+using the metallic vessel, by reducing water contamination
+in the initial MgCl2 or by improving the handling of the
+continual operation.
+If we can suppress the undesired dendritic precipitation
+at the iron wall,[2,20 – 22] the steel is applicable for the reactor ’s
+material, because iron does not contaminate titanium as
+heavily as Al2O3, as confirmed in the industrial Kroll
+process.
+V. DISCUSSION
+When the molten salts based on alkaline and alkali-earth
+chlorides are used, the reductant Mg floats on them. The
+Mg solubilities in these molten salts are as small as 0.3 mol
+pct, whereas the Na solubility in NaCl is about 3 mol
+pct.[25,26] In addition to the small solubility, it is reported
+that the dissolution of Mg into the salt was slow.[27]
+When TiCl4 gas fed in the molten LiCl-KCl or NaCl-KCl
+eutectic salt was reduced in one step by Mg, the isolated
+particles larger than 10 ␮m were often the angular polyhedra
+with good crystalline form.[27] Its morphology suggested that
+titanium could nucleate homogeneously in the molten salt.
+However, such morphology was never observed in this study.
+Because Ti3⫹ becomes more stable at low temperatures,[19]
+the oxidation state of titanium may affect nucleation. How-
+ever, once the metallic Ti is formed, the disproportionation
+reaction to form Ti2⫹ occurs[18] and Ti2⫹ becomes the main
+oxidation state.
+Therefore, we assume here that Ti2⫹ in the salt would
+react inhomogeneously only near the interface between mol-
+ten Mg and the molten salt. The product Ti is assumed to
+precipitate gradually as a nodule, as illustrated in Figure 9,
+although the local precipitation mechanism is not clear in
+atomic scale. Under these assumptions, the experimental
+observation of powder morphology will be explained as
+follows.
+When the quiet interface can be kept as illustrated in
+Figure 9(a), the Ti nodules, rods, or dendrites grow from
+the bottom part of the molten Mg layer, depending on the
+Fig. 7—SEM images of Ti powder obtained from the LiCl-KCl eutectic
+salts containing 5 mass pct Ti at 1173 K. The reaction time was (a) 0.3
+ks and (b) 86.4 ks.
+Fig. 8—SEM images of Ti powder obtained from the molten salts con-
+taining 5 mass pct Ti at 1173 K for 21.6 ks: (a) MgCl2, (b) NaCl, (c) NaCl-
+KCl, and (d ) MgCl2-LiCl-KCl.
+LiCl-KCl, and the other was the finer round particle of 1 to
+5 ␮m in diameter.
+Because MgCl2 is the main by-product in Mg reduction,
+even if the initial salt does not contain MgCl2, it will soon
+be contaminated in the process of reduction. In this work,
+the final increase of MgCl2 concentration was less than 20
+mass pct MgCl2 even in the salt with the highest Ti2⫹
+concentration.
+C. Impurity Contamination
+Impurity concentrations in the recovered Ti powder were
+analyzed by ICP –AES and they are listed in Table III. The
+408—VOLUME 30B, JUNE 1999
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+Fig. 9—Growth of Ti particles in the molten salt containing Ti2⫹: (a) no stirring and (b) with stirring.
+(a)
+(b)
+Mg distribution in the salt near the interface. These morphol-
+ogies are dominant especially at the lower temperatures at
+which Mg diffusion into the salt is slow.
+When Ar gas is injected (Figure 9(b)), the strong stirring
+disperses mechanically the Mg droplets into the salt. Two
+liquid phases mix like the emulsion. The reduction rate is
+enhanced because the interface between Mg and the salt
+increases and because the dissolving rate of Mg is acceler-
+ated. The unsteady interface by Ar gas bubbling disturbs
+a continuous growth of the nodules. Thus, nucleated fine
+particles frequently collide by themselves, aggregate, and
+sinter to the coarser particles. The union of particles in the
+stirred salt generates the coarsening for the long holding
+time. It is supported by the fact that the morphology of the
+recovered large particles was round but uneven.
+The settling rate of the precipitate Ti particle in the molten
+salt depends mainly on the particle size. The terminal veloc-
+ity in the quiet salt at 1173 K is evaluated as 2.78, 0.111 mm/
+s, and 1.11 ␮m/s for 50, 10, and 1 ␮m particles, respectively,
+applying the Stokes law to Ti particles in MgCl2.[28,29] The
+realistic settling rate of Ti particles is much slower, consider-
+ing a heavy stirring by gas bubbling. The particles do not
+settle until they grow up to a certain size in the salt.
+Due to the inevitable use of the molten salt, the number
+density of the precipitated Ti particles is low, particularly
+in the molten salt of the low Ti2⫹ concentration. The collision
+rate becomes lower, and the aggregation of particles is sup-
+pressed even in the stirred salt. In the Ti2⫹ rich molten
+salt, the Ti particles have precipitated at the initial stage of
+reduction (for example, for 0.3 ks at 1173 K), and they may
+absorb the fine particles that were formed at the final stage.
+It was reported in the Kroll process that the residual mag-
+nesium physically attaches to the precipitated Ti particles
+and that the attached Mg layer enhances the coarsening and
+agglomeration to Ti sponge.[30,31] The characteristic mor-
+phology in the Kroll process, i.e., the aggregated and strongly
+sintered Ti particles of a few tens of microns, however,
+was hardly observed in this work. It is suggested that the
+generated Ti particles sank in our molten salt without the
+further contact with Mg. This may be one of the reasons
+why the obtained particles were well isolated.
+For use in powder metallurgy, fine powder with a weak
+size distribution is required. The suitable size is dependent
+on the final product and is usually said to be several tens
+of microns. The existence of the fine particles smaller than
+10 ␮m might be uncomfortable for this purpose. Therefore,
+the result in the salt containing 41.2 mass pct MgCl2 shows
+that the concentration control for the solvent salt is indispens-
+able to produce the larger particles in a homogeneous quality.
+Considering that the industrial MgCl2 salt in the Kroll
+process contains a high content of LiCl, KCl, NaCl, etc. for
+better efficiency in electrolysis, we may find the nice molten
+salt suitable both for the large Ti powder production and for
+the good MgCl2 electrolysis.
+The fact that the reduction from Ti2⫹ in the salt was
+completed in a short time shows that the growth mechanism
+is a key to obtaining powder suitable for powder metallurgy.
+A further approach will be needed to grow the fine powder
+to adjust to the demand of powder metallurgy.
+VI. CONCLUSIONS
+A process was proposed to produce titanium powder in
+two steps using TiCl4 and magnesium. In the first step, TiCl4
+dissolves once in the molten salt as Ti2⫹, where either a half
+amount of the reductant Mg or a part of the final product
+METALLURGICAL AND MATERIALS TRANSACTIONS B
+VOLUME 30B, JUNE 1999— 409
+Ti is used to convert TICl4 into Ti2⫹. In the second step,
+Mg reduction of Ti2⫹ in the molten salt precipitates the fine
+Ti powder.
+The powder morphology was experimentally studied
+under this concept. The reduction finished within 0.3 ks
+at 1173 K, and the successive holding in the salt grew
+the particles. The powder size depended on the initial
+Ti2⫹ concentration, temperature, holding time, and concen-
+tration of by-product MgCl2. Stirring of the molten salt
+was enhanced to produce the round and well-isolated
+particles of a few tens of microns, which is suitable for
+powder metallurgy.
+This process can produce the t itan ium powder in the
+shorter steps compared w ith the other methods , such as
+HDH and PREP. The indus tr ia l app lica tion of th is pro-
+posal seems techn ical ly poss ib le , when the addi tional
+method to separate Ti powder from the mo lten sa lt is
+developed .
+ACKNOWLEDGMENTS
+The authors thank T. Unesaki and M. Hamura for SEM–
+EDX and ICP–AES analysis. They are also grateful to Drs.
+T.H. Okabe (Tohoku University) and T. Irie (Toho Titanium
+Co., Ltd.) for stimulating discussions. Financial support
+came partially from Grants-in-Aid for Scientific Research
+under Contract No. 10355031.
+REFERENCES
+1. F.H. Froes and D. Eylon: Int. Mater. Rev., 1990, vol. 85 (3), pp. 162-82.
+2. T.N. Deura, M. Wakino, T. Matsunaga, R.O. Suzuki, and K. Ono:
+Metall. Mater. Trans. B, 1998, vol. 29B, pp. 1167-74.
+3. K. Kitaoka: Met. Technol., 1996, vol. 66 (2), pp. 129-36.
+4. S.V. Aleksandrovskii, L.M. Berdnikova, G.S. Lukashenko,. E.N.
+Pinaev, and G.P. Snisar: Sov. Powder Metall. Met. Ceram., 1982, vol.
+21 (1), pp. 4-7 (translated from Porosh. Metall., 1982, vol. 229 (1),
+pp. 4-8).
+5. M.V. Smirnov and V.S. Maksimov: Electrochem. Mol. Sol. Electro-
+lytes, 1969, vol. 7, pp. 37-41.
+6. K. Komarek and P. Herasymenko: J. Electrochem. Soc., 1958, vol.
+105 (4), pp. 210-15.
+7. V.S. Maksimov and M.V. Smirnov: Electrochem. Mol. Sol. Electro-
+lytes, 1968, vol. 6, pp. 30-36.
+8. S.N. Flengas: Ann. N.Y. Acad. Sci., 1960, vol. 79, pp. 853-72.
+9. B.F. Markov and R.V. Chernov: Ukr. Khim. Zh., 1959, vol. 25, pp.
+280-81.
+10. K. Komarek and P. Herasymenko: J. Electrochem. Soc., 1958, vol.
+105 (4), pp. 216-19.
+11. M.V. Kamenetskii: Tsv. Metall., 1958, vol. 31 (2), p. 44.
+12. L.A. Pavlova, V.G. Gopienko, and E.F. Klyuchnikova: Zh. Prikl. Khim.,
+1973, vol. 46 (9), p. 1942 (translated from Russ. J. Appl. Chem., 1973,
+vol. 46 (9), p. 2070).
+13. K. Niki, M. Yamauchi, and T. Tomonari: Denki Kagaku, 1970, vol.
+38 (3), pp. 173-77.
+14. J.H. Mui and S.N. Flengas: Can. J. Chem., 1962, vol. 40, pp. 997-1008.
+15. H. Grothe and C.A. Piel: Z. Elektrochem., 1950, vol. 54, pp. 210-15.
+16. A.I. Voinitskii, S.V. Aleksandrovskii, and V.P. Kiselve: J. Appl. Chem.
+USSR, 1969, vol. 42 (1), pp. 25-31 (translated from Zh. Prikl. Khim.,
+1969, vol. 42 (1), pp. 30-37).
+17. G.M. Haarberg, W. Rolland, A. Sterten, and J. Thonstad: J. Appl.
+Electrochem., 1993, vol. 23, pp. 217-24.
+18. H. Takamura, I. Ohno, and H. Numata: J. Jpn. Inst. Met., 1996, vol.
+60 (4), pp. 382-87.
+19. F. Lantelme, K. Kuroda, and A. Barhoun: Electrochim. Acta, 1998,
+vol. 44, pp. 421-31.
+20. T.H. Okabe and Y. Waseda: J. Met., 1997, vol. 49 (6), pp. 28-32.
+21. T. Uda, T.H. Okabe, E. Kasai, and Y. Waseda: J. Jpn. Inst. Met., 1997,
+vol. 61 (7), pp. 602-09.
+22. T. Uda, T.H. Okabe, and Y. Waseda: J. Jpn. Inst. Met., 1998, vol. 62
+(1), pp. 76-84.
+23. O. Kubaschewski and W.A. Dench: J. Inst. Met., 1953–54, vol. 82,
+pp. 87-91.
+24. K. Ono, T.H. Okabe, M. Ogawa, and R.O. Suzuki: Tetsu-to-Hagane´ ,
+1990, vol. 76 (4), pp. 568-75.
+25. P.S. Rogers, J.W. Tomlinson, and F.D. Richardson: in Physical Chemis-
+try of Process Metallurgy, G.R. Pierre, ed., Interscience Publishers,
+New York, NY, 1961, pp. 909-24.
+26. J. Wypartowicz, T. Østvold, and H.A. Øye: Electrochim. Acta, 1980,
+vol. 25, pp. 151-56.
+27. T.N. Deura, T. Matsunaga, R.O. Suzuki, and K. Ono: Molten Salts,
+1998, vol. 41 (1), pp. 7-16.
+28. J.N. Reding: J. Chem. Eng. Data, 1965, vol. 10 (1), pp. 1-4.
+29. M.K. Tørklep and H.A. Øye: J. Chem. Eng. Data, 1982, vol. 27, pp.
+387-91.
+30. F.S. Wartman, D.H. Baker, J.R. Nettle, and V.E. Homme: J. Electro-
+chem. Soc., 1954, vol. 101, pp. 507-13.
+31. T. Noda: Bull. Jpn. Inst. Met., 1972, vol. 11, pp. 22-30.
+410—VOLUME 30B, JUNE 1999
+METALLURGICAL AND MATERIALS TRANSACTIONS B

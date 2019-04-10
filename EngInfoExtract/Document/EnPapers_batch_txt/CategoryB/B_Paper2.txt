@@ -1,0 +1,1585 @@
+O R I G I N A L P A P E R
+Mechanistic investigation into the electrolytic formation of iron
+from iron(III) oxide in molten sodium hydroxide
+A. Cox Æ Derek J. Fray
+Received: 20 November 2007 / Revised: 16 April 2008 / Accepted: 25 April 2008 / Published online: 16 May 2008
+Ó Springer Science+Business Media B.V. 2008
+this paper based on the electro-deoxidation of a metal oxide
+in a molten salt electrolyte which has oxide ion solubility.
+The pioneering work in this ﬁeld, the so-called FFC process
+[2] describes the electro-deoxidation of titanium dioxide in a
+calcium chloride electrolyte at 950 °C. The process involves
+the direct electrochemical reduction of a metal oxide in
+molten calcium chloride. The oxide cathode is in good
+physical contact with a current collector and the metal oxide
+is progressively reduced through a series of part reactions
+involving intermediate binary oxide phases of the form
+aCaO:bMxOy where a, b, x and y are integers and M is a
+metal. Oxide ions are released into the bulk salt and dis-
+charged on a graphite anode which is consumed to form CO2.
+The work in this paper applies the FFC process to the
+reduction of iron(III) oxide (Fe2O3) in a sodium hydroxide
+electrolyte at the lower temperature of 530 °C to produce a
+grade of iron (
+Abstract
+Iron(III) oxide tablets were electrolytically
+reduced to iron in molten sodium hydroxide at 530 °C and
+recovered to produce iron with 2 wt.% oxygen suitable for
+re-melting. The cell was operated at 1.7 V and an inert
+nickel anode was used. The thermodynamics and mecha-
+nism of the process was also investigated. By controlling
+the activity of sodium oxide in the melt, the cell could be
+operated below the decomposition voltage of the electro-
+lyte with the net sequence of events being the ionization of
+oxygen, its subsequent transport to the anode and discharge
+leaving behind iron at the cathode. A reduction time of 1 h
+was achieved for a 1 g oxide tablet (close to the theoretical
+reduction time predicted by Faraday’s laws) at a current
+density of 520 mA cm-2 with iron phase yields of *90
+wt.%. The energy consumption was 2.8 kWh kg-1.
+Keywords Molten salt  Sodium hydroxide 
+Electro-deoxidation  Iron  Inert anode
+1 Introduction
+Directives to reduce global emissions in CO2 [1] are now
+ﬁrmly in place which puts pressure on heavy industry
+sectors such as iron and steel whose products are used in
+vast quantities around the world.
+There is a European directive to partially replace existing
+technology with ‘‘greener’’ routes. A process is proposed in
+1402
+J Appl Electrochem (2008) 38:1401–1407
+experiments, they produced a phase of iron that was 5
+mol% in oxygen using a nickel ferrite/copper cermet
+anode. However,
+the latter decomposed severely when
+using viable current densities, resulting in anodic dissolu-
+tion of copper into the salt and subsequent co-deposition
+and contamination of the iron phase. When graphite anodes
+were used, the reduction was hampered by carbon particles
+blocking the pores of the oxide preventing electrolyte
+contact to the oxide.
++
+-
+ECANRUF
+ECANRUF
+2 Experimental
+2.1 Precursor preparation
+Sheathed Thermocouple
+Inconel 600 reactor
+Ni connecting rod
+Iron(III) oxide (Aldrich 99+%) of particle size between 1
+and 5 lm was pressed without a binder at 3 ton in an
+isostatic press using a 20 mm dye. The un-sintered tablets
+were weighed and their volume measured. The tablets were
+then sintered at various temperatures in the range 900–
+1300 °C for 30 min with a ramp rate of 3 °C/min was used.
+After sintering,
+the tablets were re-weighed and their
+volume re-determined. This enabled the pre-sintered and
+sintered densities to be estimated based on a uniform pore
+distribution.
+2.2 Materials and setup
+A nickel (201 alloy—99% Ni with Cu and Fe added to pre-
+vent embrittlement at temperatures above 315 °C) basket
+with a screw-in nickel connector rod was used to hold the
+tablet
+throughout an experiment. The crucible (55 mm
+id 9 61 mm od 9 160 mm height) was also fabricated from
+nickel and contained in an outer alumina crucible. The anode
+consisted of a nickel 201 rod of 5 mm diameter.
+The crucible was packed with *400 g of sodium
+hydroxide (97% assay) pellets (*6 9 4 mm). The salt was
+melted and ‘‘topped-up’’ to 600 g. The purpose of the large
+pellets was to reduce the surface area, reducing water
+absorption during transport to the crucible and furnace. The
+entire assembly was held in a sealed reactor made from
+Inconel 600
+which in turn sat inside a vertical tube fur-
+nace. The reactor shown in Fig. 1 was ﬁlled with argon and
+a steady ﬂow (50 cm3 min-1) maintained throughout the
+experiment.
+TM
+2.3 Method
+Reductions using an iron(III) oxide cathode and nickel
+anode were performed. A power supply (Thurlby Thandor
+PL154) with feedback sensing was used which enabled the
+current to be accurately measured across a counter resistor
+and maintain a constant applied voltage. A digital data
+123
+Inert Ni anode
+Fe2O3 tablet
+Ni crucible
+Molten NaOH
+Ni basket
+Fig. 1 Schematic of high temperature cell
+recorder (Agilent 34970A) was used to record voltage,
+current and temperature.
+The anode was submerged 5 cm into the salt and the
+cathode tablet 7 cm. The system was allowed to reach
+thermal equilibrium by waiting 15 min prior to applying a
+voltage which was slowly swept to the target value to
+prevent spiking of the current.
+After the reduction, the Ni basket was raised near the top
+of the reactor (gas temperature *90 °C) and left to cool in
+argon. The powder/tablet and basket were then removed
+and immersed in cold de-aerated water to dissolve the
+electrolyte and recover the product. In later experiments,
+water was replaced with aqueous ethanol (90 vol.% etha-
+nol:10 vol.% water) to help prevent partial re-oxidation of
+the iron. After several washes,
+the pH checked using
+phenolphthalein pH indicator paper to detect the presence
+of alkali, the rod was removed from the basket and the
+tablet or powder dried in argon at room temperature. The
+effect of cell voltage and adding 1 wt.% sodium oxide to
+the electrolyte were investigated.
+The decomposition voltage of the electrolyte containing
+1 wt.% Na2O was measured by applying a staircase voltage
+to a cell containing an empty nickel basket and observing
+the current. Tangents were drawn to the curves represent-
+ing current ﬂow before and after salt decomposition and the
+point of intersection extrapolated to the voltage axis to
+determine the dynamic decomposition voltage of
+the
+electrolyte.
+The products were characterised by Scanning Electron
+Microscopy (SEM, JEOL 5800), Electron Dispersion
+Analysis by X-Rays (EDAX Oxford Instruments INCA
+x-sight 6587) and X-Ray diffraction analysis (XRD Phil-
+lips X’Pert PW3020) and Inductively Coupled Plasma
+Spectrophotometry Atomic Emission Spectrophotometry)
+ICPAES (Varian axial Liberty Series II).
+3 Results and discussion
+3.1 Sintering
+Figure 2 shows an approximate inverse linear trend was
+observed between sintering temperature and post-sintered
+porosity. Tablets sintered at 1050 °C or less tended to form
+powder when reduced, whereas those sintered at tempera-
+tures greater than 1050 °C were of lower porosity but tended
+to remain intact after the reduction. A maximum shrinkage
+of 43 vol.% was observed when the sintering temperature
+was 1300 °C, and just 8.5 vol.% when sintered at 900 °C.
+3.2 Core parameter investigation
+Table 1 summarises the experiments performed, visual
+observations of the product, iron phase purity and other
+phases present as determined by X-ray diffraction analysis.
+In the latter, a semi-quantitative analysis was performed by
+determining the scale factor for each of the analytical
+peaks and comparing relative intensity ratios (RIRs) from
+standard reference material spectra. A normalized RIR
+method was used to determine the phase compositions.
+3.3 Electrodeoxidation and salt decomposition
+Table 1 shows that NaFeO2 spontaneously forms when the
+Fe2O3 tablet is added to molten NaOH and so becomes the
+starting material for electro-deoxidation:
+0
+900
+10
+20
+30
+40
+50
+60
+Temperature / C
+o
+P
+r
+s
+o
+t
+i
+y
+/
+%
+W
+t
+Post-sintered porosity
+Pre-sintered porosity
+1000
+1100
+1200
+1300
+Fig. 2 Effect of sintering temperature on porosity of iron(III) oxide
+tablet
+T
+b
+a
+l
+e
+1
+E
+e
+p
+x
+i
+r
+m
+n
+e
+t
+s
+e
+p
+f
+r
+o
+r
+m
+d
+e
+d
+n
+a
+s
+u
+m
+m
+a
+r
+y
+o
+f
+r
+e
+s
+u
+t
+l
+s
+E
+e
+p
+x
+i
+r
+m
+n
+e
+t
+u
+n
+m
+e
+b
+r
+A
+p
+p
+i
+l
+d
+e
+o
+v
+t
+l
+e
+g
+a
+(
+V
+)
+R
+c
+u
+d
+e
+i
+t
+n
+o
+i
+t
+m
+e
+/
+h
+1
+w
+.
+t
+%
+N
+a
+2
+O
+?
+d
+e
+d
+d
+a
+B
+u
+l
+k
+F
+e
+a
+h
+p
+s
+e
+n
+o
+c
+t
+n
+e
+t
+(
+w
+.
+t
+%
+)
+C
+e
+l
+l
+u
+c
+r
+r
+n
+e
+t
+(
+A
+)
+C
+u
+r
+r
+n
+e
+t
+e
+f
+ﬁ
+c
+i
+y
+c
+n
+e
+(
+%
+)
+E
+e
+n
+r
+y
+g
+n
+o
+c
+s
+u
+m
+p
+i
+t
+n
+o
+(
+k
+W
+h
+g
+k
+-
+1
+)
+V
+i
+s
+a
+u
+l
+a
+e
+p
+p
+a
+r
+e
+c
+n
+a
+o
+f
+p
+r
+c
+u
+d
+o
+t
+O
+t
+e
+h
+r
+a
+h
+p
+s
+e
+s
+p
+r
+e
+s
+n
+e
+t
+C
+o
+m
+m
+n
+e
+t
+s
+0
+0
+4
+2
+N
+o
+0
+–
+–
+–
+T
+b
+a
+l
+e
+t
+i
+n
+t
+c
+a
+,
+t
+c
+r
+d
+e
+k
+c
+a
+,
+b
+l
+k
+c
+a
+a
+p
+t
+e
+h
+c
+s
+n
+o
+s
+u
+f
+r
+e
+c
+a
+N
+a
+F
+e
+O
+2
+,
+F
+e
+2
+O
+3
+,
+N
+a
+4
+F
+e
+O
+3
+,
+N
+a
+H
+O
+,
+N
+a
+F
+e
+O
+2
+f
+o
+r
+m
+d
+e
+s
+n
+o
+p
+t
+u
+o
+e
+n
+a
+s
+l
+y
+1
+0
+4
+1
+.
+6
+N
+o
+5
+5
+2
+0
+.
+–
+–
+T
+b
+a
+l
+e
+t
+r
+f
+g
+a
+m
+n
+e
+t
+d
+e
+,
+b
+l
+k
+c
+a
+a
+p
+t
+e
+h
+c
+s
+x
+e
+t
+d
+e
+d
+n
+e
+i
+n
+t
+o
+u
+b
+l
+k
+F
+e
+2
+O
+3
+,
+N
+a
+2
+F
+e
+O
+4
+,
+N
+a
+F
+e
+O
+2
+,
+N
+a
+O
+2
+,
+F
+e
+5
+2
+9
+0
+.
+O
+,
+F
+e
+3
+O
+4
+B
+e
+l
+o
+w
+o
+c
+e
+d
+m
+o
+p
+s
+i
+t
+i
+n
+o
+o
+v
+t
+l
+e
+g
+a
+o
+f
+N
+a
+F
+e
+O
+2
+2
+2
+.
+0
+0
+6
+N
+o
+2
+9
+1
+.
+5
+6
+9
+1
+5
+1
+.
+3
+T
+b
+a
+l
+e
+t
+o
+p
+w
+e
+d
+i
+r
+d
+e
+z
+,
+b
+l
+k
+c
+a
+s
+y
+g
+n
+o
+p
+m
+a
+t
+e
+i
+r
+a
+l
+N
+a
+F
+e
+O
+2
+,
+F
+e
+3
+O
+4
+G
+d
+o
+o
+y
+i
+e
+l
+d
+,
+u
+b
+t
+o
+c
+m
+e
+p
+i
+t
+i
+t
+n
+o
+r
+f
+o
+m
+H
+2
+O
+o
+c
+e
+d
+m
+o
+p
+s
+i
+t
+i
+n
+o
+3
+1
+.
+0
+7
+6
+N
+o
+1
+4
+0
+0
+1
+.
+2
+3
+7
+7
+.
+T
+b
+a
+l
+e
+t
+r
+f
+g
+a
+m
+n
+e
+t
+d
+e
+,
+x
+e
+t
+n
+e
+s
+i
+e
+v
+b
+l
+k
+c
+a
+o
+c
+l
+o
+r
+a
+i
+t
+n
+o
+t
+h
+r
+u
+o
+h
+g
+u
+o
+t
+u
+b
+l
+k
+F
+e
+H
+O
+O
+,
+F
+e
+2
+O
+3
+,
+N
+a
+F
+e
+O
+2
+,
+N
+a
+4
+2
+.
+,
+F
+e
+9
+9
+0
+1
+.
+,
+O
+3
+0
+6
+1
+.
+,
+N
+a
+2
+F
+e
+O
+3
+o
+o
+P
+r
+e
+r
+y
+i
+e
+l
+d
+,
+s
+l
+l
+i
+t
+o
+c
+m
+e
+p
+i
+t
+i
+t
+n
+o
+r
+f
+o
+m
+H
+2
+O
+o
+c
+e
+d
+m
+o
+p
+s
+i
+t
+i
+n
+o
+4
+1
+.
+0
+7
+5
+0
+1
+.
+Y
+e
+s
+8
+8
+1
+.
+0
+1
+9
+8
+8
+2
+.
+T
+b
+a
+l
+e
+t
+o
+p
+w
+e
+d
+i
+r
+d
+e
+z
+,
+b
+l
+k
+c
+a
+s
+y
+g
+n
+o
+p
+m
+a
+t
+e
+i
+r
+a
+l
+N
+a
+F
+e
+O
+2
+,
+F
+e
+3
+O
+4
+H
+i
+h
+g
+N
+a
+2
+O
+c
+a
+i
+t
+v
+t
+i
+y
+r
+a
+i
+s
+e
+s
+H
+2
+O
+o
+c
+e
+d
+m
+p
+o
+v
+t
+l
+e
+g
+a
+7
+1
+d
+n
+o
+y
+e
+b
+.
+V
+5
+1
+.
+0
+6
+6
+Y
+e
+s
+6
+8
+0
+.
+5
+4
+8
+7
+0
+3
+.
+T
+b
+a
+l
+e
+t
+o
+p
+w
+e
+d
+i
+r
+d
+e
+z
+,
+b
+l
+k
+c
+a
+s
+y
+g
+n
+o
+p
+m
+a
+t
+e
+i
+r
+a
+l
+N
+a
+F
+e
+O
+2
+,
+F
+e
+3
+O
+4
+A
+p
+p
+r
+h
+c
+a
+o
+i
+g
+n
+r
+e
+v
+e
+s
+r
+i
+b
+l
+e
+o
+v
+t
+l
+e
+g
+a
+f
+o
+r
+N
+a
+F
+e
+O
+2
+o
+c
+e
+d
+m
+o
+p
+s
+i
+t
+i
+n
+o
+.
+H
+2
+f
+o
+r
+m
+a
+i
+t
+n
+o
+o
+n
+t
+o
+d
+m
+i
+n
+a
+n
+t
+J Appl Electrochem (2008) 38:1401–1407
+1403
+123
+1404
+J Appl Electrochem (2008) 38:1401–1407
+ð1Þ
+Fe2O3 þ 2NaOHðlÞ ¼ 2NaFeO2 þ H2O
+K eq ¼ 102 at 530 C
+Fe2O3 þ Na2OðlÞ ¼ 2NaFeO2
+Keq ¼ 1012 at 530 C ð2Þ
+The decomposition voltage at unit activity (Eo) of
+NaFeO2 is 1.368 V assuming unit activity of Na2O in the
+salt at 530 °C:
+2NaFeO2 ¼ Na2Oð1Þ þ 2Fe þ 3/2O2ðgÞ
+ð3Þ
+The equilibrium constant Keq of the dissociation of
+NaOH dictates the initial activities of Na2O and H2O:
+2NaOHðlÞ ¼ Na2OðlÞ þ H2OðlÞ
+At 530 °C, Keq = 2.645 9 10-11 and:
+ð4Þ
+Keq ¼ aH2 OaNa2 O
+ðaNaOH Þ2
+ð5Þ
+Keq
+aNa2 O ¼ ﬃﬃﬃﬃﬃﬃﬃ
+The term ðaNaOH Þ2 is unity so that initially, aH2 O ¼
+p ¼ 5.143  10 6 and based on the Lux-
+Flood scale [4] the salt
+is neutral. Allowing for the
+presence of dissolved Na2O using the Gibbs function with
+pure Na2O (the solute) as the standard state:
+DG ¼ RT lnðaNa2O Þ
+ð6Þ
+The addition of this term to the DG° values enables the
+DG for any reaction to be calculated and also the
+decomposition potential from:
+DG ¼  zFE
+ð7Þ
+where z is charge transferred, E is the potential and F is
+Faraday’s constant. When the oxide tablet is added to the
+salt, the local activity of Na2O will be low due to reactions
+(1) and (2) and the salt becomes a strong Lux-Flood acid.
+So E° for NaFeO2 is decreased and gradually increases
+during electro-deoxidation as Na2O is regenerated as
+shown in reaction (3). The activities of Na2O and H2O in
+the salt will also dictate their respective decomposition
+voltages and can be calculated in a similar way. There are
+two electrolyte decomposition routes both sharing the same
+reaction at the anode;
+2OH    2e  ¼ H2O þ 1/2O2ðgÞ
+ð8Þ
+The corresponding part
+reactions at
+Case 1 where water is decomposed:
+2H2O þ 2e  ¼ 2OH  þ H2
+Overall: H2O ¼ H2 þ 1/2O2ðgÞ
+the cathode are:
+Eo ¼ 0.862 V
+ð9Þ
+ð10Þ
+Case 2 where sodium hydroxide is decomposed (as in
+the Castner process [5]):
+2Naþ þ 2e  ¼ 2NaðlÞ
+Overall: 2NaOHðlÞ ¼ 2NaðlÞ þ 1/2O2 þ H2O
+Eo ¼ 1.294 V
+ð12Þ
+ð11Þ
+Case 3 where NaFeO2 is reduced by electro-deoxidation:
+Na2O:Fe2O3 þ 6e  ¼ Na2O þ 2Fe þ 3O2 
+Melt 3O2  þ 3H2O ¼ 6OH 
+6OH    6e  ¼ 3H2O þ 3/2O2ðgÞ
+Overall: 2NaFeO2 ¼ Na2OðlÞ þ 2Fe þ 3/2O2ðgÞ
+Eo ¼ 1.368 V
+ð13Þ
+ð14Þ
+ð15Þ
+ð16Þ
+Table 2 summarises the calculated changes in salt
+composition at 530 °C during electro-deoxidation and the
+respective component decomposition voltages at various
+H2O, Na2O and NaFeO2 activities. The activity of Na2O
+under acidic conditions approaches zero which can be
+inferred from the number of moles Fe2O3 in the tablet and
+Eqs. 1 and 2. A Na2O activity of 10-11 was used based on
+the work of Tre´millon [6] who states that in strongly acidic
+solutions [H2O] and aH2O approach 1 where the ionic
+product is 10-11.
+Under strongly basic conditions the activity of the
+diagram in Fig. 3. aNa2 OðsÞ ¼ 1 when the salt contains
+1 wt.% Na2O in the salt was estimated from the phase
+27 wt.% sodium oxide or mole fraction of 0.193 at the
+saturation point X on the diagram. For a 1 wt.% addition of
+sodium oxide, the mole fraction (X1 wt.%) of the solid is
+0.00647. The free energy of freezing is given by:
+Table 2 Estimated component activities and decomposition voltages during electro-deoxidation
+Unit activity
+Before reduction after tablet added
+to salt (Strongly acidic)
+Na2O regenerated during
+electro-deoxidation (Near-neutral)
+Artiﬁcial addition of Na2O (Strongly basic)
+1.74 9 10-10
+123
+a(H2O)
+1
+5.00 9 10-6
+Approaches unity
+Approaches 0.862
+V(H2O)/V
+a(Na2O)
+V(Na2O)/V
+V(NaFeO2)/V
+0.862
+1.284
+1.640
+1
+10-12
+1.294
+2.250
+5.00 9 10-6
+1.716
+1.52 9 10-1
+1.359
+1.368
+1.049
+1.227
+1.346
+J Appl Electrochem (2008) 38:1401–1407
+1405
+Na2OðlÞ ¼ Na2OðsÞ
+aNa2OðsÞ
+aNa2OðlÞ
+Since the slope of the liquidus approximates a straight
+line over the 1 wt.% to 27 wt.% composition, the activity
+DG ¼ RT ln
+ð17Þ
+Fig. 3 Phase diagram for the NaOH:Na2O system [9]
+Fig. 4 IV curve for
+determination of decomposition
+voltage of strongly basic
+electrolyte
+A
+/
+t
+n
+e
+r
+r
+u
+C
+l
+l
+e
+C
+1.200
+1.000
+0.800
+0.600
+0.400
+0.200
+coefﬁcient is assumed constant over this range. Taking the
+free energy of freezing DG to be -21.09 kJ mol-1 at
+530 °C, aNa2OðlÞ ¼ 23:5 when aNa2 OðsÞ ¼ 1 for a 27 wt.%
+addition, so for a 1 wt.% addition:
+aNa2 OðlÞ ¼ ðX1 wt:% Þð23:5Þ ¼ ð0:00647Þð23:5Þ ¼ 0:152
+Figure 4 shows the current–voltage plot to determine the
+decomposition voltage of the electrolyte under strongly
+basic conditions. The dynamic decomposition voltage (i.e.
+the minimum voltage necessary to perform an electrolysis)
+may be extrapolated from the intersection of line AB and
+CD and yields a value of 1.80 V. This value will include
+the charge transfer overvoltage and when the iR drop is
+subtracted yields a value of 1.55 V.
+Table 2 shows that hydrogen evolution will occur
+concurrently with electro-de-oxidation under acidic and
+near-neutral conditions. When Na2O is added, the H2O
+decomposition voltage is increased to 1.64 V, beyond the
+applied cell voltage of 1.70 V (1.45 V with iR drop
+subtracted) raising the current efﬁciency. Sodium depo-
+sition (1.36 V) might be expected to occur as well and yet
+the current efﬁciency (*89%) and Fig. 4 suggests this
+does not occur which may be due to signiﬁcant charge
+transfer overpotentials on the ferrite cathode and the
+nickel anode.
+The current efﬁciencies are calculated and shown in
+Table 1. It can be seen that with the addition of Na2O, high
+current and energy efﬁciencies are obtained. Furthermore,
+since neither hydrogen nor sodium will reduce NaFeO2 at
+530 °C the mechanism of reduction must be ionisation of
+oxygen and its transport out of the oxide into the salt and
+subsequent discharge of O2 on the anode.
+The current efﬁciency value of 89% is also supported by
+Fig. 4 where the background current was *0.1 A at an
+1 wt.% addition Na 2O
+C
+H 2 bubbles observed 
+A
+0.000
+0.250
+0.500
+0.750
+1.000
+1.250
+1.500
+Cell Voltage / V
+B
+D
+1.750
+2.000
+2.250
+2.500
+123
+1406
+J Appl Electrochem (2008) 38:1401–1407
+applied voltage of 1.7 V (without oxide tablet) and the cell
+current at this voltage during oxide reduction was typically
+1.1 A which implies a current efﬁciency of *90%.
+At an applied voltage of 1.40 V (1.325 V with iR drop
+subtracted) there is insufﬁcient driving force to fully reduce
+NaFeO2. At 1.70 and at 2.00 V without the Na2O addition,
+hydrogen evolution parasitizes electro-deoxidation. At
+1.6 V with Na2O addition, hydrogen discharge becomes
+less dominant which raises the current efﬁciency, but as the
+reversible voltage of NaFeO2 is approached the overvolt-
+age becomes
+important,
+the cell current diminishes
+resulting in longer reduction times.
+3.4 Mechanistic considerations
+Table 1 shows several intermediate phases based on Nax-
+FeyOz which suggests NaFeO2 is not reduced in one step
+but incorporates Na2O, Na2O2 and NaO2 into its structure.
+The latter phases were also observed in the XRD analyses
+of partially reduced sodium ferrite some of which are
+presented in Table 1 implying that
+the mechanism of
+reduction is more complex than that observed with electro-
+deoxidation of iron oxide in CaCl2 where CaO is the only
+dissolved oxide. The transport of oxygen out of the oxide
+lattice into the salt only occurs after the formation of
+sodium ferrites and sodium oxide. This will happen
+through a series of solid-state reconstructive transforma-
+tions of
+sodium ferrite species. Similarly,
+calcium
+metallites and metallates have been reported using CaCl2
+[7, 8]. Note that:
+[Na2O:2NaO2 :Fe2O3 ]  2Na2FeO4
+[Na2O2 :FeO]  Na2FeO3
+[2Na2O:FeO]  Na4FeO3
+All of the above ferrite and oxide phases were detected by
+XRD. This leads to two possible mechanisms of reduction:
+Case 1 involving just Na2O:
+[Na2O:Fe2O3  ¼ [Na2O þ 1/2FeO] þ 1/2Fe3O4 þ 1/4O2
+[Na2O þ 1/2FeO þ 1/2Fe3O4 þ Na2Osalt
+¼ [2Na2O:FeO] þ FeO þ 1/4O2
+E ¼  0.668 V
+FeO ¼ Fe þ 1/2O2
+E ¼  1.099 V
+[2Na2O:FeO] ¼ Fe þ 1/2O2 + 2Na2Osalt
+E ¼  2.337 V
+Overall: [Na2O:Fe2O3  þ (Na2O)salt þ 6e 
+¼ 2Fe þ 3/2O2 þ 2Na2Osalt
+ð18Þ
+Case 2 involving Na2O and NaO2;
+The oxygen rich elimination product NaO2 was repeat-
+edly identiﬁed by XRD in the reduction products and may
+form on the anode by oxidation of O2-:
+123
+4O2    6e  ! 2O 
+2 (2NaO2 )
+ð19Þ
+The superoxide ion can migrate to the cathode and react
+with sodium ferrite:
+[Na2O:Fe2O3  þ 2NaO2salt ¼ [Na2O:2NaO2 :Fe2O3 ]
+[Na2O:2NaO2 :Fe2O3  ¼ [Na2O:2NaO2 þ 1/2FeO
+þ 1/2Fe3O4 þ 1/4O2
+[Na2O:2NaO2 þ 1/2FeO þ 1/2Fe3O4 þ Na2Osalt
+¼ 2[Na2O2 :FeO þ 1/4O2 þ 2/3NaO2salt þ 2/3Na2Osalt
+2[Na2O2 :FeO] ¼ 2Fe þ O2 þ 4/3NaO2salt þ 4/3Na2Osalt
+and is then eliminated from the ferrite and reduced back to
+the oxide ion on the cathode:
+2O 
+2 (2NaO2 Þ þ 6e  ! 4O2 
+Overall: [Na2O:Fe2O3  þ 2NaO2salt þ Na2Osalt
+¼ 2Fe þ 3/2O2 þ 2Na2Osalt þ 2NaO2salt
+ð21Þ
+ð20Þ
+It is not possible to assign decomposition voltages in
+case 2 due to lack of thermodynamic data for this set of
+sodium ferrites. The high current efﬁciency would imply
+that the mechanism shown in case 1 predominates.
+Tremillion [6] has shown that superoxides form partic-
+ularly in Lux-Flood basic solutions of NaOH at sufﬁciently
+high potentials on the anode. In terms of mass balance,
+there is no net loss or gain from the electrolyte, just dis-
+charge of oxygen removed from the iron oxide.
+4 Conclusion
+Iron(III) oxide (Fe2O3) was successfully reduced to iron in
+molten sodium hydroxide at 530 °C by the method of
+electro-deoxidation. The reduction can be performed below
+the decomposition voltage of the electrolyte without dis-
+charge of hydrogen or sodium by a prerequisite controlled
+addition of sodium oxide (Na2O). The optimal operating
+cell voltage is 1.7 V. The current efﬁciency of the cell
+under these conditions was approximately 90%.
+An inert nickel anode was successfully used throughout
+all of the experiments, a thin but highly protective and
+electronically conducting nickel oxide ﬁlm forming on the
+surface.
+The starting material for electro-deoxidation is NaFeO2
+formed by spontaneous reaction of Fe2O3 with the elec-
+trolyte. Below the decomposition voltage of the salt, when
+electro-deoxidation is predominant, there is no net change
+in electrolyte composition, the oxygen from the Fe2O3
+being mass balanced by discharge on the anode by oxida-
+tion of hydroxyl ions to form oxygen and water.
+The mechanism proceeds by solid-state transformations
+of the sodium ferrite lattice and stepwise reduction of Fe3+
+J Appl Electrochem (2008) 38:1401–1407
+1407
+to Fe2+ to Fe with elimination of sodium oxide species
+based on the general formula NaxOy into the electrolyte.
+The terminal oxides are FeO and/or [2Na2O:FeO] and
+[Na2O2:FeO] which are reduced directly to iron. The
+overall reactions on the electrodes are:
+Cathode: Fe2O3 þ 6e  ¼ 2Fe þ 3O2 
+Melt: 3O2  þ 3H2O ¼ 6OH 
+Anode: 6OH    6e  ¼ 3H2O þ 3/2O2
+Overall: Fe2O3 ¼ 2Fe þ 3/2O2
+Controlling the sodium oxide activity in the cell allows
+the operating voltage window to be varied which may
+allow oxides of metals less stable than H2O and Na2O (at
+their residing activities) to be produced.
+Scale-up of the process is very promising. The usual
+problems associated with high temperature electrolysis
+such as materials degradation and toxic gas emissions are
+virtually eliminated with this cell. The power consumption
+of the cell is 2.8 kWh kg-1 based on a cell operated at
+1.7 V for 1 h. The current density was about 0.5 A cm-2
+indicating that the rate of reaction was far higher than that
+obtained in aqueous solutions. There is no CO2 output from
+the cell compared to 1.18 ton CO2/ton iron for the iron
+blast furnace based on the reaction:
+Fe2O3 þ 3CO ¼ 2Fe þ 3CO2
+and the whole process could be powered by renewable
+sources.
+Acknowledgements The authors are grateful to the EPSRC for
+funding (Platform Grant GR/S58447/01) the work in this project.
+References
+1. Industries (2006) E.C.o.I.a.S
+2. Chen GZ, Fray DJ, Farthing TW (2000) Nature 407:361–364
+3. Burheim OS (2005) Institutt for Material Teknologi, University of
+Trondheim
+4. Plambeck JA (1976) Encyclopedia of electrochemistry of the
+elements. Marcel Dekker
+5. Newell LC (1904) Descriptive chemistry. Heath
+6. Tremillon B (1971) Pure Appl Chem 25:395
+7. Schwandt C, Fray DJ (2005) Electrochimica Acta 51:66–76
+8. Yan XY, Fray DJ (2005) J Electrochem Soc 152:D12–D21
+9. Bouaziz R, Papin G, Rollet AP (1966) C R Acad Sci Ser C
+262:1053
+123

@@ -1,0 +1,605 @@
+Journal of Electroanalytical Chemistry 530 (2002) 16 /22
+www.elsevier.com/locate/jelechem
+Electrochemical investigation of lithium intercalation into graphite
+from molten lithium chloride
+Qian Xu 1, Carsten Schwandt, George Z. Chen, Derek J. Fray *
+Department of Materials Science and Metallurgy, University of Cambridge, Pembroke Street, Cambridge CB2 3QZ, UK
+Received 9 May 2002; accepted 3 June 2002
+Abstract
+Lithium reduction at a graphite electrode in molten lithium chloride was studied at temperatures from 650 to 900 8C using cyclic
+voltammetry and chronoamperometry. It was found that, during cathodic polarization, lithium intercalation into graphite occurred
+before deposition of metallic lithium started. This process was confirmed to be rate-controlled by the diffusion of lithium in the
+graphite. When the cathodic polarization potential was more negative than that for metallic lithium deposition, exfoliation of
+graphite particles from the electrode surface was observed. This was caused by fast and excessive accumulation of lithium
+intercalated into the graphite, which produced mechanical stress too high for the graphite matrix to accommodate. The erosion
+process was abated once the graphite surface was covered by a continuous layer of liquid lithium. These results are of relevance to
+the mechanism of carbon nanotube and nanoparticle formation by electrochemical synthesis in molten lithium chloride. # 2002
+Elsevier Science B.V. All rights reserved.
+Keywords: Lithium intercalation; Graphite; Molten salt electrochemistry
+1. Introduction
+The electrochemical synthesis, i.e. the electrolysis of
+molten alkali metal salts in the presence of a graphite
+cathode, is one of the promising ways to produce nano-
+sized carbon materials like tubes and particles in bulk
+quantities, since the method is comparatively simple and
+economic and also has the potential to be scaled up. The
+process has been described in several publications [1 /4].
+Thus far, it is known that the yield of nanotubes is
+dependent on the salt and the temperature applied as
+well as, in an interrelated manner, on the potential and
+the current density. A further process parameter is the
+reaction time, and it has been found that the yield of
+nanotubes starts to decrease after a certain electrolysis
+time [5].
+In order to improve the process further, it is necessary
+to understand the mechanism of carbon nanotube
+formation in molten salts. Fray and coworkers [6,7]
+* Corresponding author. Tel./fax: /44-1223-334479
+E-mail address: djf25@hermes.cam.ac.uk (D.J. Fray).
+1 On leave from: School of Materials Science and Metallurgy,
+Northeastern University, Shenyang 110004, PR China.
+related the generation of carbon nanotubes to the
+intercalation of alkali metal into graphite, and proposed
+a mechanism for the electrolytic conversion of graphite
+into carbon nanotubes in molten salts. There is indeed
+some experimental evidence that alkali metal intercala-
+tion into graphite is an important step in the electro-
+chemical synthesis [4,6], but a comprehensive and
+detailed knowledge of the overall process is still lacking.
+This paper reports an electrochemical investigation
+into lithium reduction on a graphite electrode, using
+cyclic voltammetry and chronoamperometry, with the
+aim of elucidating the role of lithium intercalation into
+graphite in the formation process of nano-sized carbon
+materials in molten salts.
+2. Theoretical considerations
+molten LiCl
+The following electrochemical half-cell is considered.
+j Li; graphite
+In what follows, it is assumed that the reduction of
+lithium ions of the molten lithium chloride at the
+graphite electrode may include both the intercalation
+(1)
+0022-0728/02/$ - see front matter # 2002 Elsevier Science B.V. All rights reserved.
+PII: S 0 0 2 2 - 0 7 2 8 ( 0 2 ) 0 0 9 9 8 - 1
+Q. Xu et al. / Journal of Electroanalytical Chemistry 530 (2002) 16 /22
+17
+of lithium into the graphite bulk and the electrodeposi-
+tion of metallic lithium onto the graphite surface.
+(2)
+Case I.
+Intercalation of lithium into the graphite bulk.
+The intercalation process may be represented by the
+following equation.
+Li  e U (Li)c
+The term on the right-hand side of Eq. (2) denotes that
+the lithium intercalated into graphite is to be considered
+as the solute and the graphite as the solvent [8]. If the
+reduction process is rate-controlled by the diffusion of
+dissolved lithium in the graphite host lattice, with the
+concentration gradient located on the graphite side of
+the electrolyte j electrode interface, the corresponding
+current may be derived as follows.
+The time-dependent diffusion in one dimension under
+semi-infinite linear transport conditions is described by
+Fick’s second law.
+@ cLi
+@ t
+ DLi
+@ 2 cLi
+@x2
+(3)
+where t is the time, x is the space coordinate extending
+from the electrolyte j electrode interface into the gra-
+phite, cLi is the local concentration of lithium in the
+graphite, and DLi is the chemical diffusion coefficient of
+lithium in graphite. The appropriate initial and bound-
+ary conditions are as follows.
+t 0; x] 0 cLi  0
+t] 0; x 0  cLi  0
+t 0; x 0 cLi  cLi (x  0)
+(4)
+(5)
+(6)
+Because of the assumption of a reversible electrode
+process, the lithium concentration in the graphite at the
+electrolyte j electrode interface is governed by the
+Nernst equation. It is suggested that, first, the concen-
+tration of lithium ions in pure molten lithium chloride is
+selected as the standard state for activity of lithium ions
+and, second, the saturation concentration of lithium in
+graphite is selected as the standard state for the activity
+of lithium in graphite. With this, the concentration of
+lithium at the surface of the graphite electrode can be
+expressed by the following equation.
+cLi
+E  E 
+
+
+cLi (x 0)
+exp
+rLi
+F
+RT
+(7)
+The time-dependent electric current I (t ) is then given
+by a modified Cottrell equation.
+I (t)FSDLi (@ cLi =@ x)
+ FS(DLi =p)1=2 cLi
+E  E 
+
+
+exp
+(8)
+F
+1
+rLi
+RT
+t1=2
+the graphite
+where S is the geometric surface of
+electrode in contact with the salt melt.
+If the current is reversed after a time period t , the
+initial and boundary conditions are as follows.
+t t; x ] 0
+cLi
+E  E 
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+p
+
+
+
+
+(9)
+x
+DLi t
+exp
+F
+RT
+rLi
+1 erf
+cLi 
+2
+t t; x 0  cLi  0
+t t; x  0
+cLi  0
+(10)
+(11)
+Based on the same assumptions as above, the time-
+dependent electric current I (t ) is now given by the
+following equation.
+I (t) FSDLi (@ cLi =@ x)
+FS(DLi =p)1=2 cLi
+E  E 
+
+
+exp
+F
+
+rLi
+RT
+
+
+1
+(t  t)1=2 
+1
+t1=2
+(12)
+According to Eqs. (8) and (12), the relationships
+between I (t ) and t1/2 as well as I (t ) and [(t/t )1/2/
+t1/2] should be linear, and the absolute values of the
+slopes should be equal for the same applied potential
+provided the process of
+lithium intercalation into
+graphite is reversible.
+Case II. Deposition of lithium onto the graphite sur-
+face. If plain electrodeposition of lithium is the rate-
+controlling process, the current is determined by the
+electron transfer from the graphite onto the lithium ions
+in the salt melt. This type of kinetics is governed by the
+well-known Butler /Volmer equation and provides a
+time-independent electric current.
+3. Experimental
+where cLi (x / 0) is the lithium concentration in the
+graphite at the electrolyte j electrode interface, cLi is the
+saturation concentration of lithium in graphite, rLi is the
+Henrian activity coefficient of lithium in graphite, E is
+the potential applied, E 8 is the standard potential of the
+half-cell reaction expressed by Eq. (2), F is the Faraday
+constant, R is the universal gas constant, and T is the
+absolute temperature.
+Anhydrous lithium chloride was prepared by slow
+heating to 250 8C and holding at this temperature for
+more than 24 h in dry Ar. Experiments were performed
+using a three-terminal electrochemical cell. The working
+electrode (WE) was either a graphite rod of 6.5 mm
+diameter, shielded in an alumina tube and connected to
+a nickel
+lead, or a molybdenum wire of 0.5 mm
+diameter,
+likewise shielded in an alumina tube. A
+18
+Q. Xu et al. / Journal of Electroanalytical Chemistry 530 (2002) 16 /22
+Fig. 1. Schematic representation of the perturbation potential as a
+function of time.
+molybdenum wire was employed as
+the reference
+electrode (RE). A carbon crucible served as the con-
+tainer for the electrolyte and also as the counter
+electrode (CE). The electrochemical experiments were
+carried out in a sealable and water-cooled Inconel†
+reactor, positioned inside a programmable vertical tube
+furnace.
+First, the WEs were characterized by means of cyclic
+voltammetry, applying scan rates of typically 100 mV
+s1. Second, the WEs were subjected to double poten-
+tial step experiments. The perturbation potential as a
+function of time is sketched in Fig. 1. In order to
+simplify the mathematical description of the electrode
+process, a positive potential was initially applied, so it
+may be assumed that, at zero time, neither lithium
+dissolved in the graphite bulk nor lithium deposited on
+the graphite surface were present. The perturbation
+potential was then imposed for the time period A,
+ranging from 0 to t , whereafter the potential was set
+back to the original value for the time period B, ranging
+from t to 2t . t was typically 300 s. During the periods A
+and B, the current was recorded as a function of time.
+The electrochemical measurements were conducted at
+temperatures between 650 and 900 8C under dry Ar
+using the Solartron SI 1287 Electrochemical Interface or
+the Sycopel Scientific Powerstat. The stability of the RE
+potential was confirmed by measuring the potential
+difference between the molybdenum wire and a plati-
+num wire in molten lithium chloride for more than 24 h.
+In the following, all potentials are expressed with respect
+to the molybdenum RE.
+4. Results and discussion
+Figs. 2 and 3 present cyclic voltammograms of the
+molybdenum wire and the graphite rod WEs in molten
+lithium chloride, respectively. Metallic lithium deposi-
+tion on the molybdenum electrode occurs at a potential
+of /1.9 V at 650 8C. Reversing the potential scan then
+yields an anodic wave, which is typical for the stripping
+Fig. 2. Cyclic voltammogram for a molybdenum electrode in molten
+LiCl at a potential scan rate of v /100 mV s1 at 650 8C.
+Fig. 3. Cyclic voltammograms for a graphite electrode in molten LiCl
+at a potential scan rate of v/100 mV s1 (solid line at 650 8C and
+dashed line at 900 8C).
+of a previously adsorbed reaction product. The beha-
+viour of lithium reduction on the graphite electrode is
+different
+from that on the molybdenum electrode.
+Discharge of lithium ions on the graphite electrode
+starts from potentials as high as /0.5 V at 650 8C. The
+reason for this shift of
+the discharge potential
+to
+considerably more positive values consists in the sub-
+sequent dissolution of the lithium reduced into the
+graphite bulk, a process that may take place at lithium
+activities far below unity. This is in fact the same
+phenomenon that causes the voltage degeneration in
+lithium batteries when graphite serves as the anode
+material
+[8,9]. It is also found that the potential of
+lithium reduction on the graphite electrode becomes
+more positive as the temperature increases. A possible
+reason is that the interaction between adjacent graphite
+layers decreases with rising temperature, thereby facil-
+itating the intercalation process.
+A typical chronoamperometric response curve of a
+graphite rod electrode in molten lithium chloride to a
+Q. Xu et al. / Journal of Electroanalytical Chemistry 530 (2002) 16 /22
+19
+Fig. 4. A typical chronoamperometric response curve of a graphite
+electrode in molten LiCl to the double potential step of /1 V at
+775 8C.
+double potential step experiment of /1 V at 775 8C is
+shown in Fig. 4. It is suggested that the first peak,
+corresponding to period A, reflects the reduction of
+lithium from the salt melt followed by intercalation of
+the reduced lithium into the graphite bulk and that the
+second peak, corresponding to period B, represents the
+reverse reaction. However, according to Eq. (8), the It1/2
+values measured during period A should be independent
+of time, whereas it is found from Fig. 5 that these values
+change with time within a short interval after applica-
+tion of the potential, and this effect is more pronounced
+when larger potential steps are applied. Indeed, such an
+apparent discrepancy may be explained by means of an
+ohmic resistance in the circuit
+that
+influences the
+measurement despite the utilization of a RE [10]. This
+resistance originates from the fact that the WE and the
+RE are located on different equipotential lines, as a
+result of which, the electrolyte resistance is only partly
+eliminated in the three-terminal experiments performed.
+Because of this ohmic resistance in the circuit, the
+Fig. 6. Plot of ln[/It1/2] vs. I for a graphite electrode in molten LiCl at
+775 8C (the data in parentheses are the potential steps (E /V)).
+potential Ec that is actually applied to the graphite
+electrode has to be expressed as
+Ec  E  IRV
+(13)
+where RV is the uncompensated ohmic resistance. On
+applying a potential step, the current changes quickly,
+and this gives rise to a fast change in the potential drop
+across the uncompensated ohmic resistance, too. For
+relatively large changes, as is the case immediately after
+application of the potential step and especially with
+higher potential steps, the ohmic voltage drop lowers the
+effective potential to a significant extent and causes the
+measured currents to deviate from those expected from
+Eq. (8). The relationships between ln(/It1/2) and I for
+time intervals ranging from 2 to 40 s after imposition of
+the potential are shown in Fig. 6. The slopes, which
+should depend on the ohmic resistance in the circuit, are
+linear and close to one another, and this is in agreement
+with the fact that the ohmic resistance in the circuit
+should be independent of the applied potential. When
+either the current or the change of the current with time
+Fig. 5. Plot of /It1/2 vs. t for a graphite electrode in molten LiCl at
+775 8C (the data in parentheses are the potential steps (E /V)).
+Fig. 7. Plot of /I vs. t1/2 for a graphite electrode in molten LiCl
+during period A at 775 8C (the data in parentheses are the potential
+steps (E /V)).
+20
+Q. Xu et al. / Journal of Electroanalytical Chemistry 530 (2002) 16 /22
+Fig. 8. Plot of I vs. (t/t ) 1/2/t 1/2 at 775 8C for a graphite
+electrode in molten LiCl during period B (the data in parentheses are
+the potential steps (E /V)).
+Fig. 9. Plot of /I vs. t1/2 for a graphite electrode in molten LiCl
+during period A at 700 8C (the data in parentheses are the potential
+steps (E /V)).
+becomes relatively small, the ohmic voltage drop is
+either negligible or may be considered as a constant, and
+then the relationship between current and time may
+indeed be described in terms of Eq. (8).
+Fig. 7 shows the relationships between the current I
+and the reciprocal square root of time t1/2 measured
+between 60 and 120 s after application of the various
+potential steps during period A at 775 8C. Similar
+dependences were obtained for all other temperatures
+investigated between 650 and 900 8C. The slopes are
+linear in all cases, which, in accordance with Eq. (8),
+indicates that the reduction of lithium at potentials from
+/0.5 to /1.4 V is rate-controlled by the diffusion of
+intercalated lithium in the graphite matrix. Fig. 8 shows,
+the corresponding relationships between I and [(t/
+t )1/2/t1/2] for period B at 775 8C and, in agreement
+with Eq. (12), the slopes are again found to be linear.
+The absolute values of the slopes obtained from the
+individual experiments during the periods A and B at
+different potential steps are summarised in Table 1. In
+Fig. 10. Plot of /I vs. t1/2 for a graphite electrode in molten LiCl
+during period A at 775 8C (the data in parentheses are the potential
+steps (E /V)).
+both cases, the slopes increase with increasing potential,
+which is a consequence of the enhanced lithium con-
+Table 1
+The absolute values of the slopes for the plots of I vs. t1/2 (A) and I vs. (tt )1/2t1/2 (B) for different potential steps at temperatures from 650
+to 900 8C
+Temperature /8C
+10 (the absolute value of the slope)/A s1/2
+Potential step/V
+650 (A)
+(B)
+700 (A)
+(B)
+775 (A)
+(B)
+850 (A)
+(B)
+900 (A)
+(B)
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+1.2
+1.4
+0.23
+0.13
+0.31
+0.31
+0.59
+0.40
+1.2
+0.92
+1.5
+1.1
+0.44
+0.21
+0.65
+0.27
+1.2
+0.78
+2.0
+1.8
+2.2
+2.1
+0.88
+0.71
+1.3
+0.70
+2.1
+1.8
+2.9
+3.2
+3.2
+3.6
+1.6
+0.90
+2.1
+1.7
+3.3
+3.2
+3.9
+5.4
+4.5
+5.8
+2.4
+2.2
+3.2
+3.4
+4.5
+5.4
+5.3
+8.2
+5.7
+9.1
+3.3
+4.3
+4.3
+5.7
+5.9
+8.2
+6.8
+12
+6.9
+12
+5.4
+9.4
+6.8
+12
+8.9
+15
+9.1
+22
+9.6
+19
+9.2
+16
+9.8
+20
+12
+23
+12
+45
+14
+45
+Q. Xu et al. / Journal of Electroanalytical Chemistry 530 (2002) 16 /22
+21
+lithium into the graphite and the deposition of elemental
+lithium onto the graphite determine the current versus
+time plots.
+When the potential applied during period A is more
+negative than /3.8 V, the current versus time plot
+exhibits abrupt fluctuations of the measured current. As
+becomes evident from Fig. 11, the higher the potential
+step, the sooner occurs the onset of these current spikes.
+It is thought that this current fluctuation is attributed to
+the repeated exfoliation of graphite particles from the
+electrode surface and the exposure of the fresh surface to
+the salt melt. Indeed, the occurrence of erosion on the
+graphite electrode during electrolyses carried out under
+these conditions is clearly visible after the experiments.
+Regarding the underlying reaction mechanism,
+it is
+straightforward to assume that, when a large amount
+of lithium intercalates into the graphite electrode in a
+short time, significant mechanical stress is generated
+inside the graphite matrix. When the diffusion of lithium
+is too slow to alleviate this stress,
+the attractive
+interaction between the graphite layers will eventually
+be exceeded, which then results in the observed exfolia-
+tion of graphite particles. As the lithium is present in
+high quantities and distributed homogeneously among
+the graphite layers, the exfoliated entities may be nano-
+sized at least in one dimension and may act as the
+precursors
+in the formation of nano-sized carbon
+materials like tubes and particles. Fig. 11 also illustrates
+that, for potentials more negative than /4.4 V, the
+exfoliation process may be abated after a certain
+amount of time, giving rise to constant currents again.
+The higher the potential step, the sooner this takes
+place. The finding is associated with the rapid build-up
+of a continuous film of liquid elemental lithium on the
+graphite electrode surface. As liquid lithium does not
+wet graphite very well, the mass transfer of lithium into
+the graphite and thus the intercalation process are
+slowed down, causing less erosion. It is likely that
+both the potential dependence and the time dependence
+observed in the lithium reduction at a graphite surface
+under high potentials have a direct impact on the yield
+of carbon nanotubes produced by means of this process.
+5. Conclusions
+From this study, it was found that lithium intercalates
+into a cathodically polarized graphite electrode from
+molten lithium chloride. When the potential applied to
+the graphite electrode is more positive than that for
+metallic lithium deposition,
+the cathodic current
+is
+controlled by the rate of
+lithium diffusion in the
+graphite. The process of
+lithium intercalation into
+graphite was found to be almost reversible within the
+investigated temperature range from 650 to 900 8C.
+When the potential applied is more negative than that
+Fig. 11. Plot of I vs. t at 775 8C for a graphite electrode in molten
+LiCl at applied potential steps from /3.8 to /5.0 V.
+centration gradient generated inside
+the graphite.
+Within experimental error, the slopes obtained for the
+periods A and B for corresponding experiments are
+fairly similar, so it can be concluded that
+lithium
+intercalation into graphite is an almost
+reversible
+process within the temperature range examined.
+Figs. 9 and 10 show the relationships between I and
+t1/2 for the potential steps from /2.0 to /3.8 V
+at 700 8C and from /1.4 to /3.6 V at 775 8C,
+respectively. The absolute values of the slopes decrease
+with increasing potential steps, and at around /3.6 V
+the current becomes independent of time. This time-
+independent current is interpreted as the formation of a
+layer of elemental lithium on the surface of the graphite
+electrode, which is considered to be a simple electron
+transfer reaction, whilst the current associated with the
+intercalation process becomes negligible and no longer
+influences the current versus time behaviour. Accord-
+ingly, the potential range between /2.0 and /3.6 V is
+an intermediate range, in which both the intercalation of
+22
+Q. Xu et al. / Journal of Electroanalytical Chemistry 530 (2002) 16 /22
+for metallic lithium deposition, exfoliation of graphite
+particles from the electrode surface occurs due to
+excessive lithium accumulation, causing destruction of
+the graphite matrix. The degree of exfoliation decreases
+when the graphite surface is covered completely by a
+layer of liquid lithium. The findings are of relevance to
+the preparation of nano-sized carbon materials with this
+method.
+Acknowledgements
+Qian Xu wishes to thank the China Scholar Council
+for ﬁnancial support of her stay at the University of
+Cambridge.
+References
+[1] W.K. Hsu, J.P. Hare, M. Terrones, H.W. Kroto, D.R.M. Walton,
+P.J.F. Harris, Nature 377 (1995) 687.
+[2] W.K. Hsu, M. Terrones, J.P. Hare, H. Terrones, H.W. Kroto,
+D.R.M. Walton, Chem. Phys. Lett. 262 (1996) 161.
+[3] G.Z. Chen, X. Fan, A. Luget, M.S.P. Shaffer, D.J. Fray, J.
+Electroanal. Chem. 446 (1998) 1.
+[4] G. Kaptay, I. Sytchev, J. Miklo´ si, P. Nagy, P. Po´ czik, K. Papp, E.
+Ka´ lma´ n, in: R.W. Berg, K.A. Hjuler (Eds.), Progress in Molten
+Salt Chemistry 1, Elsevier, Amsterdam, 2000, p. 257.
+[5] I. Kinloch, Thesis, University of Cambridge, 2001.
+[6] G.Z. Chen, I. Kinloch, M.S.P. Shaffer, D.J. Fray, A.H. Windle,
+High Temp. Mater. Process. 2 (1998) 459.
+[7] D.J. Fray, High Temp. Mater. Process. 3 (1999) 67.
+[8] M. Jean, C. Desnoyer, A. Tranchant, R. Messina, J. Electrochem.
+Soc. 142 (1995) 2122.
+[9] D. Aurbach, Y. Ein-Eli, B. Markovsky, A. Zaban, S. Luski, Y.
+Carmeli, H. Yamin, J. Electrochem. Soc. 142 (1995) 2882.
+[10] C. John Wen, B.A. Boukamp, R.A. Huggins, W. Weppner, J.
+Electrochem. Soc. 126 (1979) 2258.
